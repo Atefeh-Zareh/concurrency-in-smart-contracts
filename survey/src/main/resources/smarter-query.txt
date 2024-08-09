@@ -1,0 +1,1827 @@
+Title
+Cross-Domain Authentication Scheme Based on Blockchain and Consistent Hash Algorithm for System-Wide Information Management
+Exploration of blockchain technology application in the construction of National Risk Warning System on Landslides; [区块链技术在全国地质灾害风险预警系统建设中的应用探索]
+A Novel Block Transmission Model in Blockchain Networks
+Research on sustainable intelligent model for online catering take-out trashes; [面向在线餐饮外卖垃圾治理的智能可持续生态系统工程模型研究]
+Design of Low-latency Overlay Protocol for Blockchain Delivery Networks
+Privacy-Preserving Decision-Making over Blockchain
+Redactable Transactions in Consortium Blockchain: Controlled by Multi-authority CP-ABE
+Internet Financial Fraud Detection Based on a Distributed Big Data Approach with Node2vec
+SPCBIG-EC: A Robust Serial Hybrid Model for Smart Contract Vulnerability Detection
+Radiotherapy consortium chain—a blockchain-based secure cross-platform sharing solution for radiotherapy data; [放疗联盟链- 基于区块链的放疗数据跨平台安全共享方案]
+Hydrodynamic characteristics of knotless nylon netting normal to free stream and effect of inclination
+Fuzzy rules based efficient event-driven simulation of blockchain-based applications
+Fractal Ledger: A New Approach towards Scalable Blockchain with Graph-Chain Structure
+Robust Blockchain-Based Cross-Platform Audio Copyright Protection System Using Content-Based Fingerprint
+MoSa: A modeling and sentiment analysis system for mobile application big data
+Cross-Chain Digital Asset System for Secure Trading and Payment
+Blockchain-Assisted Public-Key Encryption with Keyword Search against Keyword Guessing Attacks for Cloud Storage
+Optimization Scheme of PBFT Consensus Algorithm Based on Changan Blockchain
+Blockchain-based traceability system adoption decision in the dual-channel perishable goods market under different pricing policies
+Efficient Electronic Transaction Query Model for Light Nodes Based On Optimized Blockchain Structure
+An Efficient Accelerator of the Squaring for the Verifiable Delay Function over a Class Group
+A Blockchain-Based Approach for Patient Data Alignment Across Institutions
+Research on local consensus algorithm based on wireless sensor network of power monitoring system
+A blockchain-enabled learning model based on distributed deep learning architecture
+Exploring gender and race biases in the NFT market
+Aeolus: Distributed Execution of Permissioned Blockchain Transactions via State Sharding
+Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detector Evaluation
+Blockchain based Architecture for Digital-right Management in Scientific Data Sharing
+C-DAG: Community-Assisted DAG Mechanism with High Throughput and Eventual Consistency
+Application of Genetic Algorithm in Parallel Multi-machine Scheduling Problem of Windshield(2018)
+Phantasm: Adaptive Scalable Mining Toward Stable BlockDAG
+BS-KGS: Blockchain Sharding Empowered Knowledge Graph Storage
+Research and Application of Block Chain Technology in Electricity Market Transactions
+Research on the Design of Blockchain-Based Aviation Physical and Chemical Testing System
+Smart contract vulnerability detection combined with multi-objective detection
+DIGITAL TWIN AND BLOCKCHAIN-BASED TRUSTWORTHY OPTIMAL STATE CONTROL STRATEGY FOR DYNAMIC DISTRIBUTED MANUFACTURING SYSTEMS
+TxAllo: Dynamic Transaction Allocation in Sharded Blockchain Systems
+The deformation characteristics and flow field around knotless polyethylene netting based on fluid structure interaction (FSI) one-way coupling
+Decentralized Dynamic Identity Authentication System Based on Blockchain
+Research on the Application Mode of Blockchain Technology in the Field of Shipbuilding
+A Blockchain-Based Privacy-Preserving and Fair Data Transaction Model in IoT
+Blockchain based optimal decision making of dispatchable units in smart grids considering the high uncertainty effects
+NetDDS: A Real-time Interactive Platform Based on the Publish-subscribe Mechanism
+Heterogeneous System Data Storage and Retrieval Scheme Based on Blockchain
+Directed Acyclic Graph as Hashgraph: An Alternative DLT to Blockchains and Tangles
+FortunChain: EC-VRF-Based Scalable Blockchain System for Realizing State Sharding
+A high-throughput DAG-based blockchain protocol
+A Blockchain Based Real-Time Sharing Method for Ideological and Political Mobile Education Resources
+LogBlock: An Anomaly Detection Method on Permissioned Blockchain based on Log-Block Sequence
+LedgerGuard: Improving blockchain ledger dependability
+A Consensus Algorithm for Consortium Chain with Tree Based Master-Slave Multi-Chain Architecture; [基于树形结构构造的联盟链主从多链共识算法]
+Blockchain-based collaborative evolution method for digital twin ontology model of mechanical products; [基于区块链的机械产品数字孪生本体 模型协同演进方法]
+A distributed approach of big data mining for financial fraud detection in a supply chain
+Ðarcher: Detecting on-chain-off-chain synchronization bugs in decentralized applications
+PBTM: A Privacy-Preserving Announcement Protocol With Blockchain-Based Trust Management for IoV
+Accelerating Cross-Shard Blockchain Consensus via Decentralized Coordinators Service With Verifiable Global States
+MorphDAG: A Workload-Aware Elastic DAG-Based Blockchain
+A Parallel Consensus Mechanism Using PBFT Based on DAG-Lattice Structure in the Internet of Vehicles
+A Novel Decentralized Blockchain Networks Model with High Concurrenc(Blockchain Networks Model with High Concurrency)
+ST-PBFT: An Optimized PBFT Consensus Algorithm for Intellectual Property Transaction Scenarios
+Multi-authority Access Control Scheme in Cloud Environment; [云环境中的多授权机构访问控制方案]
+Blockchain-Empowered Vehicular Intelligence: A Perspective of Asynchronous Federated Learning
+Double-Spending with a Sybil Attack in the Bitcoin Decentralized Network
+Federated Control: A Distributed Control Approach Towards Information Security and Rights Protection; [联邦控制: 面向信息安全和权益保护的分布式控制方法]
+Blockchain-based data management mechanism for virtual power plants
+Blockchain-Based Trusted Synchronization Operation Framework for Open Production Logistics System
+A Blockchain-Based cryptographic interaction method of digital museum collections
+A Privacy-Aware PUFs-Based Multiserver Authentication Protocol in Cloud-Edge IoT Systems Using Blockchain
+CycLedger: A Scalable and Secure Parallel Protocol for Distributed Ledger via Sharding
+HotDAG: Hybrid Consensus via Sharding in the Permissionless Model
+Research on Wallet Protection Against Currency Failure in Blockchain; [抗货币失效的区块链钱包保护协议研究]
+Low-latency architecture for the parallel extended GCD algorithm of large numbers
+Counter-collusion smart contracts for watchtowers in payment channel networks
+Research on Blockchain Reconciliation Applications of Intelligent Charging Pile Platforms
+Information Security of New Media Art Platform of Distributed System Based on Blockchain Technology
+K-Go: An executable formal semantics of Go language in K framework
+Decentralized Autonomous Operations and Organizations in TransVerse: Federated Intelligence for Smart Mobility
+Park: Accelerating smart contract vulnerability detection via parallel-fork symbolic execution
+DAGGraph: Blockchain Suitable for Mobile Ad Hoc Networks; [DAGGraph: 适合移动自组网的区块链]
+PPTL model checking for blockchains
+Research on intelligent medical big data system based on Hadoop and blockchain
+Enhancing trusted synchronization in open production logistics: A platform framework integrating blockchain and digital twin under social manufacturing
+A blockchain 3.0 paradigm for digital twins in construction project management
+Efficient and Trusted Data Sharing in a Sharding-Enabled Vehicular Blockchain
+Fintech ecosystem the largest private cryptosystems; [ЭКОСИСТЕМА ФИНТЕХА КРУПНЕЙШИЕ ЧАСТНЫЕ КРИПТОСИСТЕМЫ]
+A storage architecture for high-throughput crop breeding data based on improved blockchain technology
+LightBlock: Reducing Bandwidth Required to Synchronize Blocks in Ethereum Network
+A Parallel-Batch Multi-Objective Job Scheduling Algorithm in Edge Computing
+Modeling and Verification of the Nervos CKB Block Synchronization Protocol in UPPAAL
+Hydrodynamic analysis of a bottom-placed fine-mesh cage and its effects on the transport of particulate organic waste
+Application of Blockchain Technology in the Assessment System
+A Secure Storage Strategy for Blockchain Based on MCMC Algorithm
+BCAS: A blockchain-based ciphertext-policy attribute-based encryption scheme for cloud data security sharing
+Blockchain-assisted computation offloading collaboration: A hierarchical game to fortify IoT security and resilience
+FRAD: Front-Running Attacks Detection on Ethereum Using Ternary Classification Model
+TBDD: A new trust-based, DRL-driven framework for blockchain sharding in IoT
+People Taking Photos That Faces Never Share: Privacy Protection and Fairness Enhancement from Camera to User
+Building PUF as a Service: Distributed Authentication and Recoverable Data Sharing With Multidimensional CRPs Security Protection
+Automatic Discovery Mechanism of Blockchain Nodes Based on the Kademlia Algorithm
+Proxy re-encryption for privacy enhancement in Blockchain: Carpooling use case
+An investigation about 3D imagery to doctors of Osaka Ophthalmologists Aassociation, and 3D-game affection on children who have weak eyesight
+BSCP-MAC: A Blockchain-Based Synchronous Control Polling MAC Protocol for Wireless Sensor Networks
+An attribute-based access control for IoT using blockchain and smart contracts
+Trust-Based Shard Distribution Scheme for Fault-Tolerant Shard Blockchain Networks
+Flash Freezing Flash Boys: Countering Blockchain Front-Running
+Interaction design research based on large data rule mining and blockchain communication technology
+PDPoSt+sPBFT: A High Performance Blockchain-Assisted Parallel Reinforcement Learning in Industrial Edge-Cloud Collaborative Network
+Optimal Sharding for Dynamic Throughput Optimization in Blockchain Systems with Deep Reinforcement Learning
+A semantic differential transaction approach to minimizing information redundancy for BIM and blockchain integration
+Multi-Source Data Privacy Protection Method Based on Homomorphic Encryption and Blockchain
+Convergence of Machine Learning with Blockchain Technology
+A Global Clock Model for the Consortium Blockchains
+CMSS: A High-Performance Blockchain Storage System with Horizontal Scaling Support
+BlockPilot: A Proposer-Validator Parallel Execution Framework for Blockchain
+Learned Sharding toward Sustainable Communications and Networking in Blockchains
+TransOra: A Transaction-preserving and Transparent Distributed Oracle on Permissioned Blockchain For Hybrid Smart Contracts
+BookChain: Library-free book sharing based on blockchain technology
+An AST-based consistency maintenance scheme for cross-chain digital assets
+RapidChain: Scaling blockchain via full sharding
+A hybrid consensus algorithm for master–slave blockchain in a multidomain conversation system
+Securing e-voting based on blockchain in P2P network
+Parallel Manufacturing for Industrial Metaverses: A New Paradigm in Smart Manufacturing
+Model construction and application of agricultural machinery cross-region scheduling based on blockchain; [基于区块链的农机跨区域调度模型构建与应用]
+Research and Application of Power Grid Control System Based on Blockchain
+Research and application of hyperledger fabric based on VRF on electronic order
+Do barriers influence motion correspondence?
+Considering Chainless Interoperability across Many Parachains
+Effects of dietary organic and inorganic manganese supplementation on performance, egg quality and bone mineralisation in laying hens
+Generative AI Empowering Parallel Manufacturing: Building a &#x201C;6S&#x201D; Collaborative Production Ecology for Manufacturing 5.0
+Secure and Efficient Runtime Environment for Smart Contracts on JointCloud
+A Hybrid Model for Central Bank Digital Currency Based on Blockchain
+Optimization Research and Exploration of New Rural Cooperative Medical Information System
+Secure and Efficient Federated Learning Through Layering and Sharding Blockchain
+Resumable Zero-Knowledge for Circuits from Symmetric Key Primitives
+GIG-ECONOMY AS A SAFETY GRADIENT FOR SUSTAINABLE DEVELOPMENT OF THE MINING INDUSTRY; [Гіг-економіка як безпековий градієнт сталого розвитку видобувної галузі]
+Post-Quantum Blockchain-Based Data Sharing for IoT Service Providers
+RBAC-GL: A Role-Based Access Control Gasless Architecture of Consortium Blockchain
+Improving Bitcoin Transaction Propagation Efficiency through Local Clique Network
+A Provably Secure and Efficient 5G-AKA Authentication Protocol using Blockchain
+Hierarchically authorized transactions for massive internet-of-things data sharing based on multilayer blockchain
+Research on Node Collaborative Storage Method for Consortium Chain Ledger Data
+Preventing Price Manipulation Attack by Front-Running
+SHealth: A Blockchain-Based Health System with Smart Contracts Capabilities
+A State Merge-based Proposer-Builder Separation for Mitigating Maximum Extractable Value Threats in State Sharding
+Blockvote - Blockchain based e-voting system
+L2chain: Towards High-performance, Confidential and Secure Layer-2 Blockchain Solution for Decentralized Applications
+Modelling cryptocurrency high–low prices using fractional cointegrating VAR
+Overview of blockchain assets theft attacks and defense technology
+Resistance performance and fluid-flow investigation of trawl plane netting at small angles of attack
+Blockchain Based System for Secure Production Information Management
+Smart-Contract Execution with Concurrent Block Building
+Consensus in Lens of Consortium Blockchain: An Empirical Study
+Uncle Maker: (Time)Stamping Out The Competition in Ethereum
+SmartDT: An Effective Vulnerability Detection System of Smart Contracts Based on Deep Learning
+Decentralized Digital Certificate Revocation System Based on Blockchain
+Social optimization of blockchain system based on a discrete-time G-limited queuing; [基于离散时间G-限量排队的区块链系统的社会最优]
+Fabrication of Flexible Role-Based Access Control Based on Blockchain for Internet of Things Use Cases
+OHIE: Blockchain scaling made simple
+Parallel Blockchain: Concept, Methods and Issues
+Garou: An Efficient and Secure Off-Blockchain Multi-Party Payment Hub
+SkyChain: A Deep Reinforcement Learning-Empowered Dynamic Blockchain Sharding System
+ArmChain - A Blockchain Based Sensor Data Communication for the Vehicle as a Mobile Sensor Network
+F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection
+Efficient User Inspection Algorithm Based on Dual Bloom Filters Oriented for Blockchain Data Management Systems
+A Persistent Data Structure for Managing Digital Identity Data Implemented on the Blockchain
+A Medical Data Sharing Model via Blockchain
+TxChain: Scaling Sharded Decentralized Ledger via Chained Transaction Sequences
+MeHLDT: A multielement hash lock data transfer mechanism for on-chain and off-chain
+PBCert: Privacy-Preserving Blockchain-Based Certificate Status Validation Toward Mass Storage Management
+Research on Performance of Asymmetric Polling System Based on Blockchain
+Adaptive Parallel Scheduling Scheme for Smart Contract
+PACE: Fully Parallelizable BFT from Reproposable Byzantine Agreement
+Edge-Cloud Blockchain and IoE-Enabled Quality Management Platform for Perishable Supply Chain Logistics
+Power Blockchain Guarantee Mechanism Based on Trusted Computing
+Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap
+The Blockchain for Domain Based Static Sharding
+Blockchain and SC-PBFT Enabled Traceability Method for Vaccine Supply Chain
+Towards blockchain-based intelligent transportation systems
+Game theoretical framework for analyzing blockchains robustness
+A parallel smart contract model
+LMQF: Hyperledger Fabric Concurrent Transaction Conflict Solution Based on Distributed Lock and Message Queue
+Deep learning personalized recommendation-based construction method of hybrid blockchain model
+State synchronization in process-oriented chaincode
+Blockchain-Based Multi-Authority Ciphertext-Policy Attribute-Based Encryption Scheme with Equality Test; [基于区块链的多授权密文策略属性基等值测试加密方案]
+The Unified Authority Platform based on High Performance Blockchain
+Distributed public key infrastructure scheme based on blockchain and decentralized undeniable attribute-based signature; [基于区块链和去中心不可否认属性签名的分布式公钥基础设施方案]
+ENET: Efficient Blockchain Consensus Algorithm Based on Evil Node Elimination Tree
+DStore: A distributed cloud storage system based on smart contracts and blockchain
+A High Performance Blockchain PGPBFT Consensus Algorithm in Integrated Circuit Protection Applications
+Blockchain-Enabled Parallel Learning in Industrial Edge-Cloud Network: A Fuzzy DPoSt-PBFT Approach
+An Efficient Data Reduction Method for DAG Blockchain
+ChainSFL: Blockchain-driven federated learning from design to realization
+Logistics dynamic information retrieval based on blockchain data security model
+A Blockchain Communication Resource Optimization Consensus Method
+Enabling concurrency on smart contracts using multiversion ordering
+Linear Scalability from Sharding and PoS
+Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles
+A High-Speed Data Retrieval Model on Blockchain
+A novel sustainable interchain network framework for blockchain
+Institutional innovation essence and knowledge innovation goal of intellectual property law in the big data era
+Decentralized access control for secure microservices cooperation with blockchain
+Deep-Learning-Driven Secure Offline Blockchain in a Cyber-Physical Social System
+Mitigating Conflicting Transactions in Hyperledger Fabric-Permissioned Blockchain for Delay-Sensitive IoT Applications
+SC-Chef: Turboboosting Smart Contract Concurrent Execution for High Contention Workloads via Chopping Transactions
+A Proxy-Layer Approach to Secure Smart Contract Deployment on Private EVM-Based PoA Blockchains
+Blockchain Simulation Environment on Multi-image Encryption for Smart Farming Application
+Design of cross-system identity authentication system suitable for new-type electric power system
+Privacy-preserving trust management method based on blockchain for cross-domain industrial IoT
+Delay-Aware Cooperative Caching for On-Chain Authentication in LEO Satellite Communication Systems
+Manufacturing industry supply chain management based on the ethereum blockchain
+Slimchain: Scaling blockchain transactions through off-chain storage and parallel processing
+Reinforced practical Byzantine fault tolerance consensus protocol for cyber physical systems
+Committee Selection Based on Game Theory in Sharding Blockchain
+Locking Mechanism for Concurrency Conflicts on Hyperledger Fabric
+RAC-Chain: An Asynchronous Consensus-based Cross-chain Approach to Scalable Blockchain for Metaverse
+Agent-based Turing Complete Transactions integrating feedback within a Blockchain System
+High-Efficiency Blockchain-Based Supply Chain Traceability
+SPCEX: Secure and Privacy-preserving Cryptocurrency Exchange
+A Runtime Information Based Defense Technique for Ethereum Smart Contract; [一种基于运行时信息的以太坊智能合约防御技术]
+Evolved PoW: Integrating the Matrix Computation in Machine Learning Into Blockchain Mining
+Application of blockchain technology in distributed energy transaction; [区块链技术在分布式能源交易中的应用]
+Trusted data access and authorization protocol
+Experimental characterization of microstructure development for calculating fabric and stiffness tensors in salt rock
+Industrial multi-link collaborative data sharing method based on blockchain
+Revocable Certificateless Cross-Domain Authentication Scheme Based on Primary&#x2013;Secondary Blockchain
+SofitMix: A Secure Offchain-Supported Bitcoin-Compatible Mixing Protocol
+A Data Lightweight Scheme for Parallel Proof of Vote Consensus
+AirCon: Over-the-Air Consensus for Wireless Blockchain Networks
+Application of Blockchain News Production Based on Digital Encryption Technology
+ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts
+Social Metaverse: Challenges and Solutions
+Piggy-back Network to Enable beyond 5G Society Supported by Autonomous Mobilities: Transaction Record Management with DAG-based Distributed Ledger
+FabricETP: A high-throughput blockchain optimization solution for resolving concurrent conflicting transactions
+Performance of blockchain technology on DoD tactical networks
+Modeling the Impact of Network Connectivity on Consensus Security of Proof-of-Work Blockchain
+Intelligent manufacturing security model based on improved blockchain
+Numerical analysis of design parameters with strong influence on the aerodynamic efficiency of a small-scale self-pitch VAWT
+MagpieBFT: An Efficient Asynchronous BFT Protocol for Blockchain
+A performance evaluation method of queuing theory based on Cosmos cross-chain platform
+FPGA Accelerator for 3DES Algorithm Based on OpenCL
+An efficient sharding consensus algorithm for consortium chains
+The implications of decentralization in blockchained federated learning: Evaluating the impact of model staleness and inconsistencies
+Multi-Candidate Voting Model Based on Blockchain
+Geometrical Parameters Influencing the Aerodynamic Efficiency of a Small-Scale Self-Pitch High-Solidity VAWT
+An Efficient Offloading Scheme for Blockchain-Empowered Mobile Edge Computing
+Hypoglycemia-activated Hypothalamic Microglia Impairs Glucose Counterregulatory Responses
+Bloom Filter Optimization for Consortium Blockchain; [用于联盟链的布隆过滤器优化]
+Distributed Timestamp Mechanism Based on Verifiable Delay Functions
+Optimized byzantine fault tolerant algorithm for improving performance and security with trust values
+An Optimized Scheduling Algorithm for the Multi-channel Hyperledger Fabric
+Scaling proof-of-authority protocol to improve performance and security
+Toward Data Integrity Architecture for Cloud-Based AI Systems
+Privacy preserving personalized blockchain reliability prediction via federated learning in IoT environments
+A secure and efficient data deduplication framework for the internet of things via edge computing and blockchain
+A secure multi-party payment channel on-chain and off-chain supervisable scheme
+Regional Cooperative Authentication Protocol for LEO Satellite Networks Based on Consensus Mechanism; [基于共识机制的LEO低轨卫星网络区域合作认证协议]
+UAVs-Aided Delay-Tolerant Blockchain Secure Offline Transactions in Post-Disaster Vehicular Networks
+Private Transaction Retrieval for Lightweight Bitcoin Clients
+When Quantum Information Technologies Meet Blockchain in Web 3.0
+Nezha: Exploiting Concurrency for Transaction Processing in DAG-based Blockchains
+SmartSync: Cross-Blockchain Smart Contract Interaction and Synchronization
+Instant Function Calls Using Synchronized Cross-Blockchain Smart Contracts
+Agent-based turing-complete transactions integrating feedback within a blockchain system
+Optimizing Parallel Proof of Vote Consensus Based on Mimic Security in Consortium Blockchains
+Decentralized Access Control for Secure Microservices Cooperation with Blockchain
+LIGHTWEIGHT ANONYMOUS KEY SHARING AUTHENTICATION PROTOCOL FOR RESOURCE-CONSTRAINED IOT DEVICES
+Resource-Efficient DAG Blockchain with Sharding for 6G Networks
+Proof of Previous Transactions (PoPT): An Efficient Approach to Consensus for JCLedger
+Decentralized and Incentivized Federated Learning: A Blockchain-Enabled Framework Utilising Compressed Soft-Labels and Peer Consistency
+betasCo: Consortium blockchain system based on smart Contract-oriented sharding; [betasCo: 面向智能合约分片的联盟区块链系统]
+Solutions for concurrency conflict problem on Hyperledger Fabric
+DAPS: A Decentralized Anonymous Payment Scheme with Supervision
+AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication
+X-Shard: Optimistic Cross-Shard Transaction Processing for Sharding-Based Blockchains
+Concurrent Practical Byzantine Fault Tolerance for Integration of Blockchain and Supply Chain
+A CONTRIBUTION TO THE THEORY OF SLIP FACTOR FOR RADIAL FLOW FANS
+A new experimental method to test the tensile strength of achilles tendons; [Eine neue Versuchsanordnung zur Belastbarkeitsprüfung von Achillessehnen]
+RemoteBlock: A Scalable Blockchain Storage Framework for Ethereum
+An integrated framework for blockchain-enabled supply chain trust management towards smart manufacturing
+Research on Copyright Protection of Digital Works Based on Multi-blockchain
+The behavior and determinants of illiquidity in the non-fungible tokens (NFTs) market
+A Semantic-Integrated LSM-Tree-Based Key-Value Storage Engine for Blockchain Systems
+Application of computer technology in supply chain management
+Research on control strategy and policy optimal scheduling based on an improved genetic algorithm
+Efficient Face Recognition via Multi-UAV-Edge Collaboration in UAV Delivery Service
+A Parallel Execution Model for Permissioned Blockchain Systems
+CNN Partitioning and Offloading for Vehicular Edge Networks in Web3
+Improving Blockchain Scalability from Storage Perspective
+MWPoW+: A Strong Consensus Protocol for Intra-Shard Consensus in Blockchain Sharding
+EBTree: A B-plus Tree Based Index for Ethereum Blockchain Data
+Blockchain bookkeeping optimization scheme based on threshold ring signature
+A flexible n/2 adversary node resistant and halting recoverable blockchain sharding protocol
+Efficient Execution of Blockchain Transactions Through Deterministic Concurrency Control
+An FPGA Implementation of SipHash
+UAVs Assisted Secure Blockchain Offline Transactions for V2V Charging Among Electric Vehicles in Disaster Area
+XuperChain: A blockchain system that supports smart contracts parallelization
+BPDST: Blockchain-Based Privacy-Preserving Data Sharing on Thin Client for Electronic Medical Records
+Metaverse Native Communication: A Blockchain and Spectrum Prospective
+GARET: improving throughput using gas consumption-aware relocation in Ethereum sharding environments
+Infinity Battle: A Glance at How Blockchain Techniques Serve in a Serverless Gaming System
+ConsortiumDNS: A Distributed Domain Name Service Based on Consortium Chain
+On blockchain technology and machine learning algorithms in concurrent engineering
+An Optimization Strategy for PBFT Consensus Mechanism Based on Consortium Blockchain
+Application of IOT in Exploring the Development Path of the Whole Agricultural Industry Chain under the Perspective of Ecological Environment
+Efficient Concurrent Execution of Smart Contracts in Blockchain Sharding
+Beh-Raft-Chain: A Behavior-Based Fast Blockchain Protocol for Complex Networks
+A Framework for Data Privacy Preserving in Supply Chain Management Using Hybrid Meta-Heuristic Algorithm with Ethereum Blockchain Technology
+sChain: An Efficient and Secure Solution for Improving Blockchain Storage
+A Blockchain Query Optimization Method Based on Hybrid Indexes
+PBFT optimization algorithm based on community contributions
+Parallel Blockchain: An Architecture for CPSS-Based Smart Societies
+Blockchain-Powered Parallel FinTech Regulatory Sandbox Based on the ACP Approach
+Towards Machine-Learning-Based 5G and Beyond Intelligent Networks: The MARSAL Project Vision
+Application of BIM Algorithm and Block Chain Technology in the Construction of Agricultural Safety Traceability System
+BlockTree: a nonlinear structured, scalable and distributed ledger scheme for processing digital transactions
+Multi objective optimization model and algorithm of logistics service transaction matching on blockchain platform
+Secure and Scalable Blockchain for IIoT with Dual Compression Scheme
+Design and Analysis of an Effective Securing Consensus Scheme for Decentralized Blockchain System
+RepShard: Reputation-based Sharding Scheme Achieves Linearly Scaling Efficiency and Security Simultaneously
+A Blockchain-Based IoT Data Management System for Secure and Scalable Data Sharing
+A Middleware Approach to Synchronize Transaction Data to Blockchain
+Dodo: A scalable optimistic deterministic concurrency control protocol
+Achieving fairness in the tangle through an adaptive rate control algorithm
+SP-PoR: Improve blockchain performance by semi-parallel processing transactions
+Multi-round Consensus Scheme that Utilizes Statemerge to Reduce the Rollback Probability under State Sharding
+The future of cross-border wholesale payments: Mobilising central bank money across borders
+A Deep Reinforcement Learning Approach for Competitive Task Assignment in Enterprise Blockchain
+A medical data sharing platform based on permissioned blockchains
+A two-layer consortium blockchain with transaction privacy protection based on sharding technology
+Nuclear Energy 5.0: New Formation and System Architecture of Nuclear Power Industry in the New IT Era
+Reducing Privacy of CoinJoin Transactions: Quantitative Bitcoin Network Analysis
+Reducing Revocation Latency in IoV using Edge Computing and Permissioned Blockchain
+Synchronous Blockchain-Based Distributed Provable Data Possession With Forward-Security
+Asynchronous Federated Learning System Based on Permissioned Blockchains
+Survey on Blockchain Consensus Algorithms and Application
+Research on the improved PBFT consensus algorithm based on credit mechanism
+Parallel Intelligence in Metaverses: Welcome to Hanoi!
+Transportation 5.0 in CPSS: Towards ACP-based society-centered intelligent transportation
+Online and Offline Channel Data Integration of Internet Smart Retail Under the Background of Parallel Blockchain Algorithm and Computational Intelligence
+Decentralized CRL Management for Vehicular Networks With Permissioned Blockchain
+Research on the Application of Blockchain in Credit Bank
+One for all: Efficient verifiable dynamic multi-user searchable encryption in the presence of corrupted users
+An Analytical Study of Selfish Mining Attacks on Chainweb Blockchain
+BKI: Towards accountable and decentralized public-key infrastructure with blockchain
+MULTIMODAL MOBILITY FRAMEWORK: Towards SEAMLESS MOBILITY EXPERIENCE
+PnV: An Efficient Parallel Consensus Protocol Integrating Proof and Voting
+SMChain: A scalable blockchain protocol for secure metering systems in distributed industrial plants
+Towards Efficient Blockchain-Based Cross-Domain Trust Reputation Management for LS-HetNet
+Construction of Intelligent Management System Model Based on Multi-value Chain Collaboration Data Space
+Smart Contract Service Optimization in Blockchain-Cloud Collaborative Computing
+A Novel DAO-Based Parallel Enterprise Management Framework in Web3 Era
+The Adversary Capabilities in Practical Byzantine Fault Tolerance
+Towards Synchronized Privacy-Preserving Authentication for MDTEN-Driven VANETs
+Multi-stage data synchronization for public blockchain in complex network environment
+Securing Parallel-chain Protocols under Variable Mining Power
+Fairness-Aware Privacy-Preserving Record Linkage
+Design of Decentralized Online Guidance Platform for College English Translation based on Blockchain Networking Algorithm
+Distributed and Collaborative Tree Architecture: A Low-cost Experimental Approach for Smart Forest Monitoring
+GSCS: General Secure Consensus Scheme for Decentralized Blockchain Systems
+DALedger: Towards High-Performance Transaction Processing for Collaborative Decentralized Applications
+Data interoperability technology based on chain-network convergence
+VRDF: a Network Slicing Algorithm Based on VRF and VDF
+ContractGuard: Defend Ethereum Smart Contracts with Embedded Intrusion Detection
+Construction of VMI mode supply chain management system based on block chain
+HIBEChain: A Hierarchical Identity-Based Blockchain System for Large-Scale IoT
+ChainFileSynch: An Innovate File Synchronization for Cloud Storage with Blockchain
+Monoxide: Scale out blockchain with asynchronous consensus zones
+Design and implementation of a public security law enforcement electronic evidence system based on blockchain technology
+Survey of Directed Acyclic Graph Based Blockchain Technology
+Accounting Transparency, Fear Sentiment and the COVID-19 Epidemic: For Public Health Security and the Construction of an Early Warning System
+Secure and Flexible Data Sharing With Dual Privacy Protection in Vehicular Digital Twin Networks
+Parallel Management: The DAO to Smart Ecological Technology for Complexity Management Intelligence; [平行管理: 复杂性管理智能的生态科技与智慧管理之 DAO]
+Bitcoin and stone money: Anglophone use of Yapese economic cultures, 1910-2020
+Multi-scene Classification of Blockchain Encrypted Traffic
+Tree Architecture & Blockchain Integration: An off-the-shelf Experimental Approach
+Data Anomaly Detection with Parallelizing CDP Algorithm
+Secure Data Transactions based on Hash Coded Starvation Blockchain Security using Padded Ring Signature-ECC for Network of Things
+Blockchain enabled verification for cellular-connected unmanned aircraft system networking
+Revamp Perception of Bitcoin Using Cognizant Merkle
+Fast intensive validation on blockchain with scale-out dispute resolution
+Strongly Synchronized Redactable Blockchain Based on Verifiable Delay Functions
+Investigation of the shear flow effect on secondary flow and losses in a low speed axial flow compressor cascade
+A Universally Composable Linkable Ring Signature Supporting Stealth Addresses
+Model for Data Access Control and Sharing Based on Blockchain; [应用区块链的数据访问控制与共享模型]
+Throughput Model of Starlike Sharding Structure for Blockchains and Its Applications; [区块链星型分片架构通量模型及应用]
+A Blockchain-Based Secured Land Record System Using Hyperledger Fabric
+Taking Another Look at the Use of Bloom Filters in Bitcoin
+Game-Theoretical Analysis of Mining Strategy for Bitcoin-NG Blockchain Protocol
+K-Bucket based raft-like consensus algorithm for permissioned blockchain
+Performance Analysis on Block Size Valuation of Hyperledger Fabric Blockchain
+A U-shaped relationship between the crypto fear-greed index and the price synchronicity of cryptocurrencies
+Phoenix: A Live Upgradable Blockchain Client
+A Selfish Attack on Chainweb Blockchain
+Adaptive Byzantine Fault-Tolerant ConsensusProtocol
+Building operation and maintenance scheme based on sharding blockchain
+SoK: DAG-based Blockchain Systems
+ChainSplitter: Towards blockchain-based industrial IoT architecture for supporting hierarchical storage
+An Efficient Customized Blockchain System for Inter-Organizational Processes
+A Trust Mechanism of Internet of Vehicles Based on Hotstuff Consensus Algorithm
+IEEE Council on Radio-Frequency Identification: History, Present, and Future Vision
+Distributed load-balancing for account-based sharded blockchains
+CHChain: Secure and parallel crowdsourcing driven by hybrid blockchain
+Improved diffuser/volute combinations for centrifugal compressors
+Fast-to-Finalize Nakamoto-Like Consensus
+Enhancing blockchain performance using parallel merkle root and parallel proof of work
+An efficient parallel machine learning-based blockchain framework
+A commons-compatible implementation of the sharing economy: Blockchain-based open source mediation
+Shadows: Blockchain Virtualization for Interoperable Computations in IIoT Environments
+An Identity Privacy-Preserving Scheme against Insider Logistics Data Leakage Based on One-Time-Use Accounts
+Kernel Based Cache Effect on Blockchain Node Synchronization
+E-voting based on block chain technology
+The Dpex-Framework: Towards Full WFMS Support for Decentralized Process Execution
+Combining Blockchain with an E-Kanban System for Pull Leveling of an Assembly Line
+A blockchain-based framework for electronic medical records sharing with fine-grained access control
+A Blockchain-Based P2P Transaction Method and Sensitive Data Encoding for E-Commerce Transactions
+A Scalable Sharding Protocol Based on Cross-Shard Dynamic Transaction Confirmation for Alliance Chain in Intelligent Systems
+Characteristics of price related fluctuations in non-fungible token (NFT) market
+Blockchain-based IoT Device Security
+SecurePrune:Secure block pruning in UTXO based blockchains using Accumulators
+Parallel Block Execution in SoCC Blockchains through Optimistic Concurrency Control
+Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention
+Evaluation of Hash Rate-based Double-Spending based on Proof-of-Work Blockchain
+RCANE: Semi-Centralized Network of Parallel Blockchain and APoS
+IS2N: Intent-Driven Security Software-Defined Network with Blockchain
+A high-concurrency blockchain model for large-scale medical cohort data storage and sharing
+NFT and digital art: New possibilities for the consumption, dissemination and preservation of contemporary works of art; [NFT y arte digital: Nuevas posibilidades para el consumo, la difusión y preservación de obras de arte contemporáneo]
+Forecasting Bitcoin closing price series using linear regression and neural networks models
+Improving the Verification Step of Wesolowski's Verifiable Delay Function using efficient Double Modular Exponentiation
+Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm
+A New Blockchain Design Decoupling Consensus Mechanisms from Transaction Management
+Characterizing Performance Limits in Payment Channel Networks
+High efficiency collection of fly ash in a parallel flow, moving granular bed filter.
+Research on application of logistics service quality management based on blockchain
+VRBC: A Verifiable Redactable Blockchain with Efficient Query and Integrity Auditing
+An experimental evaluation of the scalability of permissioned blockchains
+Agile supply chain management in agricultural business
+Research on E-voting Based on Blockchain
+Gossiping for Communication-Efficient Broadcast
+Protecting Digital Currency Transactions on Bitcoin Networks Against Delay-Based Attacks∗
+Management tools in the context of NBIC convergence
+A novel secure aware privacy preserved data sharing framework in an E-government system based on a consortium blockchain
+Collaborative Blockchain for Space-Air-Ground Integrated Networks
+Exploring the COVID-19 Pandemic as a Catalyst for Behavior Change Among Patient Health Record App Users in Taiwan: Development and Usability Study
+On Adaptive Client/Miner Selection for Efficient Blockchain-Based Decentralized Federated Learning
+Architecture and Performance Comparison of Permissioned Blockchains Platforms for Smart Contracts
+Prospects for Implementing Blockchain Data Storage Technology as a Process of Digital Transformation of Society
+A Consensus-Based Load-Balancing Algorithm for Sharded Blockchains
+The effect of netting solidity ratio and inclined angle on the hydrodynamic characteristics of knotless polyethylene netting
+Formalizing Gremlin pattern matching traversals in an integrated graph Algebra
+Simulation of Front-Running Attacks and Privacy Mitigations in Ethereum Blockchain
+A Blockchain Based Scalable Domain Access Control Framework for Industrial Internet of Things
+Distributed Anonymous e-Voting Method Based on Smart Contract Authentication
+A Trust Management-Based Route Planning Scheme in LBS Network
+On sharding open blockchains with smart contracts
+SOBC: A Smart Ocean Oriented Blockchain System for Cross-organizational Data Sharing
+The Roadmap of Communication and Networking in 6G for the Metaverse
+Application research of blockchain technology in logistics supply chain
+Decentralized Cloud Scheduling via Smart Contracts. Operational constraints and costs
+Relayer-Enabled Sharding Blockchain for Satellite Internet with High Concurrency
+A solution for state conflicts of smart contract in interaction with non-blockchain
+BFLMeta: Blockchain-Empowered Metaverse with Byzantine-Robust Federated Learning
+Smart Contract Defect Detection Based on Parallel Symbolic Execution
+Reproducibility analysis on shear wave elastography (SWE)-based quantitative assessment for skin elasticity
+Analysis of Smart Contract Abstraction in Decentralized Blockchain Based Stock Exchange
+Origins of knowledge
+Efficient full compliance checking of concurrent components for business process models
+Snapping Snap Sync: Practical Attacks on Go Ethereum Synchronising Nodes
+The influence of low solidity vaned diffusers on the static pressure non-uniformity caused by a centrifugal compressor discharge volute
+Hydrodynamic characteristics of knotted and knotless purse seine netting panels as determined in a flume tank
+Improved PBFT Algorithm Based on K-Means Clustering for Emergency Scenario Swarm Robotic Systems
+A Cross-Modal Face Reconstruction Method for Service on Blockchains
+The Role of Blockchain in Internet of Vehicles (IoV): Issues, Challenges and Opportunities
+A blockchain-driven data exchange model in multi-domain IoT with controllability and parallelity
+Parallel classification of spatial points into geographical regions
+Basil: Breaking up BFT with ACID (transactions)
+A customer satisfaction centric food delivery system based on blockchain and smart contract
+Cross-chain exchange by transaction dependence with conditional transaction method
+On Sharding Across Heterogeneous Blockchains
+Optimized Transaction Processing in Lightweight Distributed Ledger Networks for Internet of Things
+Experimental and Numerical Investigations of the Hydrodynamic Characteristics, Twine Deformation, and Flow Field Around the Netting Structure Composed of Two Types of Twine Materials for Midwater Trawls
+Stretch-BFT: Workload-Adaptive and Stretchable Consensus Protocol for Permissioned Blockchain
+Towards blockchain-based reputation-aware federated learning
+The application of blockchain of custody in criminal investigation process
+SciAP: A Programmable, High-Performance Platform for Large-Scale Scientific Data
+Hydrocolloids as a tool for modulating the expected satiety of milk-based snacks
+Blockchain-Based Data Storage Model for Land Survey; [基于区块链的土地数据存储模型]
+Identity-Based Identification Scheme without Trusted Party against Concurrent Attacks
+An Improved-PoA Consensus Algorithm for Blockchain-empowered Data Sharing System
+Task-Free Recovery and Spatial Characterization of a Globally Synchronized Network from Resting-State EEG
+A Study on a Decentralized Network Secured Data Sharing using Blockchain
+Enhancing BIM security in emergency construction projects using lightweight blockchain-as-a-service
+CryptoConcurrency: (Almost) Consensusless Asset Transfer with Shared Accounts
+Matrix Syncer - A Multi-chain Data Aggregator for Supporting Blockchain-Based Metaverses
+GBCL: Reduce Concurrency Conflicts in Hyperledger Fabric
+Latency Evaluation in Ad-hoc IoT-Blockchain Network
+(Short paper) towards more reliable bitcoin timestamps
+Measurements on gill nets in a flume tank
+Improved diffuser/volute combinations for centrifugal compressors
+Implementation of SHA 256 using MATLAB and on FPGA by the Application of Block Chain Concepts
+Pointcheval-Sanders Signature-Based Synchronized Aggregate Signature
+Blockchain Based n-party Virtual Payment Model with Concurrent Execution
+Smart-Contract Based System Operations for Permissioned Blockchain
+Dns service model based on permissioned blockchain
+Experimental study of the drag on fine-mesh netting
+Verifiable state machines
+Blockchain-based e-cheque clearing framework with trust based consensus mechanism
+A secure decentralised finance framework
+InstantChain: Enhancing Order-Execute Blockchain Systems for Latency-Sensitive Applications
+INDF: Efficient Transaction Publishing in Blockchain
+Creating Trust Within Population of Evolutionary Computation in an Uncertain Environment Using Blockchain
+Multi-blockchain-based iot data processing techniques to ensure the integrity of iot data in aiot edge computing environments
+Scew: Programmable bft-consensus with smart contracts for client-centric p2p web applications
+Empirical Evaluation of Self-Sovereign Identity Technology
+Aggregating atomic clocks for time-stamping
+Transform blockchain into distributed parallel computing architecture for precision medicine
+Blockchain based E-Cheque clearance framework
+A Model of Multi-energy Complementation and Safety Transaction on Heterogeneous Energy Blockchain; [异构能源区块链的多能互补安全交易模型]
+AI blockchain platform for trusting news
+Distributed Routing Algorithms for Concurrent Execution of Transactions in PCNs
+A Blockchain Solution for Enhancing Risk Management and Transparency in Loan Disbursements
+ERC20: Correctness via Linearizability and Interference Freedom of the Underlying Smart Contract
+Blockchain based share economy trust point: Case study based validation
+Characterizing Wealth Inequality in Cryptocurrencies
+Privacy preserving biometric identification on the bitcoin blockchain
+Node Selection Model for Block Transmission in a Blockchain Network
+A Blockchain-Enabled Secure Digital Twin Framework for Early Botnet Detection in IIoT Environment
+Service-Aware Dynamic Sharding Approach for Scalable Blockchain
+On the Design of a Blockchain Platform for Clinical Trial and Precision Medicine
+Histopathology Breast Cancer Detection and Classification using Optimized Superpixel Clustering Algorithm and Support Vector Machine
+Towards the Trusted Population-Based Optimization Systems
+Blurring the lines between blockchains and database systems: The case of hyperledger fabric
+Smart Contract Reentrancy Vulnerability Detection Method Based on Deep Learning Hybrid Model
+ODOB: One drone one block-based lightweight blockchain architecture for internet of drones
+Adaptive cloud application tuning with enhanced structural Bayesian optimization
+Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning
+AgileShard: Turning the Sharded Blockchain into a Real-Time Transaction Processing System
+A Framework of Runtime Monitoring for Correct Execution of Smart Contracts
+Blockchain: Mind the gap! Lessons learnt from the net neutrality debate and competition law related aspects
+Research on Blockchain Data Availability and Storage Scalability
+Extend PBFT Protocol with L-DAG
+Analytical Modeling and Throughput Computation of Blockchain Sharding
+Which Blockchain to choose? A decision support tool to guide the choice of Blockchain technology; [Quelle Blockchain choisir? Un outil d’aide à la décision pour guider le choix de technologie Blockchain]
+Deep blockchain-enabled security enhancement in trade finance
+An NDN-Enabled Differentiated Routing Strategy for Blockchain
+Leveraging Federated Clouds for Improving Blockchain Performance
+LT Code Based Blockchain Synchronization for Vehicular Fog Computing
+Supervisory Control of Blockchain Networks
+Preventing return fraud in reverse logistics—A case study of espres solution by ethereum
+The new ecosystem of cross-border e-commerce among Korea, China and Japan based on blockchain
+Call for Collaboration: DNS Integrations
+Law of one price and return on Arbitrage Trading: Bitcoin vs. Ethereum
+Temporal Debiasing using Adversarial Loss based GNN architecture for Crypto Fraud Detection
+SCoIoT: Swarm-Computations for the Internet of Things
+Economic incentive structure for blockchain network
+Identifying bitcoin users using deep neural network
+PHANTOM GHOSTDAG: A scalable generalization of Nakamoto consensus: September 2, 2021
+Framework for a decentralized web
+QuickSync: A Quickly Synchronizing PoS-Based Blockchain Protocol
+Multichain-Assisted Lightweight Security for Code Mutated False Data Injection Attacks in Connected Autonomous Vehicles
+Analysis of Futuristic Currency: Facebook’s Libra
+Zyconchain: A scalable blockchain for general applications
+Blockchain and games: A novel middleware for blockchain-based multiplayer games
+A PLS blockchain for IoT applications: protocols and architecture
+A deep learning approach for host-based cryptojacking malware detection
+Blockchain-Based SDN Security Guaranteeing Algorithm and Analysis Model
+Towards Blockchain-Enabled Security Technique for Industrial Internet of Things Based Decentralized Applications
+Parallel Committees: High-Performance, Scalable, Secure and Fault-Tolerant Data Replication Using a Novel Sharding Technique
+Integration of a secure physical element as a trusted oracle in a hyperledger blockchain
+A study on dynamic group signature scheme with threshold traceability for blockchain
+Horizoning recent trends in the security of smart cities: Exploratory analysis using latent semantic analysis
+smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption
+2DPChain: Orchestrating Transactions in Order-Execute Blockchain to Exploit Intra-batch and Inter-batch Parallelism
+Leverage Sidechains to Reduce the Workload of Smart Contracts through Parallelization
+An empirical study of speculative concurrency in ethereum smart contracts
+Parallel Execution of Transactions Based on Dynamic and Self-Verifiable Conflict Analysis
+IoT-Gov: an IoT governance framework using the blockchain
+Emerging Cyber Security Threats and Security Applications in Digital Era
+Edge AI cosmos blockchain distributed network for precise ablh detection
+GT-NRSM: efficient and scalable sharding consensus mechanism for consortium blockchain
+Decentralize Smart Contract Voting System
+Evaluating the Parallel Execution Schemes of Smart Contract Transactions in Different Blockchains: An Empirical Study
+On the benefits of insurance and disaster risk management integration for improved climate-related natural catastrophe resilience
+Textualising the ethno-religious sovereign, history, ethnicity and nationalism in the Perso-Islamic textbooks
+Blockchain in Indian Agriculture to Disrupt the Food Supply Chain
+Comparative Analysis of Blockchain based Digital Currency Transactions and UPI
+A concurrent perspective on smart contracts
+Security analysis of distributed ledgers and blockchains through agent-based simulation
+Similarity of the output characteristics of the small vertical axis wind turbine
+GethReplayer: a smart contract testing method based on transaction replay
+Federation payment tree: An improved payment channel for scaling and efficient ZK-hash time lock commitment framework in blockchain technology
+Data Trusted Sharing Delivery: A Blockchain-Assisted Software-Defined Content Delivery Network
+Scaling Up Security and Efficiency in Financial Transactions and Blockchain Systems
+PEX: Privacy-Preserved, Multi-Tier Exchange Framework for Cross Platform Virtual Assets Trading
+LearnChain: Transparent and cooperative reinforcement learning on Blockchain
+Ultralightweight mutual authentication RFID protocol for blockchain enabled supply chains
+Improved gossip protocol for blockchain applications
+Data Back-Up Algorithm Based on Blockchain with Network Erasure Codes
+BATS: A Blockchain-based Authentication and Trust Management System in Vehicular Networks
+ProofChain: An X.509-compatible blockchain-based PKI framework with decentralized trust
+Distributed Data Register Technology as the ReferencesComparison Component of Economic Decentralization
+Performance Evaluation of E-Voting Based on Hyperledger Fabric Blockchain Platform
+Free2Shard: Adversary-resistant Distributed Resource Allocation for Blockchains
+Enhancing Security and Scalability of Metaverse with Blockchain-based Consensus Mechanisms
+SPEEDEX: A Scalable, Parallelizable, and Economically Efficient Decentralized EXchange
+Optimized Communication in Sharded Blockchain Networks
+Blockchain-Based Knowledge Automation for CPSS-Oriented Parallel Management
+Introduction of interstitial model and a sumkey to address the key challenges with blockchain
+Blockchain-based software-defined industrial internet of things: A dueling deep q -learning approach
+A Study on PGP (Pretty Good Privacy) Using Blockchain
+Student Research Abstract: SplitChain: Blockchain with fully decentralized dynamic sharding resilient to fast adaptive adversaries
+Communication Mechanism of IoT Consortium Chain in Complex Scenarios; [复杂物联网联盟链系统通信机制研究]
+A new tool for detecting tampering of big data programs
+Single-fiber diffusion efficiency for elliptical fibers
+A Parallel Directed Acyclic Graph Blockchain Ledger and Consensus Algorithm for Industrial Internet of Things
+A Blockchain-Driven IIoT Traffic Classification Service for Edge Computing
+ARTICONF decentralized social media platform for democratic crowd journalism
+Fraudulent Information Prediction using Block Chain Technology and Machine Learning
+CS 6150: A Practical Graduate Advanced Algorithms Course at UVU
+Permissioned Blockchain-Based Distributed Software-Defined Industrial Internet of Things
+Privacy preserving transparent supply chain management through Hyperledger Fabric
+Research on Performance Optimization and Application in Smart Home for Hyperledger Fabric
+On Using Blockchains for beyond Visual Line of Sight (BVLOS) Drones Operation: An Architectural Study
+Prioritised Sharding: A Novel Approach to Enhance Blockchain Scalability
+Scaling a Blockchain System from Eventual to Full Atomicity Using Confederation Approach
+SyncAttack: Double-spending in Bitcoin without Mining Power
+Agent-based model of sand supply governance employing blockchain technology
+Parallel scientific research institutes: from digital transformation to intelligent revolution; [平行科研院所:从数字化转型到智能化变革]
+Digital money creation and algorithmic stablecoin run
+Pftom: A Blockchain based on Fingerprint
+PayGo: Incentive-Comparable Payment Routing Based on Contract Theory
+Blockchain-Integrated Metaverse for Academia: A Solution for Virtual Classes, Lectures, and Project Fundings
+Web3-Based Decentralized Autonomous Organizations and Operations: Architectures, Models, and Mechanisms
+Blockchain adoption challenges in supply chain: An empirical investigation of the main drivers in India and the USA
+Bidl: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks
+Evanescence: Time in Modern Plastic Art
+Securing the access control policies to the Internet of Things resources through permissioned blockchain
+Smart Contract Parallel Execution with Fine-Grained State Accesses
+SecurShard: A Model for Hierarchical Fault Detection in Blockchain Sharding
+Efficient multi-tier, multiple entry PBFT consensus algorithm for IoT
+Design of a Cloud-Blockchain-based Secure Internet of Things Architecture
+Cryptocurrency Money Laundering: A New Challenge for the European Anti-Money Laundering Framework
+On blockchain-based dynamic resource allocation for concurrent industrial wireless premises networks
+Smart Parking Dapp: A Trust Minimised Smart Parking Solution
+Blockguard: Adaptive blockchain security
+IoT Security: AI Blockchaining Solutions and Practices
+Downsampling Blockchain Algorithm
+Blockchain for Optimized Pattern Recognition: Comparative Study
+PBFT optimization consensus mechanism based on agglomerative hierarchical clustering; [基于凝聚型层次聚类的PBFT优化共识机制]
+Effects of initial conditions on a wavelet-decomposed turbulent near-wake
+â€œBlockchain for on-demand small launch vehicle supply chainâ€
+A Concurrent Perspective on Collaborative Learning with Smart Contracts
+An investigation of pseudonymization techniques in decentralized transactions
+SnapshotSave: Fast and low storage demand blockchain bootstrapping
+Blockchain-based cloud manufacturing platforms: A novel idea for service composition in XaaS paradigm
+Formal verification of smart contracts from the perspective of concurrency
+Free2Shard: Adversary-resistant Distributed Resource Allocation for Blockchains
+A Transactional Perspective on Execute-order-validate Blockchains
+Entrepreneurship and Innovation in the Age of Artificial Intelligence: A Blockchain Approach
+MetaEconomics and MetaManagement for MetaCities and MetaSocieties in Metaverse
+A high performance two-layer consensus architecture for blockchain-based IoT systems
+Agent-Based Simulation of Blockchains
+Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and Chain Quality
+The Philos Trust Algorithm: Preventing Exploitation of Distributed Trust
+Optimal bootstrapping of PoW blockchains
+Proof of Real-Time Transfer: A Consensus Protocol for Decentralized Data Exchange
+Performance evaluation of an iov-based intersection traffic control approach
+ANALYSIS OF INFORMATION SYSTEMS DESIGN METHODS APPLYING TO THE HYPERLEDGER BLOCKCHAIN PLATFORM
+Cognitive flexibility in adulthood and advanced age: Evidence of internal and external validity
+CloudBC-A Secure Cloud Data acess Management system
+Are Cryptocurrency Assets a Protected Investment Under Investment Treaties?
+Fine-Grained Benchmarking and Targeted Optimization: Enabling Green IoT-Oriented Blockchain in the 6G Era
+Free2Shard: Adversary-resistant Distributed Resource Allocation for Blockchains
+Efficient data and indexing structure for blockchains in enterprise systems
+Blockchain as a medium for transindividual collective
+And Blockguard: Adaptive Blockchain Security
+Towards Robust Consensus for Intelligent Decision-making in IoT Blockchain Networks
+SChain: Scalable Concurrency over Flexible Permissioned Blockchain
+Performance Evaluation of Cryptographic Schemes for Blockchain Security of Smart Grids
+Blockchain, what time is it? Trustless Datetime Synchronization for IoT
+Blockchains vs. Distributed Databases: Dichotomy and Fusion
+On exploiting transaction concurrency to speed up blockchains
+The merits of using Ethereum MainNet as a Coordination Blockchain for Ethereum Private Sidechains
+Efficient Blockchain Scheme for IoT Data Storage and Manipulation in Smart City Environment
+<italic>Paramart</italic>: Parallel Resource Allocation Based on Blockchain Sharding for Edge-Cloud Services
+HPCchain: A Consortium Blockchain System Based on CPU-FPGA Hybrid-PUF for Industrial Internet of Things
+A Proximal Algorithm for Fork-Choice in Distributed Ledger Technology for Context-Based Clustering on Edge Computing †
+Rethinking Blockchain and Decentralized Learning: Position Paper
+Blockchain data access control scheme based on CP-ABE algorithm
+Intra-Shard and Inter-Shard Collaborative Incentive Scheme for Shard-Based Permissionless Blockchain
+Facing parallel market and counterfeit issues by the combined use of blockchain and CP-ABE encryption technologies
+Multiple Leader PBFT Based Blockchain Architecture for IoT Domains: Invited Paper
+TriBoDeS: A Tri-Blockchain-Based Detection and Sharing Scheme for Dangerous Road Condition Information in Internet of Vehicles
+Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and ChainQuality
+Designing a Central Bank Digital Currency (CBDC) Retail Model as a Payment System
+FlexiShard: A Flexible Sharding Scheme for Blockchain based on a Hybrid Fault Model
+Efficient Distributed Consensus Algorithm For Swarm Robotic
+Blockchain-Based AI-Enabled Industry 4.0 CPS Protection Against Advanced Persistent Threat
+Trust in Blockchain Cryptocurrency Ecosystem
+A Secure and Effective Construction Scheme for Blockchain Networks
+A Coordinator-Free Cross-Shard Transaction Execution for Sharded Permissioned Blockchains; [面向分片许可链的无协调者跨片交易处理]
+A new business model for digital governance of public records using blockchain
+ANN-FL Secure Handover Protocol for 5G and Beyond Networks
+Complexity traits and synchrony of cryptocurrencies price dynamics
+Petrichor: An Efficient Consensus Protocol Leveraging DAG and Sharding for Asynchronous BFT
+The role of the in-plane solidity on canopy flows
+Blockchain-Based Transaction Management in Smart Logistics: A Sawtooth Framework
+The evolution of the cryptocurrencies market: A complex networks approach
+An Algorithm and Architecture Co-design for Accelerating Smart Contracts in Blockchain
+Securing Business Processes Using Blockchain Technology: A Case Study of Hydrocarbon Accounting Processes
+The WTO and Using Digital Economy Technologies: Surviving the Race With Preferential Trade Agreements
+MECAT: Memory-Safe Smart Contracts in ARM TrustZone
+Automated Ethereum Smart Contract for Block Chain Based Smart Home Security
+Improving Privacy in Blockchain by Combining Group Signature and Groth-Sahai Certification System
+A Business Model for Multi-tiered Decentralized Software Frameworks: The Case of ONTOCHAIN
+DELTA: DLT-Database Synchronization
+Towards a Scalable Dual-Sided Blockchain Architecture with Concurrency Protocols
+DLIT: A Scalable Distributed Ledger for IoT Data
+Poster Abstract: OrderlessFL: A CRDT-Enabled Permissioned Blockchain for Federated Learning
+SCRAPS: Scalable Collective Remote Attestation for Pub-Sub IoT Networks with Untrusted Proxy Verifier
+CBP2P: Cooperative Electronic Bank Payment Systems Based on Blockchain Technology
+Simulation of a double spending attack on the proof of work consensus protocol
+Pelican optimization algorithm with blockchain for secure load balancing in fog computing
+Blockchain Enabled Architecture for Secure Authentication in the Metaverse Environment: A Student Training Use Case
+Fast Hardware Implementation for Extended GCD of Large Numbers in Redundant Representation
+Komorebi: A DAG-based Asynchronous BFT Consensus via Sharding
+Incentive Attacks on DAG-Based Blockchains with Random Transaction Selection
+Blockchain-Based Load Carrier Management in the Physical Internet
+Hierarchical blockchain based e-voting system
+Research on the Cross-Chain Model of Rice Supply Chain Supervision Based on Parallel Blockchain and Smart Contracts
+Blockchain as an Internet of Services Application for an Advanced Manufacturing Environment
+Suppressing chain size of blockchain-based information sharing for swarm robotic systems
+EXPLORATION OF A NEW ZAKAT MANAGEMENT SYSTEM EMPOWERED BY BLOCKCHAIN TECHNOLOGY IN MALAYSIA
+Blockchain-PUF-Based Secure Authentication Protocol for Internet of Things
+Approaches to Front-End IoT Application Development for the Ethereum Blockchain
+The sleepy model of consensus
+Evaluation of an Actor Model-based Consensus Algorithm on Neo Blockchain
+Blockchain-based electronic voting system with special ballot and block structures that complies with indonesian principle of voting
+Thread Programming for Blockchain Creation
+Practical smart contract sharding with ownership and commutativity analysis
+Modern Art Teaching and Evaluation Model using Blockchain Technologies
+Protection against Ransomware in Industrial Control Systems through Decentralization using Blockchain
+Frail hope and new frontiers
+Blockchain-based transfer learning for health screening with digital anthropometry from body images
+Decentralizing Health Care: History and Opportunities of Web3
+FalconDB: Blockchain-based Collaborative Database
+FabricCRDT: A conflict-free replicated datatypes approach to permissioned blockchains
+Graph Learning BFT: A Design of Consensus System for Distributed Ledgers
+Smart information system capabilities of digital supply chain business models
+TrustChain: A Sybil-resistant scalable blockchain
+Universalities in the dynamics of cryptocurrencies: Stability, scaling and size
+HYBRID APPROACH OF QUICK RESPONSE CODE AND NON-FUNGIBLE TOKEN IN PRIVATE PERMISSIONED BLOCKCHAIN FOR ANTI-COUNTERFEITING
+Internet of things-blockchain lightweight cryptography to data security and integrity for intelligent application
+Blockchain Data Structures and Integrated Adaptive Learning: Features and Futures
+THE FINGERINGS FOR THE PIANO ALBUM GRADUAL BY EURICO THOMAZ DE LIMA (1908–1989) AS EVIDENCE OF A CONSOLIDATED TECHNICAL THINKING; [AS DEDILHAÇÕES DO ÁLBUM GRADUAL PARA PIANO DE EURICO THOMAZ DE LIMA (1908–1989) COMO EVIDÊNCIA DE UM PENSAMENTO TÉCNICO CONSOLIDADO]
+A Secured Certificateless Sign-encrypted Blockchain Communication for Intelligent Transport System
+Blockchain technology and supply chain performance: The role of trust and relational capabilities
+Drought occurrence in Different River Basins of India and blockchain technology based framework for disaster management
+Graphene: Efficient interactive set reconciliatio applied to blockchain propagation
+Trusted Electronic Contract for Enabling Peer-to-Peer HPC Resource Sharing
+NeuChain: A Fast Permissioned Blockchain System with Deterministic Ordering
+Enhanced bearing fault detection using multichannel, multilevel 1D CNN classifier
+An Elitist Artificial Electric Field Algorithm Based Random Vector Functional Link Network for Cryptocurrency Prices Forecasting
+FLUID: Towards Efficient Continuous Transaction Processing in DAG-Based Blockchains
+Blockchain meets database: Design and implementation of a blockchain relational database
+CryptoRevocate: A Cryptographic Accumulator based Distributed Certificate Revocation List
+Prediction-based UTXO Cache Optimization for Bitcoin Lightweight Full Nodes
+A Reputation-Enhanced Shard-Based Byzantine Fault-Tolerant Scheme for Secure Data Sharing in Zero Trust Human Digital Twin Systems
+Algorithmic analysis of blockchain efficiency with communication delay
+Deepfakes: A Digital Transformation Leads to Misinformation
+Pipelining and Overlapping: Techniques to Improve Both Throughput and Latency in BFT Consensus Blockchain
+Qualitative Analysis on Implementation of Security Aspects for Web 3.0
+Democracy in Your Hands!: Practical Multi-key Homomorphic E-Voting
+Blockchain Technology: A Technique to Overcome the Security and Privacy Issues in Cloud Computing
+Anti Counterfeiting Solution For Product Authentication Using Blockchain
+Turbulent Flow Over Large Roughness Elements: Effect of Frontal and Plan Solidity on Turbulence Statistics and Structure
+BlaNC: Blockchain-based anonymous and decentralized credit networks
+Parallel Hash-Mark-Set on the Ethereum Blockchain
+The electromechanical properties of crosslinked natural rubber
+Towards the Rear Attuned Defense Scheme Embark Upon Selfish Mining
+A Microservice-enabled Architecture for Smart Surveillance using Blockchain Technology
+Triptych: Logarithmic-Sized Linkable Ring Signatures with Applications
+Aerodynamic drag modification induced by free-stream turbulence effects on a simplified road vehicle
+iBoT: enhancing security in internet of things architectures with blockchain
+Quantifying Dark Web Shops' Illicit Revenue
+Partial Order Transactions on Permissioned Blockchains for enhanced Scalability
+Implicit Authentication in Neural Key Exchange Based on the Randomization of the Public Blockchain
+Stuck-me-not: A deadlock detector on blockchain software in Rust
+Runtime Evolution of Bitcoin's Consensus Rules
+Blockchain-based reward point exchange systems
+DAG-Based Efficient Parallel Scheduler for Blockchains: Hyperledger Sawtooth as a Case Study
+On the Use of Blockchain for the Operation and Management of EV Charging Infrastructures
+Proof-of-Enough-Work Consensus Algorithm for Enhanced Transaction Processing in Blockchain
+e-Voting: I Changed My Mind, Now What?
+The electromechanical properties of crosslinked natural rubber
+Exploring Locality in Ethereum Transactions
+Orientalism today; [L'orientalisme aujourd'hui]
+Blockchain Enabled Architecture for Secure Authentication in the Metaverse Environment
+Performance analysis of LogisticChain: A blockchain platform for maritime logistics
+An Optimized Concurrent Proof of Authority Consensus Protocol
+Deepfakes: A Digital Transformation Leads to Misinformation
+Using blockchain for enhancing collaboration among independent enterprises: A Knowledge-based Approach
+A Distributed Clock Synchronization Protocol for Proof of Stake Blockchains
+Towards A Privacy-Preserving Voting System through Blockchain Technologies
+EthFor: Forensic Investigation Framework for Ethereum Blockchain
+An Efficient Jaya Algorithm for Resource Allocation in the Cognitive-Radio-Networks-Aided Internet of Things
+Empowering fault-tolerant consensus algorithm by economic leverages
+E-PBFT: An Improved Consensus Mechanism Based on PBFT
+Impact of metaverse on radiation medicine field; [元宇宙对放射医学领域的影响]
+Field surveillance of fuel dispensers using IoT-based metering and blockchains
+Blockchain Havens and the Need for Their Internationally-coordinated Regulation
+H-MIS: A Hierarchical Multi-Identifier System Based on Blockchain
+Implementing Secure Bridges: Learnings from the Secure Asset Transfer Protocol
+Research on Cross-Domain Heterogeneous Information Interaction System in Complex Environment Based on Blockchain Technology
+Digital passengers: A great divide or emerging opportunity?
+Ethereum synchronicity, upside volatility and Bitcoin crash risk
+Blockchain Consensus Mechanism Based on Improved Distributed Consistency and Hash Entropy
+TODLER: A Transaction Ordering Dependency anaLyzER - for Ethereum Smart Contracts
+Blockchain technology, foundations, protocols and aesthetic considerations
+Blockchain-native mechanism supporting the circulation of complex physical assets
+Notions of the Possible: Smart-Contracts and the Obscene Sign of (Racial) Freedom
+Blockchain Scalability Solved via Quintessential Parallel Multiprocessor
+Metaverse of Things in 6G Era: An Emerging Fusion of IoT, XR, Edge AI and Blockchain Technologies
+Investment Ethics and the Global Economy of Sports: The Norwegian Oil Fund, Formula 1 and the 2014 Russian Grand Prix
+Aligning Emerging Technologies onto I4.0 principles: Towards a Novel Architecture for Zero-defect Manufacturing
+Research on Verifiable Blockchain Ledger Redaction Method for Trusted Consortium; [面向可信联盟的区块链账本可验证修改方法研究]
+EthVer: Formal Verification of Randomized Ethereum Smart Contracts
+Highway: A Super Pipelined Parallel BFT Consensus Algorithm for Permissioned Blockchain
+Comparative analysis of blockchain technologies and TOR network: Two faces of the same reality?
+Mitosis: Practically Scaling Permissioned Blockchains
+Concurrency and privacy with payment-channel networks
+A Secure and Practical Decentralized Ecosystem for Shareable Education Material
+TransRacer: Function Dependence-Guided Transaction Race Detection for Smart Contracts
+Collaborative Modeling of Medical Image Segmentation Based on Blockchain Network
+Second round of FinTech - Trends and challenges
+Proof of Concepts of Corda Blockchain Technology Applied on the Supply Chain Area
+Security vulnerabilities in applying decentralized ledger systems for obfuscating hardwares
+Enabling MapReduce based Parallel Computation in Smart Contracts
+Learning-Based Off-Chain Transaction Scheduling in Prioritized Payment Channel Networks
+A Game-Theoretic Analysis of Shard-Based Permissionless Blockchains
+A novel framework of vehicle ad-hoc networks based on virtualization and distributed ledger technology
+Optimization Scheme for Hyperledger Fabric Consensus Mechanism; [Hyperledger Fabric共识机制优化方案]
+Ignorance, debt, and cryptocurrencies: The old and the new in the law and economics of concurrent currencies
+Distributed Attribute-Based Encryption Scheme Based on Fog Nodes
+CoinPrune: Shrinking Bitcoin's Blockchain Retrospectively
+Enhanced security in cloud applications using emerging blockchain security algorithm
+Blockchain Based Adaptive Resource Allocation in Cloud Computing
+TheChain: A fast, secure and parallel treatment of transactions
+Hybrid Blockchain-based Academic Credential Verification System (B-ACVS)
+Bitcoin double-spending risk and countermeasures at physical retail locations
+The combined use of IoT and Blockchain in Logistics: a comparative experiment
+Relationship and causality between cryptocurrencies, commodities, currencies, indexes and web search results during and prior to the COVID-19 pandemic
+Empowering communications in vehicular networks with an intelligent blockchain-based solution
+A Group Mutual Exclusion protocol for the Use Case of IoT-Blockchain Integration in Work-Safe Scenario
+Apex: A High-Performance Hierarchical Distributed Ledger
+Uncovering Smart Contract VM Bugs Via Differential Fuzzing
+Structural analysis of aquaculture net cages in current
+Blockchain Scalability and Security: Communications Among Fast-Changing Committees Made Simple
+A Neutrosophic Proposed Model for Evaluation Blockchain Technology in Secure Enterprise Distributed Applications
+Pisa: Arbitration outsourcing for state channels
+Scalable anomaly detection in blockchain using graphics processing unit
+DeMaTO: An Ontology for Modeling Transactional Behavior in Decentralized Marketplaces
+Implementing Smart Contracts in the Syndicated Loan Market: An Issue of Adoption
+Towards Privacy-Preserving Vehicle Digital Forensics: A Blockchain Approach
+Context-based consensus for appendable-block blockchains
+Lockless transaction isolation in hyperledger fabric
+Bins with Eyes: Towards a More Efficient Urban Ecosystem
+Artificial intelligence and blockchain: juridical challenges in parallel; [Inteligencia artificial y blockchain: retos jurídicos en paralelo]
+Methods of increasing data reliability based on distributed and parallel technologies based on blockchain
+FinTech driven financial inclusion – the hype and the reality of missed targets
+A Secure and Scalable IoT Consensus Protocol
+A Federated Blockchain Architecture for File Storage with Improved Latency and Reliability in IoT DApp Services
+An Efficient Blockchain Neighbor Selection Framework Based on Agglomerative Clustering
+Compressing the Bitcoin Blockchain using Incremental Snapshots
+A blockchain-based approach for a multi-echelon sustainable supply chain
+Secure Cloud Backup for Data Sources Based on Blockchain
+Blockchain at the Edge: Performance of Resource-Constrained IoT Networks
+A Transparent Immutable and More Secured Voting System Using Blockchain
+Lissy: Experimenting with On-Chain Order Books
+Evaluation of Production of Digital Twins Based on Blockchain Technology
+Rapper: A Parameter-Aware Repair-in-Memory Accelerator for Blockchain Storage Platform
+Contribution of blockchain technology to the growth of the society
+Disruption mitigation in the semiconductors supply chain by using public blockchains
+Exploring the Disruptiveness of Cryptocurrencies: A Causal Layered Analysis-Based Approach
+Design of Anonymous Endorsement System in Hyperledger Fabric
+Towards blockchain-enabled decentralized and secure federated learning
+Performance computation model and time latency improvement for blockchain-based voting system for elections in India
+Autonomous Cyber AI for Anomaly Detection
+A master-slave blockchain paradigm and application in digital rights management
+Fission: Autonomous, Scalable Sharding for IoT Blockchain
+Blockchain-Empowered Service Management for the Decentralized Metaverse of Things
+Ethereum Blockchain Based e-voting System for Jordan Parliament Elections
+Fully private auctions for the highest bid
+Key-Based Transaction Reordering: An Optimized Approach for Concurrency Control in Hyperledger Fabric
+Financial Inclusion Through FinTech - A Case of Lost Focus
+CI-Block: A Blockchain System for Information Management of Collaborative Innovation
+Cryptocurrency and ETF's - Regulatory Challenges - A Case for Progressive Regulators
+‘Solve for India, solve for the world’: Strategies of India to lead with new age disruptive technologies
+How to Securely Prune Bitcoin's Blockchain
+Increasing concurrency in hyperledger fabric
+Tangle 2.0 Leaderless Nakamoto Consensus on the Heaviest DAG
+Tree-ORAP: A Tree-Based Oblivious Random-Access Protocol for Privacy-Protected Blockchain
+Introduction
+A Blockchain-Based Trust Management with Conditional Privacy-Preserving Announcement Scheme for VANETs
+Robust Secure Beamforming for Multiuser MISO Wiretap Channels
+Evolution of pore systems in low-maturity oil shales during thermal upgrading —Quantified by dynamic SEM and machine learning
+FleetChain: A Secure Scalable and Responsive Blockchain Achieving Optimal Sharding
+OBFP: Optimized Blockchain-Based Fair Payment for Outsourcing Computations in Cloud Computing
+Accelerating block lifecycle on blockchain via hardware transactional memory
+monoCash: A Channel-Free Payment Network Via Trusted Monotonic Counters
+An Intelligent Optimization Control Method for Enterprise Cost Under Blockchain Environment
+A MVCC Approach to Parallelizing Interoperability of Consortium Blockchain
+Improving Blockchains with Client-Assistance
+Blockchain-based access control schemes for medical image analysis system
+DePTVM: Decentralized Pseudonym and Trust Value Management for Integrated Networks
+Speedster: An Efficient Multi-party State Channel via Enclaves
+Adaptive Broadcast Routing Assignment Algorithm for Blockchain Synchronization Services
+Constructing chaos-based hash function via parallel impulse perturbation
+ChainDash: An Ad-Hoc Blockchain Data Analytics System
+Wiretap resisting and privacy preserving data exchange with physical layer security and blockchain based authentication in Internet of Vehicles
+Achieve Better Endorsement Balance on Blockchain Systems
+Lightchain: A lightweight blockchain system for industrial internet of things
+Blockchain-based cross-organizational integrated platform for issuing and redeeming reward points
+BSS-ITS: Blockchain Scaling Scheme with Sharding for Intelligent Transportation System: Scale Blockchain for Better Data Exchange and Storage with Full Sharding for Intelligent Transportation System
+Byzantine Resistant Secure Blockchained Federated Learning at the Edge
+Runtime Hook on Blockchain and Smart Contract Systems
+POEM+: Pricing longer for mobile blockchain computation offloading with edge computing
+Research on the Security Reinforcement Method of Industrial Internet Identification Data Based on Blockchain Technology
+Efficient decentralized access control for secure data sharing in cloud computing
+A secure domain name resolution and management architecture based on blockchain
+Study on the new implementation mode of cross-docking based on blockchain technology
+On and Off-Chain Consistency Protocol for Multi-Attribute Assets Based on Data Property Rights
+A Cache Enhanced Endorser Design for Mitigating Performance Degradation in Hyperledger Fabric
+Analysis of a consensus protocol for extending consistent subchains on the bitcoin blockchain
+Set Reconciliation for Blockchains with Slepian-Wolf Coding: Deletion Polar Codes
+Scalable privacy-preserving query processing over ethereum blockchain
+An Ethereum-Based Data Synchronization Platform for Distributed Networks
+DeGKM: Decentralized Group Key Management for Content Push in Integrated Networks
+A Flexible Sharding Blockchain Protocol Based on Cross-Shard Byzantine Fault Tolerance
+Decentration Transaction Method Based on Blockchain Technology
+Parallel security: generative adversarial systems for intelligent security in CPSS; [平行安全：基于 CPSS 的生成式对抗安全智能系统]
+The Analysis of Financial Network Transaction Risk Control Based on Blockchain and Edge Computing Technology
+AABN: Anonymity assessment model based on Bayesian network with application to blockchain
+BIMP: Blockchain-Based Incentive Mechanism with Privacy Preserving in Location Proof
+Fabric-based Up-chain Preprocessing Mechanism for Mass Transaction Data
+Blockchain technology for luggage tracking
+Blockchain Access Control Strategy Based on Mainchain and Sidechain Cooperation
+Framework design of financial service platform for tobacco supply chain based on blockchain
+BDSS: Blockchain-Based Data Synchronization System
+Throughput Optimization for Blockchain System with Dynamic Sharding †
+Sensitive Data Encoding in Blockchain-Based P2P Trading System
+Evaluation of Blockchain-enabled Mobile Core Network Control Plane for Satellite-terrestrial Integrated Networks
+A Verifiable and Efficient Secure Sharing Scheme in Multiowner Multiuser Settings
+A data storage method based on blockchain for decentralization DNS
+Research on trusted traceability method of large-scale manufacturing industry based on blockchain
+Dolphin: Efficient Non-Blocking Consensus via Concurrent Block Generation
+Caterpillar: A blockchain-based business process management system
+FP-BFT: A fast pipeline Byzantine consensus algorithm
+MEV Makes Everyone Happy under Greedy Sequencing Rule
+Data Privacy Protection of Industrial Blockchain
+Alternative Multipath Payment Scheme of Blockchain Payment Channel Networks; [区块链链下支付通道网络的可选择多路径支付方案]
+Fog-based Secure Service Discovery for Internet of Multimedia Things: A Cross-blockchain Approach
+HyperMaze: Towards Privacy-Preserving and Scalable Permissioned Blockchain
+Real-Time Object Recognition Based on NAO Humanoid Robot
+Automating Smart Contract Generation on Blockchains Using Multi-modal Modeling
+Parallel Museum Systems: Framework, Platform, Methods and Applications; [平行博物馆系统:框架尧平台尧方法及应用]
+A Framework of Metaverse for Systems Engineering
+A New Bitcoin Address Association Method Using a Two-Level Learner Model
+Cloud data acquisition and processing model based on blockchain
+A Financial Management Platform Based on the Integration of Blockchain and Supply Chain
+Efficient authentication scheme for cross-trust domain of IoV based on double-layer shard blockchain; [基于双层分片区块链的车联网跨信任域高效认证方案]
+From cadCAD to casCAD2: A Mechanism Validation and Verification System for Decentralized Autonomous Organizations Based on Parallel Intelligence
+HotLT: LT Code-Based Secure and Reliable Consortium Blockchain Storage Systems
+A Blockchain-based Method for Monitoring User-plane Congestion in Mobile Core Network
+Parallel and Asynchronous Smart Contract Execution
+Second-degree branch structure blockchain expansion model
+Research on Malicious Attack Model of Blockchain Multi-mining Pools
+A Dual-Chain Digital Copyright Registration and Transaction System Based on Blockchain Technology
+Trusted Location Sharing on Enhanced Privacy-Protection IoT Without Trusted Center
+A Scalable Consensus Protocol Based on Equity Representation; [一种基于权益代表的可扩展共识协议]
+Multi-Technology Fused Data Trading Method Based on Federated Learning
+Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT
+BlockChain Based Chat Application
+CHERUBIM: A Secure and Highly Parallel Cross-Shard Consensus Using Quadruple Pipelined Two-Phase Commit for Sharding Blockchains
+FASTBLOCK: Accelerating blockchains via hardware transactional memory
+Mining the characteristics of the ethereum P2P network
+Smart Contract-Based Long-Term Auction for Mobile Blockchain Computation Offloading
+IoT Meets Blockchain: Parallel Distributed Architecture for Data Storage and Sharing
+TEEDAG: A High-Throughput Distributed Ledger Based on TEE and Directed Acyclic Graph
+A Blockchain-Based Digital Asset Platform with Multi-Party Certification
+Efficient and Revocable Anonymous Account Guarantee System Based on Blockchain
+Finding concurrency exploits on smart contracts
+A Blockchain-Based Cross-Domain Authentication Management System for IoT Devices
+An integrated platform for the Internet of Things based on an open source ecosystem
+Performance evaluation for the hash generation phase of a democratic blockchain
+Twin-chain PBFT consensus for blockchain-based Non-Terrestrial Networks
+Research on Multi-channel Sharding Technology for Hyperledger Fabric; [面向超级账本 Fabric 的多通道分片技术研究]
+Cross-shard Transaction Processing in Sharding Blockchains
+Alias-Chain: Improving Blockchain Scalability via Exploring Content Locality among Transactions
+Breaking the golden chain of transparency: Crosslinks between cyber threat and blockchain within space and gold industries
+Blockchain and ontology methods: A dual fusion framework of knowledge and data for collaborative design
+Blockchain-based bidirectional updates on fine-grained medical data
+SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations
+Improvement of the precise up-chain mechanism of the agricultural products blockchain traceability system integrating the HACCP system; [融合 HACCP 体系的农产品区块链追溯系统精准上链机制改进]
+Developing a blockchain-based supply chain system for advanced therapies: Protocol for a feasibility study
+Augmented IoT Cooperative Vehicular Framework Based on Distributed Deep Blockchain Networks
+Simplified HDFS architecture with blockchain distribution of metadata
+MIN: Co-governing multi-identifier network architecture and its prototype on operator's network
+An Improved Consensus Mechanism for the Blockchain Based on Credit Rewards and Punishments
+Intelligent forecasting with machine learning trading systems in chaotic intraday Bitcoin market
+BLOCKCHAIN AND CITY INFORMATION MODELING (CIM): A NEW APPROACH OF TRANSPARENCY AND EFFICIENCY
+Blockchain-Enabled City Information Modeling Framework for Urban Asset Management
+A blockchain enabled Cyber-Physical System architecture for Industry 4.0 manufacturing systems
+Blockchain based privacy preserving multimedia intelligent video surveillance using secure Merkle tree
+Multi-Destination Cooperative Task Offloading in Blockchain-Based Vehicular Edge Computing Networks
+Global digital identity and public key infrastructure
+Scalable blockchain execution via parallel block validation
+Calculating the Proof of Work Using Volunteer Computing
+Performance analysis of cryptographic hash functions suitable for use in blockchain
+Handling Bitcoin conicts through a glimpse of structure
+LS-Gossip: An Improved Block Distribution Algorithm in Blockchain Networks
+Towards scalable and private industrial blockchains
+A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator
+A Cross-Chain Transaction Model for Power Blockchain Based on Hash-Locking Mechanism
+Scaling the Blockchain-based Access Control Framework for IoT via Sharding
+As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service
+Secure consistency verification for untrusted cloud storage by public blockchains
+Blockchain dividing based on node community clustering in intelligent manufacturing CPS
+A New Framework for Web3-powered Decentralized Autonomous Organizations and Operations; [基于 Web3 的去中心化自治组织与运营新框架]
+EMSR: An Efficient Method of Streaming Reasoning
+DHBFT: Dynamic Hierarchical Byzantine Fault-Tolerant Consensus Mechanism Based on Credit
+Logistics 5.0: From Intelligent Networks to Sustainable Ecosystems
+Synchronized Provable Data Possession Based on Blockchain for Digital Twin
+Blockchain-Based Cooperative Computation Offloading and Secure Handover in Vehicular Edge Computing Networks
+StreamChain: Building a Low-Latency Permissioned Blockchain for Enterprise Use-Cases
+Capacity Analysis and Improvement Scheme Basing on the TPS of Qtum Block Chain
+Multi-service model for blockchain networks
+An Efficient DAG Blockchain Architecture for IoT
+AMVchain: authority management mechanism on blockchain-based voting systems
+Scalable Block Execution via Parallel Validation
+Hierarchical multi-blockchain system for parallel computation in cryptocurrency transfers and smart contracts
+A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management
+An Android Malicious Application Detection Method with Decision Mechanism in the Operating Environment of Blockchain
+A Novel Epoch-Based Transaction Consistency Sorting Protocol for DAG Distributed Ledger
+Blockchain Intelligence: Intelligent Blockchains for Web 3.0 and Beyond
+Efficient Deterministic Concurrency Control under Practical Isolation Levels
+Blockchain Technology Based Secure Data Sharing in Cloud Computing
+Modernity, solidity and agency: Liquidity reconsidered
+C2MDNIF: A Cross Chain based Method for Domain Name Information Fusion
+How to use bitcoin to play decentralized poker
+Evidence of the presence of two different framework Ti(IV) species in Ti-silicalite-1 in vacuo conditions: An EXAFS and a photoluminescence study
+Protecting Access Privacy in Ethereum Using Differentially Private Information Retrieval
+Close latency-security trade-off for the Nakamoto consensus
+Asycome: A JointCloud Data Asynchronous Collaboration Mechanism Based on Blockchain
+Multitask-Oriented Collaborative Crowdsensing Based on Reinforcement Learning and Blockchain for Intelligent Transportation System
+Blockchain Sharding Scalable Model of Adaptive Node Scale
+A Review on the Application of Blockchain Algorithms for Distributed Power Transactions; [面向分布式电力交易的区块链算法应用研究综述]
+An electronic evidence system based on blockchain and correlation analysis
+FISCO-BCOS: An Enterprise-grade Permissioned Blockchain System with High-performance
+A formal analysis of the bitcoin protocol
+Data Transmission Scheme Considering Node Failure for Blockchain
+BPA: A Novel Blockchain-Based Privacy-Preserving Authentication Scheme for the Internet of Vehicles
+A decentralized blockchain with high throughput and fast confirmation
+Trusted Reputation System for Heterogeneous Network Resource Sharing Based on Blockchain in IoT
+Security Analysis for Applying the Proof-of-Stake Consensus Algorithm to IoET Network in Antarctica
+Efficient Byzantine Consensus Algorithm in IoT Scenarios
+A Survey on Verifiable Delay Functions and Delay Encryptions; [可验证延迟函数与延迟加密研究综述]
+Information - Education Milieu: Methodology of Forming Knowledge Content and Practice Oriented Training of IT-disciplines
+A concurrent weighted communication scheme for blockchain transaction
+Dynamic Topology Awareness in Active Distribution Networks Using Blockchain-Based State Estimations
+Research on The Integrated Application of Blockchain and Traditional Information System
+Blockchain-Enhanced Trustworthy Collaboration Architecture and Cluster-Forming Strategy for Low-Altitude Intelligent Network; [区 块 链 增 强 的 低 空 智 联 网 可 信 协 作 架 构 及 集 群 构 建 策 略]
+Unmasking Role-Play Attack Strategies in Exploiting Decentralized Finance (DeFi) Systems
+Health Management for Next-gen Blockchain: Smart Construction, Dynamic Evolution and Stochastic Transformation
+Maravedí: A Secure and Practical Protocol to Trade Risk for Instantaneous Finality
+Fabric-GC: A Blockchain-based Gantt Chart System for Cross-organizational Project Management
+Research on Project Management Mechanism Applying Block Chain Advanced Smart Contract
+Blockchain-based secure and reliable distributed deduplication scheme
+Distributed AI and Blockchain for 6G-Assisted Terrestrial and Non-Terrestrial Networks: Challenges and Future Directions
+LBRY: A Blockchain-Based Decentralized Digital Content Marketplace
+Concurrent and efficient IoT data trading based on probabilistic micropayments
+Programmable Payment Channels
+A Smart and Private Blockchain-enabled Framework for Digital Assets
+Research on cross-domain trustable blockchain based decentralized DNS architecture
+Outsourcing the Computation of Plaintext Encryption for Homomorphic Encryption
+Key update and trusted positioning system based on blockchain; [基于区块链的密钥更新和可信定位系统]
+Performance of Hash Algorithms on GPUs for Use in Blockchain
+TopoShot: Uncovering Ethereum's network topology leveraging replacement transactions
+FISCO-BCOS: An Enterprise-Grade Permissioned Blockchain System with High-Performance
+Inclusive block chain protocols
+CoChain: High Concurrency Blockchain Sharding via Consensus on Consensus
+BlockExplorer: Exploring Blockchain Big Data Via Parallel Processing
+PROTECTING INTELLECTUAL PROPERTY WITH NON-FUNGIBLE TOKEN IN DECENTRALIZED SOCIAL MEDIA
+How Does Blockchain Security Dictate Blockchain Implementation?
+An Integrated and Robust Evoting Application Using Private Blockchain
+A novel multi-link integrated factor algorithm considering node trust degree for blockchain-based communication
+Strategies for quantum races
+Reputation-Based Trustworthy Supply Chain Management Using Smart Contract
+Chained Tendermint: A Parallel BFT Consensus Mechanism
+Power 5G trusted data feed technology based on Oracle mechanism
+Multi-chain and data-chains partitioning algorithm in intelligent manufacturing CPS
+New measuring device of horny layer transparency; [Apparatur zur messung der hornschicht-transparenz - Beitrag zur Stripping-Methode]
+IEEE 802.15.6-Based LTE Overlay Network with Priority Support
+An off-the-chain execution environment for scalable testing and profiling of smart contracts
+KACHINA Foundations of Private Smart Contracts
+Anti-D chain: A lightweight DDoS attack detection scheme based on heterogeneous ensemble learning in blockchain
+An Enhanced Blockchain Consensus Mechanism Using Proof-of-Work and Proof-of-Stake
+DNSonChain: Delegating Privacy-Preserved DNS Resolution to Blockchain
+A Bilayer Scalable Nakamoto Consensus Protocol for Blockchain Systems
+Non-interactive Proofs of Proof-of-Work
+Vendor capabilities development in blockchain sourcing: A parallel play approach
+Binary blockchain: Solving the mining congestion problem by dynamically adjusting the mining capacity
+Development of algorithms for searching, analyzing and detecting fraudulent activities in the financial sphere
+The velvet path to superlight blockchain clients
+Ethanos: Efficient bootstrapping for full nodes on account-based blockchain
+Blockchain Enabled Secure Distributed Event Logging in the Industrial Internet of Things
+Sharing, protection, and compatibility for reconfigurable fabric with amorphos
+Compact Storage of Superblocks for NIPoPoW Applications
+Parallel classificator for the rule of kn nearest neighbours
+Decreasing Security Threshold Against Double Spend Attack in Networks with Slow Synchronization
+TPS Analysis, Performance Indicator of Public Blockchain Scalability
+Survey on Offchain Channel Routing Algorithm; [链下通道路由算法综述]
+Cross-organisational data sharing framework based on blockchain-probes
+A Secure and Flexible Blockchain-Based Offline Payment Protocol
+Using blockchain technology for file synchronization
+Blockchain technology for Islamic marriage certificate
+Two-phase cooperative bargaining game approach for shard-based blockchain consensus scheme
+The Improvement of Conceptual and Categorical Framework for the Classification of Objects of Cadastral Registration
+Networks of picture processors with filtering based on evaluation sets as solvers for cryptographic puzzles based on random multivariate quadratic equations
+A comparison of performance between fully and partially decentralized applications
+Customs-based blockchain solution for exportation protection
+The Discrepancy Attack on Polyshard-ed Blockchains
+STM32 miner : A lightweight blockchain mining system
+Asynchronous Distributed Key Generation for Computationally-Secure Randomness, Consensus, and Threshold Signatures.
+Optimization of a vaned diffuser geometry for radial compressors Part I. Investigation of the influence of geometry parameters on performance of a diffuser
+Secure and Privacy-Preserving Authentication Scheme Using Decentralized Identifier in Metaverse Environment
+Scalable Lightweight Protocol for Interoperable Public Blockchain-Based Supply Chain Ownership Management
+Decreasing security threshold against double spend attack in networks with slow synchronization
+Easily to Expand and Efficient Decentralized Cross Chain Exchange Protocol Based on Smart Contract; [基于智能合约的易扩展高效去中心化跨链交易协议]
+Exploring the physical–digital interface in blockchain applications: Insights from the luxury watch industry
+MODEL OF ENGINEERING EDUCATION WITH THE USE OF THE COMPETENCE-PROJECT APPROACH, ONTOLOGICAL ENGINEERING AND SMART CONTRACTS OF KNOWLEDGE COMPONENTS; [MODEL EDUKACJI INŻYNIERYJNEJ Z WYKORZYSTANIEM PODEJŚCIA KOMPETENCYJNEGO, INŻYNIERII ONTOLOGICZNEJ I INTELIGENTNYCH POŁĄCZEŃ SKŁADNIKÓW WIEDZY]
+Consistency of proof-of-stake blockchains with concurrent honest slot leaders
+A Cluster Based System for Analyzing Ethereum Blockchain Transaction Data
+Leveraging Smart Contracts for Secure and Asynchronous Group Key Exchange Without Trusted Third Party
+Customs-based distributed risk assessment method
+Technologies and Solutions of Blockchain Application in Power Equipment Ubiquitous Internet of Things; [区块链在电力设备泛在物联网应用的关键技术及方案]
+NFT Trades in Bitcoin with Off-Chain Receipts
+BZIP: A compact data memory system for UTXO-based blockchains
+BZIP: A compact data memory system for UTXO-based blockchains
+Improve Blockchain Performance using Graph Data Structure and Parallel Mining
+Network Security Strategy Based on Cloud-Edge Collaboration in Electric Power Internet of Things
+Blockchain-Based Pension System Ensuring Security, Provenance and Efficiency
+Blockchain-enabled digital twin collaboration platform for fit-out operations in modular integrated construction
+A Multiple Blockchains Architecture on Inter-Blockchain Communication
+Prov-Trust: Towards a trustworthy sgx-based data provenance system
+Giving State to the Stateless: Augmenting Trustworthy Computation with Ledgers
+Blockchain-Enabled Infection Sample Collection System Using Two-Echelon Drone-Assisted Mechanism
+Implementation of directed acyclic graph in blockchain network to improve security and speed of transactions
+Research on the Optimization Model of Blockchain Hierarchical Proxy
+Blockchain Enabled Supply Chain using Machine Learning for Secure Cargo Tracking
+Self-stabilizing c-wave algorithms for arbitrary networks
+Power Trading Blockchain using Hyperledger Fabric
+Blockchain-Based Secure and Privacy-Preserving Clinical Data Sharing and Integration
+AC/DC: Adaptive Cutoffs and Disputable Cutoffs for Robust Critical Transactions in Smart-Contracts
+OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding
+Optimization of consensus algorithm for drug detection block chain based on cultural genetic algorithm; [基于文化遗传算法的毒品检验区块链共识算法优化]
+On Distributed Randomness Generation in Blockchains
+On Consensus Number 1 Objects
+On the anonymity guarantees of anonymous proof-of-stake protocols
+Tailstorm: A Secure and Fair Blockchain for Cash Transactions
+Gas consumption-aware dynamic load balancing in ethereum sharding environments
+Coalition Formation Game for Cost-Efficient Multiparty Payment Channel in Payment Channel Networks
+Dynamically adjusting the mining capacity in cryptocurrency with binary blockchain
+Artificial Intelligence Blockchain Based Fake News Discrimination
+Horizontal wind loads on open-frame, low-rise buildings
+Blockchain and public service delivery: a lifetime cross-referenced model for e-government
+Performance Evaluation of NFT Trading Platform Based on Hyperledger Fabric Blockchain
+Blockchain-Based Automatic Tracking and Extracting Construction Document for Claim and Dispute Support
+Parallel analysis of Ethereum blockchain transaction data using cluster computing
+Introduction to Industry 5.0: Technology and tools for harmonising human and computer
+Research on DAG Based Consensus Mechanism for Adjustable Load Metering Data
+Distributed Ledger Systems to Improve Data Synchronization in Enterprise Processes
+Blockchain Node Storage Optimization Scheme; [区块链节点存储优化方案]
+Exploiting the laws of order in smart contracts
+Performance Modeling of the Consensus Mechanism in a Permissioned Blockchain
+Fluid flow around and through a screen
+The design of a mobile number portability system on a permissioned private blockchain platform
+Thread Optimization in Cloud Environment Using Blockchain
+AuthBlock: Authentication Framework Using Ethereum Blockchain
+Legal dilemmas of Estonian artificial intelligence strategy: in between of e-society and global race
+A DPN (delegated proof of node) mechanism for secure data transmission in IoT services
+Blockchain based Secure Erlang Server for Request based Group Communication over XMPP
+Achieving Security in Proof-of-Proof Protocol with Non-Zero Synchronization Time
+Attention and retail investor herding in cryptocurrency markets
+Jurisprudence: blockchain enabled privacy preserving framework complying digital ethics
+Trie-Hashimoto: State Trie-Based Proof-of-Work Mining for Optimizing Blockchain Storage
+A High Performance Concurrency Protocol for Smart Contracts of Permissioned Blockchain
+Blockchain and edge computing–based architecture for participatory smart city applications
+Self-Supervised 3D Reconstruction and Ego-Motion Estimation Via On-Board Monocular Video
+EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes
+Probability of double spend attack for network with non-zero time delay
+Design and Implementation of Access Control for Pension Data : A Smart Contract Approach
+The ultrasonographic features of female reproductive system extraosseous Ewing's Sarcoma
+A parallel proof of work to improve transaction speed and scalability in blockchain systems
+Block chain Based Temperature and Interactive Control Strategy Implementations for Industry Applications
+Analysis of incentive mechanism in Repchain
+An improved gossip algorithm based on semi-distributed blockchain network
+MVCom: Scheduling most valuable committees for the large-scale sharded blockchain
+Window Based BFT Blockchain Consensus
+A Three-Tier Authentication Scheme for Kerberized Hadoop Environment
+A Consortium Blockchain System Designed for Muti-Domain Cooperative Alliance
+A study on the impact of demonetisation on cryptocurrency in India
+The Exchange Center: A Case Study of Hybrid Decentralized and Centralized Applications in Blockchain
+Women, Consider Crypto: Gender in the Virtual Economy of Decentralized Finance
+Forcing function effects on unsteady aerodynamic gust response: Part 1—forcing functions
+Scalable Model-Based Decentralized Applications in the Cloud Using Certificates and Blockchains
+Swarm: A High-Performance Asynchronous BFT Protocol Adapted to High Network Delay
+Automated Tracking of Electrical Engineer Competencies through Blockchain Technology
+Split-Join: A Blockchain Framework for Improving Scalability and Performance
+Qurain al-Thamad valley hydrological aspects extraction using remote sensing and GIS techniques
+An Efficient Decentralized Mutual Authentication Scheme Between Avatars for Metaverse
+SnapshotPrune: A Novel Bitcoin-Based Protocol Toward Efficient Pruning and Fast Node Bootstrapping
+A microtransaction model based on blockchain technology to improve service levels in public transport sector in Sri Lanka
+A Blockchain-Enabled Approach for Enhancing Synchrophasor Measurement in Smart Grid 3.0
+Parallel Management of IoV Information enabled by Blockchain and Decentralized Autonomous Organizations
+Blockchain applications for traceability and food safety in agri-food supply chain: cherry product application
+The key security management scheme of cloud storage based on blockchain and digital twins
+Suspicious minds: Cinematic depiction of distrust during epidemic disease outbreaks
+Sync or Fork: Node-Level Synchronization Analysis of Blockchain
+Forcing function effects on unsteady aerodynamic gust response part 1: Forcing functions
+Blockchain Based Data Integrity Verification for Cloud Storage with T-Merkle Tree
+Towards a Trust-Enhanced Blockchain P2P Topology for Enabling Fast and Reliable Broadcast
+Smart contracts and blockchain: legal issues and implications for Indian contract law
+ParSE: Efficient Detection of Smart Contract Vulnerabilities via Parallel and Simplified Symbolic Execution
+Is blockchain a solution for logistics and freight transportation problems?
+Blockchain Based High Performance User Authentication in Electric Information Management System
+Distributed authentication framework for Hadoop based bigdata environment
+DeFi and NFTs Hinder Blockchain Scalability
+Privacy in bitcoin transactions: New challenges from blockchain scalability solutions
+Blockchain Based Log System
+Method and Application of Power Grid Model Management based on Blockchain
+A Process Calculus for Formally Verifying Blockchain Consensus Protocols
+VANET Secure Reputation Evaluation & Management Model Based on Double Layer Blockchain
+A robust retail POS system based on blockchain and edge computing
+RETRACTED ARTICLE: Congestion Control of Multipath Parallel Transmission of Data for Blockchain Applications
+Outsourced data integrity verification based on blockchain in untrusted environment
+MoryFabric : Reducing Transaction Abort by Actual Validity Verification and Reordering
+An Efficient Authentication Scheme Using Blockchain as a Certificate Authority for the Internet of Drones
+Are green cryptocurrencies really green? New evidence from wavelet analysis
+BDLedger: A Scalable Distributed Ledger for Large-Scale Data Recording
+FMSM: A Fuzzy Multi-keyword Search Scheme for Encrypted Cloud Data based on Multi-chain Network
+Forcing Function Effects on Unsteady Aerodynamic Gust Response Part 1: Forcing Functions
+Churn in the Bitcoin Network
+Baldur: A Hybrid Blockchain Database with FPGA or GPU Acceleration
+Twisted Laguerre-Gaussian mode division multiplexing to support blockchain applications
+Improving transaction speed and scalability of blockchain systems via parallel proof of work
+Lattice-Like Blockchain System for Maintaining the Data Privacy in the Distributed Computation of Carbon Emission
+The Al-Abiadh valley drainage basin environmental aspects extraction using quantitatively morphometric analyses of shuttle radar topographic mission data
+KEVM: A complete formal semantics of the ethereum virtual machine
+Tangle the Blockchain:Towards Connecting Blockchain and DAG
+Hybrid peer-to-peer network based layered blockchain architecture for enhancement of synchronization performance
+An on-chain trading model of real world asset backed digital assets
+Partitioning Ethereum without Eclipsing It
+Blockchain-Based Boothless E-Voting System
+Resume = Resume? The effects of blockchain, social media, and classical resumes on resume fraud and applicant reactions to resumes
+CPU-GPU Collaborative Acceleration of Bulletproofs - A Zero-Knowledge Proof Algorithm
+Delta encoding overhead analysis of cloud storage systems using client-side encryption
+Parallel Intelligence-enabled IoV Information Management System based on Blockchain
+BlockP2P: Enabling Fast Blockchain Broadcast with Scalable Peer-to-Peer Network Topology
+BoR: Toward High-Performance Permissioned Blockchain in RDMA-Enabled Network
+Medical Waste Treatment Process Based on Blockchain Technology - A Case Study of Covid-19 Waste Handling in Vietnam
+Synchronized aggregate signatures from the RSA assumption
+Research on Hyperledger Fabric Consensus Mechanism Based on Load Balancing Algorithm
+An innovative key agreement protocol with complex attribute authentication based on blockchain
+Managing IoT devices using blockchain platform
+Data validation and verification using blockchain in a clinical trial for breast cancer: Regulatory sandbox
+Scheduling Most Valuable Committees for the Sharded Blockchain
+Pyramid: A layered sharding blockchain system
+Optimizing validation phase of hyperledger fabric
+A Report on CPSS-Based Parallel Intelligence in SOLI, ICVES, and FISTS 2016
+A Cross-Border E-Commerce Approach Based on Blockchain Technology
+Enhancing Node Selection in Blockchain-Enabled Edge Internet of Things (IoT): A Fuzzy Logic Approach for Improved Performance
+EVMTracer: Dynamic Analysis of the Parallelization and Redundancy Potential in the Ethereum Virtual Machine
+The counterfeit degree certificate: application of blockchain technology in higher education in India
+Cycle: Sustainable Off-Chain Payment Channel Network with Asynchronous Rebalancing
+Decentralized Access Control Mechanism with Temporal Dimension Based on Blockchain
+Partitionable asynchronous cryptocurrency blockchain
+A Blockchain-based Framework for Central Bank Digital Currency
+TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts
+Building a Digital Bridge Between Sri Lankan Farmers and Retailers: Conceptual Mobile Application Prototype
+tMPT: Reconfiguration across Blockchain Shards via Trimmed Merkle Patricia Trie
+Prophet: Conflict-Free Sharding Blockchain via Byzantine-Tolerant Deterministic Ordering
+ElectionBlock: An Electronic Voting System using Blockchain and Fingerprint Authentication
+The appropriation of blockchain for small and medium-sized enterprises
+Topology optimization and forwarding strategy design for blockchain network; [区块链网络拓扑优化和转发策略设计]
+Mapping potential heatsink conductance across the hydraulic plane
+Crosschain deals and adversarial commerce
+Cross-chain deals and adversarial commerce
+Automatic Reward System Based on Public Blockchains
+(De)stabilizing sexual violence discourse: Masculinization of victimhood, organizational blame, and labile imperialism
+A case study approach to high-containment laboratory workflows promoting sustainability, networking and innovation; [A case study approach to high-containment laboratory workflows promoting sustainability, networking and innovation]
+Secure, transparent and uniform mobile money for internet-underserved areas using sporadically-synchronized blockchain
+Research on the ecology model of crowdfunding and crowdsourcing for digital education service and its applications in China
+A blockchain integration to support failures prediction from log files in multi-agent systems technology
+An Improved TFIDF Algorithm Based on Dual Parallel Adaptive Computing Model
+Stability and Scalability of Blockchain Systems
+Bead Strand Model: a high-efficiency storage structure for self-destructing data in cloud environment
+Robust and Fast Blockchain State Synchronization
+Permissioned blockchain through the looking glass: Architectural and implementation lessons learned
+Leveraging public-private blockchain interoperability for closed consortium interfacing
+BSLA: Blockchain-assisted Secure and Lightweight Authentication for SGIN
+Trustless Collaborative Cloud Federation
+Bb-pki: Blockchain-based public key infrastructure certificate management
+Stability and Scalability of Blockchain Systems
+Network Security for IoT Device using Blockchain Technology
+A High-Concurrency Multi-Party Off-Chain Payment Scheme; [一种支持高并发的多人链下支付方案]
+Integration of blockchain with emerging technologies in AEC industry: Merits and challenges
+Scaling Blockchain via a Lightweight Tree-based Sharding System
+Effect of Miner Incentive on the Confirmation Time of Bitcoin Transactions
+Distributed runtime verification of metric temporal properties
+Block-STM Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing
+Permissionless Clock Synchronization with Public Setup
+POSTER: Oblivious Access System on Decentralized Database over Parallel Smart Contract Model
+XOX Fabric: A hybrid approach to blockchain transaction execution
+Hybrid Blockchain Database Systems: Design and Performance
+Race to innovate
+Subtraction of Hyperledger Fabric: A blockchain-based lightweight storage mechanism for digital evidences
+APPROACHES TO LEGAL REGULATION OF THE USE OF DIGITAL CURRENCIES: RISKS OR ECONOMIC POTENTIAL; [ABORDAGENS PARA A REGULAÇÃO LEGAL DO USO DE MOEDAS DIGITAIS: RISCOS OU POTENCIAL ECONÔMICO]
+The impact of artificial intelligence on today's India: Opportunities and challenges
+Enhanced Congestion Control in DTN using DNA Computing
+Consensus from signatures of work
+Scalable blockchain protocol based on proof of stake and sharding
+Double spend races
+Fraud risk assessment within blockchain transactions
+Unfolding Symbolic Attributed Graph Grammars
+Leveraging bitcoin blockchain technology to modernize security perfection under the uniform commercial code
+A framework for efficient cross-chain token transfers in blockchain networks
+Mitigating the risks of whistleblowing an approach using distributed system technologies
+Hydrodynamic characteristics of fine-mesh minnow netting for sampling nets
+BIoTS-Path: Certification Transmission of Supply Chains Based on Blockchain–Internet of Things Architectures by Validating the Information Path
+An Innovative Reliable Client-Centric Deep Learning Inference Methodology
+Token-Based Access Control
+Runtime Verification for Blockchains
+The consensus number of a cryptocurrency
+Waterfall: A Scalable Distributed Ledger Technology
+RCC: Resilient concurrent consensus for high-throughput secure transaction processing
+BlockGraph: a scalable secure distributed ledger that exploits locality
+A Security Problem Caused by the State Database in Hyperledger Fabric
+Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency
+A PoL Protocol for Spatiotemporal Blockchain
+Effectiveness of point-rating system for university physical education monitoring based on project-oriented platform
+Exercise and Diet Architecture Design Based on Blockchain Network
+XDBAuth: Blockchain Based Cross Domain Authentication and Authorization Framework for Internet of Things
+RFID tag ownership transfer protocol using blockchain
+DNS-BC: Fast, Reliable and Secure Domain Name System Caching System Based on a Consortium Blockchain
+SharpEdge: A QoS-driven task scheduling scheme with blockchain in mobile edge computing
+Oblivious Access for Decentralized Database Systems: A New Asymmetric Framework from Smart Contracts†
+Construction of Metaverse Technology System and Its Future Perspectives; [元宇宙技术体系构建与展望]
+CISV: A Cross-Blockchain Information Synchronization and Verification Mode
+BSRA: Blockchain-Based Secure Remote Authentication Scheme for Fog-Enabled Internet of Things
+Blockchain-enabled Clustered and Scalable Federated Learning (BCS-FL) Framework in UAV Networks
+Impact of endorsement policy on the performance of blockchain-based VANET
+Blockchain Based Auditable Access Control for Ship Furl Consumption Manage
+Design and Validation of BlockEval, A Blockchain Simulator
+Scalable blockchain based smart contract execution
+Impact of Blockchain Delay on Grid-Tied Solar Inverter Performance
+Endogenous trusted network architecture for intelligent sharing; [面向智能共享的内生可信网络体系架构]
+Blockchain-Based Formal Model for Food Supply Chain Management System Using VDM-SL
+An Approach of Secure Two-Way-Pegged Multi-sidechain
+Research on design responsibility and right traceability system integrating bim and blockchain
+A Note on Optimal Fees for Constant Function Market Makers
+Hybrid concurrency control protocol for data sharing among heterogeneous blockchains
+Research on financial sharing framework system based on blockchanin technilogy
+Blockchain Assisted Intra-Twin and Inter-Twin Authentication Scheme for Vehicular Digital Twin System
+Scalable Multi-Chain Coordination via the Hierarchical Longest Chain Rule
+SoK: Layer-Two Blockchain Protocols
+FLoBC: A Decentralized Blockchain-Based Federated Learning Framework
+Votes-as-a-Proof (VaaP): Permissioned Blockchain Consensus Protocol Made Simple
+Wind-tunnel tests of conveyer-belt housing structures
+Cross-organizational data exchange based on consortium blockchain with consistency guarantee
+Protecting privacy and promoting learning: blockchain and privacy preserving technology should inform new ethical guidelines for health data
+Parallel-Education-Blockchain Driven Smart Education: Challenges and Issues
+Utilizing Parallelism in Smart Contracts on Decentralized Blockchains by Taming Application-Inherent Conflicts
+Blockchain Meets DAG: A BlockDAG Consensus Mechanism
+Unnecessary Input Heuristics and PayJoin Transactions
+Performance Optimization for Blockchain-Enabled Distributed Network Function Virtualization Management and Orchestration
+Distributed Runtime Verification of Metric Temporal Properties for Cross-Chain Protocols
+LoCom: An Efficient Load-Balanced Concurrency Optimization Method for Bulk-Commodity Regulatory Systems
+Modeling Ledger Dynamics in IOTA Blockchain
+State-of-the-art Survey of Consensus Mechanisms on DAG-based Distributed Ledger; [基于DAG的分布式账本共识机制研究]
+DQN-Based Dynamic Query Optimization Method of Data Cross-Chain Based on Multi-channel Relay Chain
+A Theoretical Model Characterizing Tangle Evolution in IOTA Blockchain Network
+A new season in the risk landscape: Connecting the advancement in technology with changes in customer behaviour to enhance the way risk is measured and managed
+Large-amount Blockchain Transaction Conflict Resolution Technology Based on Dependency Graph for Multi-property Assets
+Blockchain Performance Analysis for Supporting Cross-Border E-Government Services
+FileDAG: A Multi-Version Decentralized Storage Network Built on DAG-Based Blockchain
+The consensus number of a cryptocurrency
+BCT: An Efficient and Fault Tolerance Blockchain Consensus Transform Mechanism for IoT
+The Application of Blockchain Technology in the Governance of State-owned Enterprises
+Waterfall: Gozalandia. Distributed protocol with fast finality and proven safety and liveness
+A secure and targeted mobile coupon delivery scheme using blockchain
+Structural Health Monitoring Systems Operating in a 5G-Based Network
+An SGX-based execution framework for smart contracts upon permissioned blockchain
+Cob: A Consensus Layer Enabling Sustainable Sharding-Based Consensus Protocols
+Secure IoT access at scale using blockchains and smart contracts
+A distributed message authentication scheme with reputation mechanism for Internet of Vehicles
+PageRank and HodgeRank on Ethereum Transactions: A Measure for Social Credit
+Decentralized Parallel Blockchain Agricultural Product Traceability System Security Analysis
+SodsBC: A Post-Quantum by Design Asynchronous Blockchain Framework
+High-performance smart contracts concurrent execution for permissioned blockchain using SGX
+Blockchain-Enabled Next Generation Access Control
+Formalizing and Verifying Decentralized Systems with Extended Concurrent Separation Logic
+An extensive agent-based simulation study of sycomore++, a DAG-based permissionless ledger
+SEFrame: An SGX-enhanced Smart Contract Execution Framework for Permissioned Blockchain
+Perception of success questionnaire; [Le questionnaire de perception du succè en sports: Validation Française du]
+Blockchain-based cloud-edge clock calibration in IoT
+Orchestration constraints BlockChained smart contract and integrated digital twins manufacturing systems: ManuChain4.0-based application paradigm and case study
+Weaver: A high-performance, transactional graph database based on refinable timestamps
+Exploring role of green financing in blockchain markets for climate change mitigation in China
+Boosting the Decision-Making in Smart Ports by Using Blockchain
+A Secure Parallel Pattern Mining System for Medical Internet of Things
+Authentication scheme for industrial Internet of things based on DAG blockchain
+Parallel Byzantine fault tolerance method for blockchain
+Design New Collision Resistant Hash Function for Blockchain in V2V Communication
+Lilac: Parallelizing Atomic Cross-Chain Swaps
+Building a Private Bitcoin-Based Payment Network among Electric Vehicles and Charging Stations
+Applications of Blockchain and IoT in Sustainability Information Disclosure
+Multi-core and SIMD Architecture Based Implementation on SHA-256 of Blockchain
+An Efficient Blockchain Transaction Retrieval System
+Decentralized Marketplace Using Blockchain, Cryptocurrency, and Swarm Technology
+Efficient and Secure Data Sharing for 5G Flying Drones: A Blockchain-Enabled Approach
+Parallel governance for decentralized autonomous organizations enabled by blockchain and smart contracts
+Blockchain technology for pharmaceutical drug distribution in Indonesia: A proposed model
+Composable Ledgers for Distributed Synchronic Web Archiving
+Blockchain Based Dynamic Spectrum Access of Non-Real-Time Data in Cyber-Physical-Social Systems
+IC Design with Multiple Engines Running CBC Mode SM4 Algorithm; [多引擎并行CBC模式的SM4算法的芯片级实现]
+Secure Time Synchronization Scheme in IoT Based on Blockchain
+Model-Driven Engineering for Multi-party Interactions on a Blockchain – An Example
+SodsBC: Stream of Distributed Secrets for Quantum-safe Blockchain
+Community Detection Algorithm for Mitigating Eclipse Attacks on Blockchain-enabled Metaverse
+Synchronizing DDoS defense at network edge with P4, SDN, and Blockchain
+vCubeChain: A scalable permissioned blockchain
+FIN: Practical Signature-Free Asynchronous Common Subset in Constant Time
+Regional porosity variation in Thamama-B reservoirs of Abu Dhabi
+A Novel Approach for Predictable Governance of Decentralized Autonomous Organizations Based on Parallel Intelligence
+Vericom: A Verification and Communication architecture for IoT-based blockchain
+Blocksat: On-demand access to shared-use satellite constellations
+G-SM3: High-Performance Implementation of GPU-based SM3 Hash Function
+Gauze: enabling communication-friendly block synchronization with cuckoo filter
+Accelerating private-key cryptography via multithreading on symmetric multiprocessors
+Composing networks of automated market makers
+Chipmunk: Better Synchronized Multi-Signatures from Lattices
+PaVM: A Parallel Virtual Machine for Smart Contract Execution and Validation
+Tree-Chain: A Fast Lightweight Consensus Algorithm for IoT Applications
+Blockchain-based Secure Coordination for Distributed SDN Control Plane
+COVID-19 Cryptocurrency Investment: Wealth Disparities and Portfolio Diversification
+A MultiLayer BlockChain Based Framework for Internet of Things
+Blockchain-based access control architecture for multi-domain environments
+SodsBC/SodsBC++ & SodsMPC: Post-quantum Asynchronous Blockchain Suite for Consensus and Smart Contracts
+SoK: Transparent Dishonesty: Front-Running Attacks on Blockchain
+A Blockchain-Based Privacy Protection Application for Logistics Big Data
+Self-stabilizing Byzantine Tolerant Replicated State Machine Based on Failure Detectors
+BPPV-Chain: A Sharding Blockchain System with Output Shard Batch Processing and Parallel Transaction Verification
+Development of E-Service Provision System Architecture Based on IoT and WSNs for Monitoring and Management of Freight Intermodal Transportation
+Security Analysis of Blockchain Layer-One Sharding Based Extended-UTxO Model
+Blockchain based remittances and mining using CUDA
+Accelerating Elliptic Curve Digital Signature Algorithms on GPUs
+Tiger Tally: Cross-Domain Scheme for Different Authentication Mechanism
+Cob: a leaderless protocol for parallel Byzantine agreement in incomplete networks
+Secure Trust Management Scheme for Autonomous Driving Map Updating
+Towards random-honest miners selection and multi-blocks creation: Proof-of-negotiation consensus mechanism in blockchain networks
+Consensus-Free Ledgers When Operations of Distinct Processes are Commutative
+Execution of Smart Contacts Concurrently Using Fine-Grain Locking and Asynchronous Functions
+A Novel Heuristics for Validating Pairwise Transactions on Cryptocurrencies
+Certificate-Free Cross-Domain Fine-Grained Access Control Mechanism for Industrial Internet
+Blockchain for consortium: A practical paradigm in agricultural supply chain system
+Censorship Resistance in On-Chain Auctions
+Ledger combiners for fast settlement
+Rapid Blockchain Scaling with Efficient Transaction Assignment
+A novel framework for policy based on-chain governance of blockchain networks
+Development of an all-based method using blockchain technologies and cuda technologies
+A Lightweight and Secure Communication Protocol for the IoT Environment
+Performance analyses for applying machine learning on bitcoin miners
+Metaverse for Social Good: A University Campus Prototype
+Trading Mechanism, Model and Technical Realization of Weakly-centralized Distribution Network Market; [弱中心化的配电网市场交易机制,模型与技术实现]
+Decentralized autonomous organizations: the state of the art, analysis framework and future trends; [去中心化自治组织：发展现状、分析框架与未来趋势]
+Distributed medical data storage model based on blockchain technology
+LNBFSM: A Food Safety Management System Using Blockchain and Lightning Network
+LPP-BPSI: A location privacy-preserving scheme using blockchain and Private Set Intersection in spatial crowdsourcing
+Banking on Blockchain: An Evaluation of Innovation Decision Making
+DEVISING A METHOD FOR RAPID DATA RETRIEVAL USING EXPLORERS FOR BLOCKCHAIN ANALYSIS
+The Synchronization Power (Consensus Number) of Access-Control Objects: the Case of AllowList and DenyList
+Using Trust Measures to Optimize Neighbor Selection for Smart Blockchain Networks in IoT
+A Blockchain and Gamification Approach for Smart Parking
+Model Checking of Hyperledger Fabric Smart Contracts
+Topology generated non-fungible tokens: Blockchain as infrastructurefor a circular economy in architectural design
+Bulwark: A proof-of-stake protocol with strong consistency and liveness
+Blockchain-Based Collaborative Certificate Revocation Systems Using Clustering
+Blockchain-based trust management for verifiable time synchronization service in IoT
+A blockchain-based clock synchronization Scheme in IoT
+Smart contract applications in the built environment: How prepared are Nigerian construction stakeholders?
+Parallel Execution of Solidity Smart Contract using Append-only Shared Log
+Co-De|GT: The Gamification and Tokenisation of More-Than-Human Qualities and Values
+Differential Optimization Federated Incremental Learning Algorithm Based on Blockchain
+Tuxedo: Maximizing Smart Contract Computation in PoW Blockchains
+Raft consensus algorithm based on credit model in consortium blockchain
+A Novel Consensus Algorithm Based on Segmented DAG and BP Neural Network for Consortium Blockchain
+The Construction of Foreign Language Innovation and Entrepreneurship Information Platform Based on Big Data Technology
+Edge computing health model using P2P-based deep neural networks
+PTangle: A Parallel Detector for Unverified Blockchain Transactions
+A DDoS Attack Defense Method Based on Blockchain for IoTs Devices
+Multi-pipeline HotStuff: A High Performance Consensus for Permissioned Blockchain
+BlockOPE: Efficient Order-Preserving Encryption for Permissioned Blockchain
+Effective Capacity Analysis on Communication of Blockchain Synchronization Software-Defined Industrial Internet of Things
+Bitcoin Blockchain Compression Algorithm for Blank Node Synchronization
+Blockchain based smart contract for bidding system
+ParBFT: An Optimized Byzantine Consensus Parallelism Scheme
+SCCA: A slicing-and coding-based consensus algorithm for optimizing storage in blockchain-based IoT data sharing
+Scaling Blockchain Systems using DAG
+Snow White: Robustly Reconfigurable Consensus and Applications to Provably Secure Proof of Stake
+Platform modelling and scheduling game with multiple intelligent cloud-computing pools for big data
+Digitalized and Decentralized Open-Cry Auctioning: Key Properties, Solution Design, and Implementation
+An Open Identity Authentication Scheme Based on Blockchain
+Scaling Byzantine Fault-Tolerant Consensus With Optimized Shading Scheme
+Byzantine-Tolerant distributed grow-only sets: Specification and applications
+The DAO to Social Transportation: Towards Smart Mobility in Cyber-Physical-Social Space
+Atomic Appends in Asynchronous Byzantine Distributed Ledgers
+Scalable Blockchain Architecture: Leveraging Hybrid Shard Generation and Data Partitioning
+Parallel Byzantine Consensus Based on Hierarchical Architecture and Trusted Hardware
+GeckoDAG: Towards a Lightweight DAG-Based Blockchain via Reducing Data Redundancy
+A fast and scalable payment network with bitcoin duplex micropayment channels
+Edge Trusted Sharing: Task-Driven Decentralized Resources Collaborate in IoT
+Atomic Appends in Asynchronous Byzantine Distributed Ledgers
+TBCM consensus mechanism and parallel storage structure; [事 务 块 认 证 机 制 与 并 行 存 储 结 构]
+AVX512Crypto: Parallel Implementations of Korean Block Ciphers Using AVX-512
+Business Resiliency for Enterprise Blockchain Payment Systems
+An Efficient Decentralized Domain Name System Based on Consortium Management; [一种基于联盟管理的高效分布式域名系统]
+Enhancing Blockchain Performance via On-chain and Off-chain Collaboration
+Increasing TPS rate of state-based blockchains by parallel mining
+The Method and Application of Digital Twinning in Medicine
+Adding concurrency to smart contracts
+LMPT: A Novel Authenticated Data Structure to Eliminate Storage Bottlenecks for High Performance Blockchains
+Threats and Opportunities: Blockchain meets Quantum Computation
+A Supervised Anonymous Issuance Scheme of Central Bank Digital Currency Based on Blockchain
+Read-uncommitted transactions for smart contract performance
+Founding secure computation on blockchains
+PoShapley-BCFL: A Fair and Robust Decentralized Federated Learning Based on Blockchain and the Proof of Shapley-Value
+Proof of Stake And Proof of Work Approach for Malware Detection Technologies
+Scaling Smart Contracts via Layer-2 Technologies: Some Empirical Evidence
+A Metaheuristic Approach for Encrypting Blockchain Data Attributes Using Ciphertext Policy Technique
+Designing Refund Bonus Schemes for Provision Point Mechanism in Civic Crowdfunding
+Towards a comprehensive blockchain architecture continuum
+VRust: Automated Vulnerability Detection for Solana Smart Contracts
+The Impact of Artificial Intelligence and Blockchain Technology on the Development of Modern Educational Technology
+SBLWT: A secure blockchain lightweight wallet based on trustzone
+Inflation and cryptocurrencies revisited: A time-scale analysis
+Analysis of the communication traffic for blockchain synchronization of IoT devices
+ParBFT: Faster Asynchronous BFT Consensus with a Parallel Optimistic Path
+Addressing the Tangle Vulnerability: A Preventive Strategy for IOTA by Using Large Deviation Theory
+SoK: Development of Secure Smart Contracts – Lessons from a Graduate Course
+MetaEdu: a new framework for future education
+A Modified PointNet-Based DDoS Attack Classification and Segmentation in Blockchain
+Diffusion deposition on model fibrous filters with intermediate porosity
+A Lightweight Blockchain-Based Remote Mutual Authentication for AI-Empowered IoT Sustainable Computing Systems
+Building Efficient Parallel Endorsement Node on Blockchain Systems
+Toward Prevention of Parasite Chain Attack in IOTA Blockchain Networks by Using Evolutionary Game Model
+The Blockchain based Microbial Pollution Identification Model for the Large River Environment in India
+POSTER: OCToPus: Semantic-aware Concurrency Control for Blockchain Transactions
+Securing the LoRaWAN join procedure using blockchains
+Adding concurrency to smart contracts
+Blockchain-based Deep Learning Algorithm for Detecting Malware
+A Concurrent optimization consensus system based on blockchain
+BookChain: A Secure Library Book Storing and Sharing in Academic Institutions using Blockchain Technology
+Value Chain Reconstruction of Cultural Product Property Rights Under the Data-driven Background; [数据驱动下文化产品产权价值链重构研究]
+Value and Design of Traceability-Driven Blockchains
+A QoS optimization system for complex data cross-domain request based on neural blockchain structure
+Transaction Conflict Control in Hyperledger Fabric: A Taxonomy, Gaps, and Design for Conflict Prevention
+A Secure and Privacy-Preserving Blockchain-Based XAI-Justice System
+Analyzing the Performance of the Inter-Blockchain Communication Protocol
+LMPTs: Eliminating Storage Bottlenecks for Processing Blockchain Transactions
+IPv4 and IPv6 for Blockchain Networks: a Comparative Analysis
+Blockchain and Intent-Based Networking: A Novel Approach to Secure and Accurate Network Policy Implementation
+Decentralized On-Chain Data Access via Smart Contracts in Ethereum Blockchain
+Petri meta-compiler - A recursive approach to system design and development
+Schain: A scalable consortium blockchain exploiting intra-and inter-block concurrency
+WINTER IN TOMIS AND “WINTER” IN HELL: ONCE MORE ABOUT THE PARALLELS BETWEEN DANTE AND OVID; [ЗИМА В ТОМАХ И «ЗИМА» В АДУ: ЕЩЕ РАЗ О ПЕРЕКЛИЧКАХ МЕЖДУ ДАНТЕ И ОВИДИЕМ]
+Sub Contractor Life Cycle Management in Enterprise System Using Blockchain Technology
+Towards Scalable Cross-Chain Messaging
+Block-LSM: An Ether-aware Block-ordered LSM-tree based Key-Value Storage Engine
+Towards Effective yet Frugal Blockchain Network Emulation
+Trusted Assurance for Transactions on Big Data Clouds: An Improved Blockchain-Based Approach
+Bi-Meta: Bi-Alternating Resource Provisioning and Heterogeneous Auction for Mobile Metaverse
+Scaling Zero-Knowledge to Verifiable Databases
+Security improvement in a modified merkle-tree computation and storage comparison between different cloud providers
+DEPLEST: A blockchain-based privacy-preserving distributed database toward user behaviors in social networks
+Blockchain-based smart contract access control system
+PEEP: A Parallel Execution Engine for Permissioned Blockchain Systems
+Tuxedo: Maximizing Smart Contract Computation in PoW Blockchains
+GearBox: Optimal-size Shard Committees by Leveraging the Safety-Liveness Dichotomy
+A Smart Contract-based BPMN Choreography Execution for Management of Construction Processes
+Tuxedo: Maximizing Smart Contract Computation in PoW Blockchains
+TIPS: Transaction Inclusion Protocol With Signaling in DAG-Based Blockchain
+Fast Isomorphic State Channels
+Fabric-Visualizer: A Transaction Dependency Visualizer for Hyperledger Fabric
+Enter the Hydra: Towards principled bug bounties and exploit-resistant smart contracts
+Fusion-partitioning genetic task scheduling algorithm based on deterministic annealing technology in DAG blockchains; [DAG区块链中基于确定性退火技术的融合分割遗传任务调度算法]
+CyberChain: Cybertwin Empowered Blockchain for Lightweight and Privacy-Preserving Authentication in Internet of Vehicles
+The extended utxo model
+Out-of-band transaction pool sync for large dynamic blockchain networks
+Pressure drop in fibrous filter – Representative domain size and effect of fibre orientation
+Multi-VPP Multi-Centralized Collaborative Co-Governance Model Based on DPoS Consensus Mechanism
+Benzene: Scaling Blockchain With Cooperation-Based Sharding
+A Dynamic Decision-Making Method for Endorser Node Selection
+A Blockchain-Based Network Alignment System for Power Equipment Data Inconsistency
+Using Blockchain to Reduce Multi-Server Edge Computing Latencies for Supervised Learning
+Neural Fairness Blockchain Protocol Using an Elliptic Curves Lottery †
+In-database connected component analysis
+A Carbon Accounting and Trading Platform for the uk Construction Industry
+On-line tool wear monitoring using geometric descriptors from digital images
+Security enhancement of time synchronization and fault identification in WAMS using a two-layer blockchain framework
+The passage of a plane shock wave through a wire gauze
+We-TIPS: Weak-Block-Based Transaction Inclusion Protocol with Signaling in DAG-based Blockchain
+Blockchains meet distributed hash tables: Decoupling validation from state storage
+Formal Specification and Model Checking of the Tendermint Blockchain Synchronization Protocol
+Multihop Concurrent Big Data Sharing via Multithreading using Blockchain on a Decentralized Network
+Tendermint Blockchain Synchronization: Formal Specification and Model Checking
+The Trusted Traceability System of Agricultural Internet of Things Based on Blockchain; [基于区块链的农业物联网可信溯源体系]
+Managing Write Access without Token Fees in Leaderless DAG-based Ledgers
+Quantum relay blockchain and its applications in key service
+Exploring the Monero Peer-to-Peer Network
+SREP: Out-Of-Band Sync of Transaction Pools for Large-Scale Blockchains
+Making byzantine consensus live
+Intelligence and temperament as protective factors for mental health. A cross-sectional and prospective epidemiological study
+Towards Modeling and Verification of the CKB Block Synchronization Protocol in Coq
+Initial coin offerings (ICOS): The role of social media for organizational legitimacy and underpricing
+Do we really need another blockchain framework? A case for a legacy-friendly distributed ledger implementation based on Java EE web technologies
+A Decentralized Web 3.0 Platform for Manufacturing Customized Products
+PGS-BFT: A Pipeline-Based Graph Structure Byzantine Fault Tolerance Consensus Algorithm
+Efficient Blockchain-empowered Data Sharing Incentive Scheme for Internet of Things; [区块链赋能的高效物联网数据激励共享方案]
+Private Data Protection Scheme for Consortium Blockchain Based on Two-layer Cooperation; [基于双层协同的联盟区块链隐私数据保护方法]
+Parallel Execution of Blockchain Transactions with Sharding
+Design of personnel big data management system based on blockchain
+Secure Knowledge Sharing in Internet of Vehicles: A DAG-Enabled Blockchain Framework
+Efficient and Universally Composable Single Secret Leader Election from Pairings
+Parallel Transaction Execution in Blockchain and the Ambiguous State Representation Problem
+Interoperability and Synchronization Management of Blockchain-Based Decentralized e-Health Systems
+AaJeeViKa: Trusted Explainable AI Based Recruitment Scheme in Smart Organizations
+A proof-of-work based on MH-PBKDF2 algorithm
+Strain: A secure auction for blockchains
+RBaaS: A Robust Blockchain as a Service Paradigm in Cloud-Edge Collaborative Environment
+A hybrid blockchain system based on parallel distributed architecture for central bank digital currency
+JavaBIP meets VerCors: Towards the Safety of Concurrent Software Systems in Java
+On the Torus Pairwise Disjoint-Path Routing Problem
+An Experiment of a Parallel Entry Security Testing Approach using Ethereum Blockchain
+On Comparative Analysis of Advanced Omega Network and Irregular Advance Omega Network
+Possibility, legitimacy, and the new ontologies of choice: a comment on Brubaker
+Agricultural Metaverse: Key Technologies, Application Scenarios, Challenges and Prospects; [农业元宇宙：关键技术、应用情景、挑战与展望]
+Stochastic modeling and analysis of the bitcoin protocol in the presence of block communication delays
+High performance GPU computing based approaches for oil spill detection from multi-temporal remote sensing data
+The scalability challenge of ethereum: An initial quantitative analysis
+Making Byzantine consensus live
+Towards scalable blockchain analysis
+Efficient and Verifiable Query Mechanism of DAG Blockchain Based on Learned Index; [基于学习索引的图式区块链高效可验证查询机制]
+A Simulation Study on Block Generation Algorithm Based on TPS Model
+BPVSE: Publicly Verifiable Searchable Encryption for Cloud-Assisted Electronic Health Records
+Black-Box IoT: Authentication and Distributed Storage of IoT Data from Constrained Sensors
+Efficient Materialized View Maintenance and Trusted Query for Blockchain; [面向区块链的高效物化视图维护和可信查询]
+Digital Health, Corporeity and the New Techno-informational Order between Discipline and Open Control; [Salute digitale, corporeità e il nuovo ordine tecnologico-informazionale tra disciplina e controllo aperto e continuo]
+An Attribute-Based Access Control Scheme Based on Blockchain and Policy Ciphertext Searching; [基于区块链上策略密文检索的属性访问控制方案*]
+A Successive Framework: Enabling Accurate Identification and Secure Storage for Data in Smart Grid
+Analysis of Blockchain System With Token-Based Bookkeeping Method
+Veracity: declarative multicore programming with commutativity
+The Museum of the Future: a sedimentary cloud
+A new Multi-Agents System based on Blockchain for Prediction Anomaly from System Logs
+Synchronous structuralist word-formation methodology – the past of word-formation research or its permanent base?; [Metodologia synchronicznego słowotwórstwa strukturalistycznego – przeszłość w polskich badaniach słowotwórczych czy ich trwałe zaplecze?]
+Crypto-coin hierarchies: social contestation in blockchain networks
+Setchain: Improving Blockchain Scalability with Byzantine Distributed Sets and Barriers
+Cross-Domain Deep Code Search with Meta Learning
+Usage of deep learning and blockchain in compilation and copyright protection of digital music
+La utilización del blockchain en los procedimientos de concurrencia competitiva
+PUF-based dynamic secret-key strategy with hierarchical blockchain for UAV swarm authentication
+Liveness and Latency of Byzantine State-Machine Replication
+Better Predicates and Heuristics for Improved Commutativity Synthesis
+TABS: Transforming automatically BPMN models into blockchain smart contracts
+Computing the Heaviest Conflict-Free Sub-DAG in DAG-Based DLTs
+A verifiably secure and proportional committee election rule
+Holistic Research on Blockchain’s Consensus Protocol Mechanisms with Security and Concurrency Analysis Aspects of CPS
+Blockchain-based V2G Certificateless Ring Signcryption Privacy Protection Scheme
+Towards Data Minimization and Access Control for Immunization Data Sharing
+Food Supply Chain Traceability System Based on Multi-blockchain; [基于多链融合的粮食供应链溯源系统]
+Quick Order Fairness
+BlockJack: Towards improved prevention of ip prefix hijacking attacks in inter-domain routing via blockchain
+On the security of proofs of sequential work in a post-quantum world
+Supply Chain Intelligent Management System Based on Big Data Background
+Tackling Trust and Scalability of the Blockchain-Based Shared Manufacturing Concept
+FlyClient: Super-light clients for cryptocurrencies
+Liveness and latency of Byzantine state-machine replication
+Why Do My Blockchain Transactions Fail?: A Study of Hyperledger Fabric
+SSChain: A full sharding protocol for public blockchain without data migration overhead
+On the Performance of Using Parallel State Machine Replication to Implement Blockchains
+Scalable system and silicon architectures to Handle the workloads of the Post-Moore era
+Game theoretical analysis of cross-chain swaps
+A blockchain-based SLA monitoring and compliance assessment for IoT ecosystems
+Towards a Secure Communication of Data in IoT Networks: A Technical Research Report
+ECHAIN: Securing Electronic Device Provenance through Privacy-Preserving Consortium Blockchains
+Fair and trustworthy: Lock-free enhanced tendermint blockchain algorithm
+Hybrid Pointer Based Blockchain Solution and Ledger Data Services Interoperability
+A Model for Detecting Cryptocurrency Transactions with Discernible Purpose
+Tortoise and Hares Consensus: The Meshcash Framework for Incentive-Compatible, Scalable Cryptocurrencies
+Fork rate-based analysis of the longest chain growth time interval of a PoW blockchain
+On Finality in Blockchains
+Efficient parallel execution of block transactions in blockchain
+A true concurrent model of smart contracts executions
+Improving Blockchain Consensus Mechanism via Network Clusters
+BSEVOTING: A Conceptual Framework to Develop Electronic Voting System using Sidechain
+Blockchain's Role in Metaverse Trust and Transactions
+Blockchainification in the 4IR Gig Labor Market
+FlexiChain 3.0: Distributed Ledger Technology-Based Intelligent Transportation for Vehicular Digital Asset Exchange in Smart Cities
+The Impact of Derivatives on Spot Markets: Evidence from the Introduction of Bitcoin Futures Contracts
+Legal and smart! An exploratory case study on understandability of smart contracts
+Design of high-speed blockchain-based sidechaining peer to peer communication protocol over 5G networks
+DiPETrans: A framework for distributed parallel execution of transactions of blocks in blockchains
+Watchtower Selection in Off-Blockchain PCN Using Peterson Leader-Election Algorithm
+Secure exchange and effectual verification of educational academic records using hyperledger fabric block chain system
+A Deep Blockchain Framework-Enabled Collaborative Intrusion Detection for Protecting IoT and Cloud Networks
+Analysis of an Ethereum Private Blockchain Network Hosted by Virtual Machines Against Internal DoS Attacks
+Short Paper: On the Claims of Weak Block Synchronization in Bitcoin
+Tikiri—Towards a lightweight blockchain for IoT
+ReplayMPC: A Fast Failure Recovery Protocol for Secure Multiparty Computation Applications using Blockchain
+On Off-chaining Smart Contract Runtime Protection: A Queuing Model Approach
+Atomic Appends: Selling cars and coordinating armies with multiple distributed ledgers
+Multiple Layer Public Blockchain Approach for Internet of Things (IoT) Systems
+Towards Blockchain-based Multi-controller Managed Switching for Trustworthy SDN Operation
+Next generation stock exchange: Recurrent neural learning model for distributed ledger transactions
+Rethinking blockchain integration with the industrial internet of things
+Blockchain based enhanced ERP transaction integrity architecture and PoET consensus
+Phase synchronization in cryptocurrency network and its features
+Brick: Asynchronous Incentive-Compatible Payment Channels
+Leaderless consensus
+MicroCash: Practical Concurrent Processing of Micropayments
+An Information-Centric Networking Based Registry for Decentralized Identifiers and Verifiable Credentials
+Efficient Concurrent Execution of Smart Contracts in Blockchains Using Object-Based Transactional Memory
+Natural resources governance employing blockchain-based decision-making
+Federated Learning-based Privacy-aware Location Prediction Model for Internet of Vehicular Things
+Hydra: An Efficient Asynchronous DAG-Based BFT Protocol
+Blockchain in space industry
+NDP-Ledger: a high-throughput general-purpose acceleration architecture for blockchain applications; [NDP-Ledger: 面向区块链应用的通用高通量加速架构]
+A Collaborative Intrusion Detection System Using Deep Blockchain Framework for Securing Cloud Networks
+Improving the Robustness of IoT-Powered Smart City Applications Through Service-Reliant Application Authentication Technique
+Automatic generation of precise and useful commutativity conditions
+OptSmart: a space efficient Optimistic concurrent execution of Smart contracts
+Availability analysis of a permissioned blockchain with a lightweight consensus protocol
+Digital Transition and Sustainable Development Goals: A Theoretical Reflection on the Impact of I4.0 Technologies
+Rahasak—Scalable blockchain architecture for enterprise applications
+Fintech and Artificial Intelligence: a strategic alliance in the financing of third sector entities; [Las Fintech y la Inteligencia Artificial: una alianza estratégica en la financiación de las entidades del Tercer Sector]
+Synthesizing Precise and Useful Commutativity Conditions
+BigBFT: A Multileader Byzantine Fault Tolerance Protocol for High Throughput
+Aurora: A robust and trustless verification and synchronization algorithm for distributed ledgers
+Accelerating block propagation in PoW blockchain networks with pipelining and chunking
+Evaluation of performance of vibration signatures for condition monitoring of worm gearbox by using ANN
+From Unparalleled “Greatness” to Predictable Insularity. A Composite Sketch of “Warped Britishness” as Drawn in Selected Works of Contemporary English Fiction; [Od niezrównanej „wielkości” do dającej się przewidzieć zaściankowości. Szkic „wypaczonej brytyjskości” na podstawie wybranych dzieł współczesnej literatury angielskiej]
+Techniques to alleviate blockchain bloat: Potentials, challenges, and recommendations
+Four Element Meditation
+Publish/Subscribe Method for Real-Time Data Processing in Massive IoT Leveraging Blockchain for Secured Storage
+Blockchain abstract data type
+Design and evaluation of decentralized scaling mechanisms for stream processing
+Dynamic Ad Hoc Clock Synchronization
+On Parallel Mechanism of Consortium Blockchain: Take PoV as an example
+SRP: An Efficient Runtime Protection Framework for Blockchain-based Smart Contracts
+Towards Immutability: A Secure and Efficient Auditing Framework for Cloud Supporting Data Integrity and File Version Control
+Ethereum Smart Contract Templating for Parallel Computing
+Exploring the Intersection of IoT and Blockchain: An Analysis of Security and Privacy Risks
+DEAN: A Lightweight and Resource-efficient Blockchain Protocol for Reliable Edge Computing
+Smart logistics with IoT-based enterprise management system using global manufacturing
+Tenderbake - A solution to dynamic repeated consensus for blockchains
+Latency and Performance Analyses of Real-World Wireless IoT-Blockchain Application
+SharPer: Sharding Permissioned Blockchains over Network Clusters
+Entitling concurrency to smart contracts using optimistic transactional memory
+Scaling Blockchains: Can Committee-Based Consensus Help?
+Smart Contract Design Considerations for SLA Compliance Assessment in the Context of IoT
+PiChu: Accelerating Block Broadcasting in Blockchain Networks with Pipelining and Chunking
+Theoretical Analysis of Serial/Parallel Variations of Hash-Mining for Smaller Variance of Confirmation Time
+Bassa-Scalable Blockchain Architecture for Smart Cities
+Cloudlet-Cloud Network Communication Based on Blockchain Technology
+Application of Blockchain Technology in Production Scheduling and Management of Human Resources Competencies
+Simultaneous delivery of oxali-palladium and iron nanoparticles by β-casein
+On the synchronization power of token smart contracts
+Towards a Trusted Virtual Smart Cities Operation Center Using the Blockchain Mirror Model
+The Pulfrich solidity illusion: a surprising demonstration of the visual system’s tolerance of solidity violations
+ParBlockchain: Leveraging transaction parallelism in permissioned blockchain systems
+DRUBER: A trustable decentralized drone-based delivery system
+Blockchain design for optimal joint production and maintenance over multiple periods for oil-filling production lines
+Performance Analysis of Cloud Computing Encryption Algorithms
+Fair and efficient gossip in hyperledger fabric
+Deceptive Assurance? A onceptual View on Systemic Risk in Decentralized Finance (DeFi)
+Aplos: Smart Contracts Made Smart
+Brief Announcement: Breaking the f + 1 Barrier: Executing Payment Transactions in Parallel with Less than f + 1 Validations
+Novel randomization and iterative based algorithms for the transactions assignment in blockchain problem
+Towards a Broadcast Time-Lock Based Token Exchange Protocol
+An Efficient Framework for Optimistic Concurrent Execution of Smart Contracts
+SaaS - Microservices-Based Scalable Smart Contract Architecture
+A privacy-preserving federated learning framework for blockchain networks
+IoMT-Net: Blockchain-Integrated Unauthorized UAV Localization Using Lightweight Convolution Neural Network for Internet of Military Things
+Trends ofglobal fintech education practices and the gcc perspective
+BANDA: A Novel Blockchain-Assisted Network for Drone Authentication
+Blockchain in Concurrent Green IoT-Based Agriculture: Discussion, Analysis, and Implementation
+A Blockchain Security Based IoT-Enabled System for Safe and Effective Logistics Management in IR 4.0
+A Blockchain-based Land Title Management System for Bangladesh
+Robotic arm with biot machine learning system
+Blockchain-based Monitoring for Poison Attack Detection in Decentralized Federated Learning
+Distributed Publish/Subscribe Protocol with Minimum Number of Encryption
+Speed vs. efficiency: A framework for high-frequency trading algorithms on FPGA using Zynq SoC platform
+Blockchain and Autonomous Vehicles: Architecture, Security and Challenges
+A Cluster-Based Bibliometric Analysis of the Emerging Technological Landscape in Logistics using Vosviewer
+Decentralizing construction AI applications using blockchain technology
+A Comprehensive Blockchain Framework for (COVID-19)Vaccine Program Registration, Supply Chain and Side Effects
+Blockchain-enabled federated learning for prevention of power terminals threats in IoT environment using edge zero-trust model
+Mechanisms of Information Reliability in BigData and Blockchain Technologies
+Effective Network Communication Based on Blockchain Based Trusted Networks
+Enhancing Research Results with Programmable Blockchain Network
+An approach adopting ethereum as a wallet domain name system within the economy of things context
+Taming callbacks for smart contract modularity
+5G Security Threat Landscape, AI and Blockchain
+Blockchain scalability enhancement using parallel miners selection
+Lockless Blockchain Sharding with Multiversion Control
+Distributed Ledger Technology Based Robust Access Control and Real-time Synchronization for Consumer Electronics
+The Dark Crypto World&#x0021;

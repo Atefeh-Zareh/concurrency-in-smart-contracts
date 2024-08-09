@@ -1,0 +1,111 @@
+Title
+Parallel Execution of Solidity Smart Contract using Append-only Shared Log
+Blockchain Based n-party Virtual Payment Model with Concurrent Execution
+On blockchain technology and machine learning algorithms in concurrent engineering
+SC-Chef: Turboboosting Smart Contract Concurrent Execution for High Contention Workloads via Chopping Transactions
+CHChain: Secure and parallel crowdsourcing driven by hybrid blockchain
+Blockchain-Based Knowledge Automation for CPSS-Oriented Parallel Management
+Efficient Concurrent Execution of Smart Contracts in Blockchain Sharding
+A parallel proof of work to improve transaction speed and scalability in blockchain systems
+Decentralized Parallel Blockchain Agricultural Product Traceability System Security Analysis
+Enhancing blockchain performance using parallel merkle root and parallel proof of work
+An efficient parallel machine learning-based blockchain framework
+PTangle: A Parallel Detector for Unverified Blockchain Transactions
+Slimchain: Scaling blockchain transactions through off-chain storage and parallel processing
+PDPoSt+sPBFT: A High Performance Blockchain-Assisted Parallel Reinforcement Learning in Industrial Edge-Cloud Collaborative Network
+Vendor capabilities development in blockchain sourcing: A parallel play approach
+High-performance smart contracts concurrent execution for permissioned blockchain using SGX
+Parallel Blockchain: An Architecture for CPSS-Based Smart Societies
+A Parallel Directed Acyclic Graph Blockchain Ledger and Consensus Algorithm for Industrial Internet of Things
+Blockchain-Powered Parallel FinTech Regulatory Sandbox Based on the ACP Approach
+Locking Mechanism for Concurrency Conflicts on Hyperledger Fabric
+BlockPilot: A Proposer-Validator Parallel Execution Framework for Blockchain
+Scalable blockchain execution via parallel block validation
+Parallel Byzantine fault tolerance method for blockchain
+Blockchain Scalability Solved via Quintessential Parallel Multiprocessor
+SP-PoR: Improve blockchain performance by semi-parallel processing transactions
+POSTER: Oblivious Access System on Decentralized Database over Parallel Smart Contract Model
+Multihop Concurrent Big Data Sharing via Multithreading using Blockchain on a Decentralized Network
+Highway: A Super Pipelined Parallel BFT Consensus Algorithm for Permissioned Blockchain
+Online and Offline Channel Data Integration of Internet Smart Retail Under the Background of Parallel Blockchain Algorithm and Computational Intelligence
+TransRacer: Function Dependence-Guided Transaction Race Detection for Smart Contracts
+Smart Contract Parallel Execution with Fine-Grained State Accesses
+RCANE: Semi-Centralized Network of Parallel Blockchain and APoS
+Hierarchical multi-blockchain system for parallel computation in cryptocurrency transfers and smart contracts
+ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts
+Enabling MapReduce based Parallel Computation in Smart Contracts
+Efficient Utilization of Big Data using Distributed Storage, Parallel Processing, and Blockchain Technology
+ParSE: Efficient Detection of Smart Contract Vulnerabilities via Parallel and Simplified Symbolic Execution
+Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm
+Adding concurrency to smart contracts
+On blockchain-based dynamic resource allocation for concurrent industrial wireless premises networks
+Parallel governance for decentralized autonomous organizations enabled by blockchain and smart contracts
+FabricETP: A high-throughput blockchain optimization solution for resolving concurrent conflicting transactions
+Improve Blockchain Performance using Graph Data Structure and Parallel Mining
+Parallel Execution of Blockchain Transactions with Sharding
+A Concurrent Perspective on Collaborative Learning with Smart Contracts
+Smart-Contract Execution with Concurrent Block Building
+Formal verification of smart contracts from the perspective of concurrency
+RETRACTED ARTICLE: Congestion Control of Multipath Parallel Transmission of Data for Blockchain Applications
+Parallel Transaction Execution in Blockchain and the Ambiguous State Representation Problem
+Parallel Blockchain: Concept, Methods and Issues
+PaVM: A Parallel Virtual Machine for Smart Contract Execution and Validation
+SoK: Transparent Dishonesty: Front-Running Attacks on Blockchain
+A hybrid blockchain system based on parallel distributed architecture for central bank digital currency
+Simulation of Front-Running Attacks and Privacy Mitigations in Ethereum Blockchain
+Artificial intelligence and blockchain: juridical challenges in parallel; [Inteligencia artificial y blockchain: retos jurídicos en paralelo]
+Improving transaction speed and scalability of blockchain systems via parallel proof of work
+An Experiment of a Parallel Entry Security Testing Approach using Ethereum Blockchain
+Adaptive Parallel Scheduling Scheme for Smart Contract
+BPPV-Chain: A Sharding Blockchain System with Output Shard Batch Processing and Parallel Transaction Verification
+Methods of increasing data reliability based on distributed and parallel technologies based on blockchain
+A Novel Decentralized Blockchain Networks Model with High Concurrenc(Blockchain Networks Model with High Concurrency)
+A concurrent weighted communication scheme for blockchain transaction
+Building Efficient Parallel Endorsement Node on Blockchain Systems
+Relayer-Enabled Sharding Blockchain for Satellite Internet with High Concurrency
+POSTER: OCToPus: Semantic-aware Concurrency Control for Blockchain Transactions
+An empirical study of speculative concurrency in ethereum smart contracts
+Smart Contract Defect Detection Based on Parallel Symbolic Execution
+SChain: Scalable Concurrency over Flexible Permissioned Blockchain
+Adding concurrency to smart contracts
+A Concurrent optimization consensus system based on blockchain
+Parallel-Education-Blockchain Driven Smart Education: Challenges and Issues
+Parallel Hash-Mark-Set on the Ethereum Blockchain
+Solutions for concurrency conflict problem on Hyperledger Fabric
+Parallel analysis of Ethereum blockchain transaction data using cluster computing
+<italic>Paramart</italic>: Parallel Resource Allocation Based on Blockchain Sharding for Edge-Cloud Services
+Parallel and Asynchronous Smart Contract Execution
+A parallel smart contract model
+LMQF: Hyperledger Fabric Concurrent Transaction Conflict Solution Based on Distributed Lock and Message Queue
+Park: Accelerating smart contract vulnerability detection via parallel-fork symbolic execution
+Schain: A scalable consortium blockchain exploiting intra-and inter-block concurrency
+La utilización del blockchain en los procedimientos de concurrencia competitiva
+Evaluating the Parallel Execution Schemes of Smart Contract Transactions in Different Blockchains: An Empirical Study
+Facing parallel market and counterfeit issues by the combined use of blockchain and CP-ABE encryption technologies
+A Parallel Execution Model for Permissioned Blockchain Systems
+Blockchain-Enabled Parallel Learning in Industrial Edge-Cloud Network: A Fuzzy DPoSt-PBFT Approach
+A concurrent perspective on smart contracts
+DAG-Based Efficient Parallel Scheduler for Blockchains: Hyperledger Sawtooth as a Case Study
+CoChain: High Concurrency Blockchain Sharding via Consensus on Consensus
+Holistic Research on Blockchain’s Consensus Protocol Mechanisms with Security and Concurrency Analysis Aspects of CPS
+BlockExplorer: Exploring Blockchain Big Data Via Parallel Processing
+FRAD: Front-Running Attacks Detection on Ethereum Using Ternary Classification Model
+IoT Meets Blockchain: Parallel Distributed Architecture for Data Storage and Sharing
+Enabling concurrency on smart contracts using multiversion ordering
+Efficient Execution of Blockchain Transactions Through Deterministic Concurrency Control
+Key-Based Transaction Reordering: An Optimized Approach for Concurrency Control in Hyperledger Fabric
+Finding concurrency exploits on smart contracts
+A High Performance Concurrency Protocol for Smart Contracts of Permissioned Blockchain
+PEEP: A Parallel Execution Engine for Permissioned Blockchain Systems
+GBCL: Reduce Concurrency Conflicts in Hyperledger Fabric
+Increasing concurrency in hyperledger fabric
+A true concurrent model of smart contracts executions
+Ethereum Smart Contract Templating for Parallel Computing
+On Parallel Mechanism of Consortium Blockchain: Take PoV as an example
+Efficient Concurrent Execution of Smart Contracts in Blockchains Using Object-Based Transactional Memory
+Entitling concurrency to smart contracts using optimistic transactional memory
+OptSmart: a space efficient Optimistic concurrent execution of Smart contracts
+Blockchain scalability enhancement using parallel miners selection
+An Efficient Framework for Optimistic Concurrent Execution of Smart Contracts
+Efficient parallel execution of block transactions in blockchain
+Blockchain in Concurrent Green IoT-Based Agriculture: Discussion, Analysis, and Implementation

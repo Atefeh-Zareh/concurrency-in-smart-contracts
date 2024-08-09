@@ -10,383 +10,300 @@ wiki/White-Paper.
 [5] B. Lashkari, P. Musilek, A comprehensive review of blockchain
 consensus mechanisms, IEEE Access 9 (2021) 43620–43652.
 doi:10.1109/ACCESS.2021.3065880.
-[6] Scopus content | elsevier, 2024. URL: https://www.elsevier.
+[6] K. Li, H. Li, H. Hou, K. Li, Y. Chen, Proof of vote: A highperformance
+consensus protocol based on vote mechanism & consortium
+blockchain, in: 2017 IEEE 19th International Conference
+on High Performance Computing and Communications; IEEE 15th
+International Conference on Smart City; IEEE 3rd International
+Conference on Data Science and Systems (HPCC/SmartCity/DSS),
+2017, pp. 466–473. doi:10.1109/HPCC-SmartCity-DSS.2017.
+61.
+[7] S. S. Hazari, Q. H. Mahmoud, Improving transaction
+speed and scalability of blockchain systems via parallel
+proof of work, Future Internet 12 (2020). URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85089548009&doi=10.3390%2fFI12080125&partnerID=
+40&md5=ae0d6542c52eb6252771b3998d65a3dc.
+doi:10.3390/FI12080125, cited by: 34; All Open Access,
+Gold Open Access.
+[8] Scopus content | elsevier, 2024. URL: https://www.elsevier.
 com/products/scopus/content.
-[7] J. A. Abdella, Z. Tari, N. Sohrabi, R. Mahmud, Mulcoff:
-A multi-layer consensus and off-chain computation for
-efficient and privacy-aware blockchain-based peer-to-peer
-energy trading, IEEE Network (2024) 1â  ̆A  ̧S1. URL:
+[9] S. S. Hazari, Q. H. Mahmoud, A parallel proof of
+work to improve transaction speed and scalability in
+blockchain systems, 2019, p. 916 â˘A ¸S 921. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
-0-85182936783&doi=10.1109%2fMNET.2024.3355987&
-] P. S. Anjana, S. Kumari, S. Peri, S. Rathor, A. Somani,
-Optsmart: a space efficient optimistic concurrent execution
-of smart contracts, Distributed and Parallel Databases 42
-(2024) 245 â  ̆A  ̧S 297. URL: https://www.scopus.com/
-inward/record.uri?eid=2-s2.0-85129749817&doi=10.
-1007%2fs10619-022-07412-y&partnerID=40&md5=
-fe84cbbb3450d096d6079ad0914c7296. doi:10.1007/
-s10619-022-07412-y, cited by: 0; All Open Access, Green
-Open Access.
-[9] Y. I. Alzoubi, A. Mishra, Techniques to alleviate blockchain
-bloat: Potentials, challenges, and recommendations, Computers
-and Electrical Engineering 116 (2024). URL: https://www.
-scopus.com/inward/record.uri?eid=2-s2.0-85189028067&
-doi=10.1016%2fj.compeleceng.2024.109216&partnerID=
-40&md5=173c15c1385378df166233629a6c03b9.
-doi:10.1016/j.compeleceng.2024.109216, cited by: 0; All
-Open Access, Hybrid Gold Open Access.
-[10] A. Al-Mamun, D. Zhao, Echain: Securing electronic
-device provenance through privacy-preserving consortium
-blockchains, 2023, p. 77 â  ̆A  ̧S 83. URL: https:
+0-85063863999&doi=10.1109%2fCCWC.2019.8666535&
+partnerID=40&md5=48e48f90293f465ef556ece7331b6ae9.
+doi:10.1109/CCWC.2019.8666535, cited by: 69.
+[10] J. Liu, P. Li, R. Cheng, N. Asokan, D. Song, Parallel and
+asynchronous smart contract execution, IEEE Transactions on
+Parallel and Distributed Systems 33 (2022) 1097 â˘A ¸S 1108. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85112672240&doi=10.1109%2fTPDS.2021.3095234&
+partnerID=40&md5=9b639907ed892ed22587c0ec40947605.
+doi:10.1109/TPDS.2021.3095234, cited by: 12; All Open
+Access, Green Open Access.
+[11] N. Van Toan, U. Park, G. Ryu, Rcane: Semi-centralized
+network of parallel blockchain and apos, volume
+2018-December, 2018, p. 695 â˘A¸S 700. URL: https:
 //www.scopus.com/inward/record.uri?eid=2-s2.
-0-85169292299&doi=10.1109%2fDSN-S58398.2023.00028&
-oi:10.1109/DSN-S58398.2023.00028, cited by: 0.
-[11] J. Abdella, Z. Tari, R. Mahmud, N. Sohrabi, A. Anwar, A. Mah-
-mood, Hicoob: Hierarchical concurrent optimistic blockchain
-consensus protocol for peer-to-peer energy trading systems,
-IEEE Transactions on Smart Grid 14 (2023) 3927 â  ̆A  ̧S 3943.
+0-85063318541&doi=10.1109%2fPADSW.2018.8644573&
+partnerID=40&md5=34fd356f01861d9ec6366861441a54f3.
+doi:10.1109/PADSW.2018.8644573, cited by: 6.
+[12] W. Dai, D. Xiao, H. Jin, X. Xie, A concurrent optimization
+consensus system based on blockchain, 2019, p. 244 â˘A ¸S 248.
 URL: https://www.scopus.com/inward/record.uri?eid=
-2-s2.0-85146255959&doi=10.1109%2fTSG.2022.3231218&
-partnerID=40&md5=50b06cd836c90f4c48cff2a586b127e9.
-doi:10.1109/TSG.2022.3231218, cited by: 3.
-[12] R. Adhikari, C. Busch, Lockless blockchain sharding with
-multiversion control, Lecture Notes in Computer Science (including
-subseries Lecture Notes in Artificial Intelligence and Lecture Notes
-in Bioinformatics) 13892 LNCS (2023) 112 â  ̆A  ̧S 131. URL:
-https://www.scopus.com/inward/record.uri?eid=2-s2.
-0-85163311024&doi=10.1007%2f978-3-031-32733-9_6&
-partnerID=40&md5=127c4fc280134b666d230312052e28ec.
-doi:10.1007/978-3-031-32733-9_6, cited by: 1; All Open
-Access, Green Open Access.
-[13] A. Altarawneh, F. Sun, R. R. Brooks, O. Hambolu,
-L. Yu, A. Skjellum, Availability analysis of a
-permissioned blockchain with a lightweight consensus
-protocol, Computers and Security 102 (2021). URL:
-https://www.scopus.com/inward/record.uri?eid=2-s2.
-0-85099013357&doi=10.1016%2fj.cose.2020.102098&
-partnerID=40&md5=f91489a47625855525629c510472015c.
-doi:10.1016/j.cose.2020.102098, cited by: 16; All Open Access,
-Bronze Open Access.
-[14] R. Agrawal, S. Dorle, C. Dhule, U. Agrawal, Effective network
-communication based on blockchain based trusted networks,
-2021, p. 646 â  ̆A  ̧S 651. URL: https://www.scopus.com/
-inward/record.uri?eid=2-s2.0-85113570172&doi=10.
-1109%2fICOEI51242.2021.9452989&partnerID=40&
-md5=65d5feeda9dc7b2e72bf11d0cc661699. doi:10.1109/
-ICOEI51242.2021.9452989, cited by: 13.
-[15] P. S. Anjana, H. Attiya, S. Kumari, S. Peri, A. Somani,
-Efficient concurrent execution of smart contracts in
-blockchains using object-based transactional memory,
-Lecture Notes in Computer Science (including subseries
-Lecture Notes in Artificial Intelligence and Lecture Notes
-in Bioinformatics) 12129 LNCS (2021) 77 â  ̆A  ̧S 93. URL:
-https://www.scopus.com/inward/record.uri?eid=2-s2.
-0-85101539609&doi=10.1007%2f978-3-030-67087-0_6&
-partnerID=40&md5=445f0bc290b7bfef3c7c0c869e9d3b0d.
-doi:10.1007/978-3-030-67087-0_6, cited by: 6; All Open
-Access, Green Open Access.
-[16] P. S. Anjana, Efficient parallel execution of block
-transactions in blockchain, 2021, p. 8 â  ̆A  ̧S 11. URL:
-https://www.scopus.com/inward/record.uri?eid=2-s2.
-0-85121106502&doi=10.1145%2f3491087.3493676&
-partnerID=40&md5=58bbd83f3256405ca871f41dbda52aa8.
-doi:10.1145/3491087.3493676, cited by: 3.
-[17] A. J. Al-Musharaf, S. M. Al-Alak, H. M. Al-Mashhadi,
-Improving blockchain consensus mechanism via network
-clusters, 2021, p. 293 â  ̆A  ̧S 298. URL: https://www.scopus.
-com/inward/record.uri?eid=2-s2.0-85124877104&doi=
-10.1109%2fBICITS51482.2021.9509882&partnerID=
-40&md5=da3f5a4b303d47849abc37b028a46299.
-doi:10.1109/BICITS51482.2021.9509882, cited by: 4.
-[18] O. Alpos, C. Cachin, G. A. Marson, L. Zanolini, On
-the synchronization power of token smart contracts,
-volume 2021-July, 2021, p. 640 â  ̆A  ̧S 651. URL: https:
+2-s2.0-85071474109&doi=10.1109%2fICT.2019.8798836&
+partnerID=40&md5=17d1b6beb72b55921f9e732fb5e2ea65.
+doi:10.1109/ICT.2019.8798836, cited by: 5.
+[13] T. Dickerson, P. Gazzillo, M. Herlihy, E. Koskinen,
+Adding concurrency to smart contracts, Distributed
+Computing 33 (2020) 209 â˘A ¸S 225. URL: https:
 //www.scopus.com/inward/record.uri?eid=2-s2.
-0-85117139456&doi=10.1109%2fICDCS51616.2021.00067&
-partnerID=40&md5=3677299f041c9ab892b4ea43ed56726f.
-doi:10.1109/ICDCS51616.2021.00067, cited by: 4; All Open
-Access, Green Open Access.
-[19] M. J. Amiri, D. Agrawal, A. El Abbadi, Sharper:
-Sharding permissioned blockchains over network clusters,
-2021, p. 76 â  ̆A  ̧S 88. URL: https://www.scopus.com/
-inward/record.uri?eid=2-s2.0-85108958191&doi=
-10.1145%2f3448016.3452807&partnerID=40&md5=
-685b489ed79ec8aa583b1b92609d5b5f. doi:10.1145/3448016.
-3452807, cited by: 78; All Open Access, Bronze Open Access,
+0-85068876264&doi=10.1007%2fs00446-019-00357-z&
+partnerID=40&md5=dd7311fa1468b935494b5c6719d86e3e.
+doi:10.1007/s00446-019-00357-z, cited by: 29; All Open Access,
 Green Open Access.
-[20] R. Akkaoui, X. Hei, W. Cheng, Edgemedichain: A
-hybrid edge blockchain-based framework for health data
-exchange, IEEE Access 8 (2020) 113467 â  ̆A  ̧S 113486. URL:
-https://www.scopus.com/inward/record.uri?eid=2-s2.
-0-85087644656&doi=10.1109%2fACCESS.2020.3003575&
-partnerID=40&md5=f6f44ec27a6a020598260a2c60cc6082.
-doi:10.1109/ACCESS.2020.3003575, cited by: 85; All Open
-Access, Gold Open Access.
-[21] P. S. Anjana, S. Kumari, S. Peri, S. Rathor, A. Somani,
-An efficient framework for optimistic concurrent execution
-of smart contracts, 2019, p. 83 â  ̆A  ̧S 92. URL: https:
-//www.scopus.com/inward/record.uri?eid=2-s2.
-0-85063875625&doi=10.1109%2fEMPDP.2019.8671637&
-partnerID=40&md5=d739ee512c8d47e1f9ab15356e94d63d.
-doi:10.1109/EMPDP.2019.8671637, cited by: 45; All Open
-Access, Green Open Access.
-[22] S. Ahmad, A. K. Bharti, Blockchain scalability enhancement using
-parallel miners selection, International Journal of Innovative Tech-
-nology and Exploring Engineering 8 (2019) 4356 â  ̆A  ̧S 4360. URL:
-https://www.scopus.com/inward/record.uri?eid=2-s2.
-0-85073929864&doi=10.35940%2fijitee.L3869.1081219&
-partnerID=40&md5=2055993d697b1cc122a16fe08829cce7.
-doi:10.35940/ijitee.L3869.1081219, cited by: 0; All Open
-Access, Bronze Open Access.
-[23] P. S. Anjana, S. Kumari, S. Peri, S. Rathor, A. Somani,
-Entitling concurrency to smart contracts using optimistic
-transactional memory, 2019, p. 508. URL: https:
-//www.scopus.com/inward/record.uri?eid=2-s2.
-0-85060934158&doi=10.1145%2f3288599.3299723&
-partnerID=40&md5=7993743a21a60f85c7159688d1533d58.
-doi:10.1145/3288599.3299723, cited by: 2.
-[24] M. J. Amiri, D. Agrawal, A. El Abbadi, Parblockchain:
-Leveraging transaction parallelism in permissioned blockchain
-systems, volume 2019-July, 2019, p. 1337 â  ̆A  ̧S 1347. URL:
-https://www.scopus.com/inward/record.uri?eid=2-s2.
-0-85074865320&doi=10.1109%2fICDCS.2019.00134&
-partnerID=40&md5=da89308a8d5454664d2fe873b8e8009d.
-doi:10.1109/ICDCS.2019.00134, cited by: 60; All Open Access,
-Green Open Access.
-[25] E. Akbari, Q. Wu, W. Zhao, H. R. Arabnia, M. Q. Yang,
-From blockchain to internet-based voting, 2018, p. 218 â  ̆A  ̧S
-221. URL: https://www.scopus.com/inward/record.uri?
-eid=2-s2.0-85060600079&doi=10.1109%2fCSCI.2017.34&
-partnerID=40&md5=b10ce16aa241dc7236ae5eb521e4e0ff.
-doi:10.1109/CSCI.2017.34, cited by: 27; All Open Access, Green
-Open Access.
-[26] T. Dickerson, P. Gazzillo, M. Herlihy, E. Koskinen, Adding
-concurrency to smart contracts, in: Proceedings of the ACM Sym-
-posium on Principles of Distributed Computing, PODC ’17, Asso-
-ciation for Computing Machinery, New York, NY, USA, 2017, p.
-303â  ̆A  ̧S312. URL: https://doi.org/10.1145/3087801.3087835.
-doi:10.1145/3087801.3087835.
-[27] M. Herlihy, V. Luchangco, M. Moir, W. N. Scherer, Software
-transactional memory for dynamic-sized data structures, in: Pro-
-ceedings of the Twenty-Second Annual Symposium on Princi-
-ples of Distributed Computing, PODC ’03, Association for Com-
-puting Machinery, New York, NY, USA, 2003, p. 92â  ̆A  ̧S101.
+[14] M. Herlihy, V. Luchangco, M. Moir, W. N. Scherer, Software
+transactional memory for dynamic-sized data structures, in: Proceedings
+of the Twenty-Second Annual Symposium on Principles
+of Distributed Computing, PODC ’03, Association for Computing
+Machinery, New York, NY, USA, 2003, p. 92â˘A¸S101.
 URL: https://doi.org/10.1145/872035.872048. doi:10.1145/
 872035.872048.
-A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 11 of 18
-A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
-[28] M. Herlihy, E. Koskinen, Transactional boosting: a method-
-ology for highly-concurrent transactional objects, in: Pro-
-ceedings of the 13th ACM SIGPLAN Symposium on Princi-
-ples and Practice of Parallel Programming, PPoPP ’08, Associ-
-ation for Computing Machinery, New York, NY, USA, 2008, p.
-207â  ̆A  ̧S216. URL: https://doi.org/10.1145/1345206.1345237.
+[15] M. Herlihy, E. Koskinen, Transactional boosting: a methodology
+for highly-concurrent transactional objects, in: Proceedings
+of the 13th ACM SIGPLAN Symposium on Principles
+and Practice of Parallel Programming, PPoPP ’08, Association
+for Computing Machinery, New York, NY, USA, 2008, p.
+207â˘A ¸S216. URL: https://doi.org/10.1145/1345206.1345237.
 doi:10.1145/1345206.1345237.
-[29] V. Saraph, M. Herlihy, An empirical study of speculative concur-
-rency in ethereum smart contracts, arXiv preprint arXiv:1901.01376
+[16] V. Saraph, M. Herlihy, An empirical study of speculative concurrency
+in ethereum smart contracts, arXiv preprint arXiv:1901.01376
 (2019).
-[30] T. Dickerson, E. Koskinen, P. Gazzillo, M. Herlihy, Conflict
+[17] T. Dickerson, E. Koskinen, P. Gazzillo, M. Herlihy, Conflict
 abstractions and shadow speculation for optimistic transactional
 objects, in: A. W. Lin (Ed.), Programming Languages and Systems,
 Springer International Publishing, Cham, 2019, pp. 313–331.
-[31] Z. Gao, L. Xu, L. Chen, N. Shah, Y. Lu, W. Shi, Scalable blockchain
+[18] Z. Gao, L. Xu, L. Chen, N. Shah, Y. Lu,W. Shi, Scalable blockchain
 based smart contract execution, in: 2017 IEEE 23rd International
 Conference on Parallel and Distributed Systems (ICPADS), 2017,
 pp. 352–359. doi:10.1109/ICPADS.2017.00054.
-[32] L. Luu, D.-H. Chu, H. Olickel, P. Saxena, A. Hobor,
+[19] B. Assiri, W. Z. Khan, Fair and trustworthy: Lock-free
+enhanced tendermint blockchain algorithm, Telkomnika
+(Telecommunication Computing Electronics and Control)
+18 (2020) 2224 – 2234. URL: https://www.scopus.
+com/inward/record.uri?eid=2-s2.0-85087566813&
+doi=10.12928%2fTELKOMNIKA.V18I4.15701&
+partnerID=40&md5=a3f2ded577d7ecb8b53fd7a5b85f2738.
+doi:10.12928/TELKOMNIKA.V18I4.15701, cited by: 6; All
+Open Access, Green Open Access, Hybrid Gold Open Access.
+[20] Y. Bai, Y. Zhi, H. Li, H. Wang, P. Lu, C. Ma, On
+parallel mechanism of consortium blockchain: Take
+pov as an example, 2021, pp. 147 – 154. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85115674506&doi=10.1145%2f3460537.3460560&
+partnerID=40&md5=f01c2263d7c6e4f9d9a2a06584ab07cb.
+doi:10.1145/3460537.3460560, cited by: 3.
+[21] L. Luu, D.-H. Chu, H. Olickel, P. Saxena, A. Hobor,
 Making smart contracts smarter, CCS ’16, Association
 for Computing Machinery, New York, NY, USA, 2016, p.
-254â  ̆A  ̧S269. URL: https://doi.org/10.1145/2976749.2978309.
+254â˘A ¸S269. URL: https://doi.org/10.1145/2976749.2978309.
 doi:10.1145/2976749.2978309.
-[33] J. W. Markham, Front-running-insider trading under the commodity
+[22] J.W. Markham, Front-running-insider trading under the commodity
 exchange act, Cath. UL Rev. 38 (1988) 69.
-[34] É.-U. Securities, E. C. S. S. of the Options Markets, Report of
+[23] É.-U. Securities, E. C. S. S. of the Options Markets, Report of
 the Special Study of the Options Markets to the Securities and
 Exchange Commission, US Government Printing Office, 1979.
-[35] S. Munir, C. Reichenbach, Todler: A transaction ordering
+[24] S. Munir, C. Reichenbach, Todler: A transaction ordering
 dependency analyzer - for ethereum smart contracts, 2023,
-p. 9 â  ̆A  ̧S 16. URL: https://www.scopus.com/inward/
+pp. 9 – 16. URL: https://www.scopus.com/inward/
 record.uri?eid=2-s2.0-85169085075&doi=10.1109%
 2fWETSEB59161.2023.00007&partnerID=40&md5=
 cc67ae8bf141b5a2f8c8a706660b3b67. doi:10.1109/
 WETSEB59161.2023.00007, cited by: 1.
-[36] C. Ma, W. Song, J. Huang, Transracer: Function dependence-guided
-transaction race detection for smart contracts, 2023, p. 947 â  ̆A  ̧S 959.
+[25] C. Ma,W. Song, J. Huang, Transracer: Function dependence-guided
+transaction race detection for smart contracts, 2023, pp. 947 – 959.
 URL: https://www.scopus.com/inward/record.uri?eid=
 2-s2.0-85180548834&doi=10.1145%2f3611643.3616281&
 partnerID=40&md5=250a0fdf5719e743a09df50aa0cb43e6.
 doi:10.1145/3611643.3616281, cited by: 0.
-[37] Z. Stucke, T. Constantinides, J. Cartlidge, Simulation of
+[26] Z. Stucke, T. Constantinides, J. Cartlidge, Simulation of
 front-running attacks and privacy mitigations in ethereum
 blockchain, 2022. URL: https://www.scopus.com/
 inward/record.uri?eid=2-s2.0-85142909699&doi=10.
+A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 13 of 23
+A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
 46354%2fi3m.2022.emss.041&partnerID=40&md5=
 e02a26112e1e8e8677bb705ab0165988. doi:10.46354/i3m.
 2022.emss.041, cited by: 1; All Open Access, Green Open Access.
-[38] Y. Xue, J. Fu, S. Su, Z. A. Bhuiyan, J. Qiu, H. Lu,
+[27] Y. Li, Finding concurrency exploits on smart contracts, in: 2019
+IEEE/ACM41st International Conference on Software Engineering:
+Companion Proceedings (ICSE-Companion), 2019, pp. 144–146.
+doi:10.1109/ICSE-Companion.2019.00061.
+[28] Y. Xue, J. Fu, S. Su, Z. A. Bhuiyan, J. Qiu, H. Lu,
 N. Hu, Z. Tian, Preventing price manipulation attack
 by front-running, Communications in Computer and
-Information Science 1588 CCIS (2022) 309 â  ̆A  ̧S 322. URL:
+Information Science 1588 CCIS (2022) 309 – 322. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85135004187&doi=10.1007%2f978-3-031-06764-8_25&
 partnerID=40&md5=7a681cbccace9a130c219f74ea16bf20.
 doi:10.1007/978-3-031-06764-8_25, cited by: 4.
-[39] H. Zhang, L.-H. Merino, V. Estrada-Galinanes, B. Ford, Flash
-freezing flash boys: Countering blockchain front-running,
-2022, p. 90 â  ̆A  ̧S 95. URL: https://www.scopus.com/
-inward/record.uri?eid=2-s2.0-85143808002&doi=10.
-1109%2fICDCSW56584.2022.00026&partnerID=40&
+[29] H. Zhang, L.-H. Merino, V. Estrada-Galinanes, B. Ford,
+Flash freezing flash boys: Countering blockchain frontrunning,
+2022, pp. 90 – 95. URL: https://www.scopus.
+com/inward/record.uri?eid=2-s2.0-85143808002&doi=
+10.1109%2fICDCSW56584.2022.00026&partnerID=40&
 md5=5dfa0c7495377b05feb63a38a857836c. doi:10.1109/
 ICDCSW56584.2022.00026, cited by: 3; All Open Access, Green
 Open Access.
-[40] H. Zhang, L.-H. Merino, Z. Qu, M. Bastankhah, V. Estrada-
-GaliÃ ́sanes, B. Ford, F3b: A low-overhead blockchain architecture
+[30] H. Zhang, L.-H. Merino, Z. Qu, M. Bastankhah, V. Estrada-
+GaliÃ´sanes, B. Ford, F3b: A low-overhead blockchain architecture
 with per-transaction front-running protection, volume 282, 2023.
 URL: https://www.scopus.com/inward/record.uri?eid=
 2-s2.0-85175468233&doi=10.4230%2fLIPIcs.AFT.2023.3&
 partnerID=40&md5=63bc45ad78b3ca7f85969759746c1954.
 doi:10.4230/LIPIcs.AFT.2023.3, cited by: 0.
-[41] W. Zhang, L. Wei, S.-C. Cheung, Y. Liu, S. Li, L. Liu, M. R.
+[31] W. Zhang, L. Wei, S.-C. Cheung, Y. Liu, S. Li, L. Liu, M. R.
 Lyu, Combatting front-running in smart contracts: Attack mining,
 benchmark construction and vulnerability detector evaluation, IEEE
-Transactions on Software Engineering 49 (2023) 3630 â  ̆A  ̧S 3646.
+Transactions on Software Engineering 49 (2023) 3630 – 3646.
 URL: https://www.scopus.com/inward/record.uri?eid=
 2-s2.0-85159666965&doi=10.1109%2fTSE.2023.3270117&
 partnerID=40&md5=e85ee417017c953da9beef4705139f54.
 doi:10.1109/TSE.2023.3270117, cited by: 0; All Open Access,
 Green Open Access.
-[42] Y. Zhang, P. Liu, G. Wang, P. Li, W. Gu, H. Chen, X. Liu,
-J. Zhu, Frad: Front-running attacks detection onÂ ̆aethereum
+[32] Y. Zhang, P. Liu, G. Wang, P. Li, W. Gu, H. Chen, X. Liu,
+J. Zhu, Frad: Front-running attacks detection onÂ˘aethereum
 using ternary classification model, Communications in Computer
-and Information Science 2034 CCIS (2024) 63 â  ̆A  ̧S 75. URL:
+and Information Science 2034 CCIS (2024) 63 – 75. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85189620164&doi=10.1007%2f978-981-97-1274-8_5&
 partnerID=40&md5=503cbf4b0524da6bb0d072e5e949af24.
 doi:10.1007/978-981-97-1274-8_5, cited by: 0; All Open
 Access, Green Open Access.
-[43] I. Sergey, A. Hobor, A concurrent perspective on smart contracts,
+[33] I. Sergey, A. Hobor, A concurrent perspective on smart contracts,
 in: M. Brenner, K. Rohloff, J. Bonneau, A. Miller, P. Y. Ryan,
 V. Teague, A. Bracciali, M. Sala, F. Pintore, M. Jakobsson (Eds.),
 Financial Cryptography and Data Security, Springer International
 Publishing, Cham, 2017, pp. 478–493.
-[44] M. Qu, X. Huang, X. Chen, Y. Wang, X. Ma, D. Liu, Formal veri-
-fication of smart contracts from the perspective of concurrency, in:
+[34] M. Qu, X. Huang, X. Chen, Y. Wang, X. Ma, D. Liu, Formal verification
+of smart contracts from the perspective of concurrency, in:
 M. Qiu (Ed.), Smart Blockchain, Springer International Publishing,
 Cham, 2018, pp. 32–43.
-[45] C. A. R. Hoare, Communicating sequential processes, Commun.
-ACM 21 (1978) 666â  ̆A  ̧S677. URL: https://doi.org/10.1145/
+[35] C. A. R. Hoare, Communicating sequential processes, Commun.
+ACM 21 (1978) 666â˘A ¸S677. URL: https://doi.org/10.1145/
 359576.359585. doi:10.1145/359576.359585.
-[46] Solidity by example â  ̆AˇT solidity 0.8.26 documentation,
+[36] Solidity by example â˘A
+ˇT
+solidity 0.8.26 documentation,
 2024. URL: https://docs.soliditylang.org/en/latest/
 solidity-by-example.html#safe-remote-purchase.
-[47] R. Adhikari, C. Busch, Lockless blockchain sharding withÂ ̆amul-
-tiversion control, Lecture Notes in Computer Science (including
-subseries Lecture Notes in Artificial Intelligence and Lecture
-Notes in Bioinformatics) 13892 LNCS (2023) 112 â  ̆A  ̧S 131. URL:
-https://www.scopus.com/inward/record.uri?eid=2-s2.
-0-85163311024&doi=10.1007%2f978-3-031-32733-9_6&
-partnerID=40&md5=127c4fc280134b666d230312052e28ec.
-doi:10.1007/978-3-031-32733-9_6, cited by: 1; All Open
-Access, Green Open Access.
-[48] M. J. Amiri, D. Agrawal, A. El Abbadi, Sharper:
+[37] C. Xu, C. Zhang, J. Xu, J. Pei, Slimchain: Scaling blockchain
+transactions through off-chain storage and parallel processing,
+Proceedings of the VLDB Endowment 14 (2021) 2314 â˘A ¸S 2326.
+URL: https://www.scopus.com/inward/record.uri?eid=
+2-s2.0-85119678964&doi=10.14778%2f3476249.3476283&
+partnerID=40&md5=0083c4152ed2912bdf744a0f96bcbb98.
+doi:10.14778/3476249.3476283, cited by: 52.
+[38] M. J. Amiri, D. Agrawal, A. El Abbadi, Sharper:
 Sharding permissioned blockchains over network clusters,
-2021, p. 76 â  ̆A  ̧S 88. URL: https://www.scopus.com/
+2021, pp. 76 – 88. URL: https://www.scopus.com/
 inward/record.uri?eid=2-s2.0-85108958191&doi=
 10.1145%2f3448016.3452807&partnerID=40&md5=
 685b489ed79ec8aa583b1b92609d5b5f. doi:10.1145/3448016.
 3452807, cited by: 78; All Open Access, Bronze Open Access,
 Green Open Access.
-[49] M. J. Amiri, D. Agrawal, A. El Abbadi, Parblockchain:
+[39] M. J. Amiri, D. Agrawal, A. El Abbadi, Parblockchain:
 Leveraging transaction parallelism in permissioned blockchain
-systems, volume 2019-July, 2019, p. 1337 â  ̆A  ̧S 1347. URL:
+systems, volume 2019-July, 2019, pp. 1337 – 1347. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85074865320&doi=10.1109%2fICDCS.2019.00134&
 partnerID=40&md5=da89308a8d5454664d2fe873b8e8009d.
 doi:10.1109/ICDCS.2019.00134, cited by: 60; All Open Access,
 Green Open Access.
-[50] Z. Cai, J. Liang, W. Chen, Z. Hong, H.-N. Dai, J. Zhang,
-Z. Zheng, Benzene: Scaling blockchain with cooperation-
-based sharding, IEEE Transactions on Parallel and
-Distributed Systems 34 (2023) 639 â  ̆A  ̧S 654. URL:
+[40] Z. Cai, J. Liang, W. Chen, Z. Hong, H.-N. Dai,
+J. Zhang, Z. Zheng, Benzene: Scaling blockchain with
+cooperation-based sharding, IEEE Transactions on Parallel
+and Distributed Systems 34 (2023) 639 – 654. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85144813249&doi=10.1109%2fTPDS.2022.3227198&
 partnerID=40&md5=f759739359254db23eefdd3448798428.
-A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 12 of 18
-A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
 doi:10.1109/TPDS.2022.3227198, cited by: 16.
-[51] G. Chen, J. Zhang, W. Wu, J. Zhou, Parallel execution of
+[41] G. Chen, J. Zhang, W. Wu, J. Zhou, Parallel execution of
 blockchain transactions with sharding, volume 2023-May,
-2023, p. 6559 â  ̆A  ̧S 6564. URL: https://www.scopus.com/
+2023, pp. 6559 – 6564. URL: https://www.scopus.com/
 inward/record.uri?eid=2-s2.0-85178304675&doi=10.
 1109%2fICC45041.2023.10279242&partnerID=40&md5=
 46a03fe201ce3c9de7fe4e37bb074165. doi:10.1109/ICC45041.
 2023.10279242, cited by: 0.
-[52] H. Chen, Y. Wang, Sschain: A full sharding protocol
+[42] H. Chen, Y. Wang, Sschain: A full sharding protocol
 for public blockchain without data migration overhead,
 Pervasive and Mobile Computing 59 (2019). URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85069656543&doi=10.1016%2fj.pmcj.2019.101055&
 partnerID=40&md5=c55105998a435ce5c8091b2c52d8df74.
 doi:10.1016/j.pmcj.2019.101055, cited by: 66.
-[53] B. David, B. Magri, C. Matt, J. B. Nielsen, D. Tschudi,
+[43] B. David, B. Magri, C. Matt, J. B. Nielsen, D. Tschudi,
 Gearbox: Optimal-size shard committees by leveraging the
-safety-liveness dichotomy, 2022, p. 683 â  ̆A  ̧S 696. URL:
+safety-liveness dichotomy, 2022, pp. 683 – 696. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85143071379&doi=10.1145%2f3548606.3559375&
 partnerID=40&md5=c62672eaee384760c758a1e7db99e0d7.
 doi:10.1145/3548606.3559375, cited by: 6; All Open Access,
 Green Open Access.
-[54] P. Dhulavvagol, S. Totad, A. Anagal, Shard-femf:
+[44] P. Dhulavvagol, S. Totad, A. Anagal, Shard-femf:
 Adaptive forensic evidence management framework using
 blockchain sharding and ipfs, International Arab Journal
-of Information Technology 21 (2024) 179 â  ̆A  ̧S 190. URL:
+of Information Technology 21 (2024) 179 – 190. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85187437809&doi=10.34028%2fiajit%2f21%2f2%2f1&
 partnerID=40&md5=3510954b2c04228e226071a835416baf.
 doi:10.34028/iajit/21/2/1, cited by: 0.
-[55] P. M. Dhulavvagol, M. Prasad, N. C. Kundur, N. Jagadisha,
+[45] P. M. Dhulavvagol, M. Prasad, N. C. Kundur, N. Jagadisha,
 S. Totad, Scalable blockchain architecture: Leveraging hybrid shard
 generation and data partitioning, International Journal of Advanced
-Computer Science and Applications 14 (2023) 355 â  ̆A  ̧S 363. URL:
+Computer Science and Applications 14 (2023) 355 – 363. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85170647664&doi=10.14569%2fIJACSA.2023.0140839&
 partnerID=40&md5=814b002d3e9a85bdba40710e02df59f1.
 doi:10.14569/IJACSA.2023.0140839, cited by: 0; All Open
 Access, Gold Open Access.
-[56] A. Flamini, R. Longo, A. Meneghetti, Cob: A consensus layer
+[46] A. Flamini, R. Longo, A. Meneghetti, Cob: A consensus layer
 enabling sustainable sharding-based consensus protocols, volume
-3166, 2022, p. 77 â  ̆A  ̧S 93. URL: https://www.scopus.com/
+3166, 2022, pp. 77 – 93. URL: https://www.scopus.com/
+A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 14 of 23
+A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
 inward/record.uri?eid=2-s2.0-85134306400&partnerID=
 40&md5=47c32c460f88d2008c2a152f5eda2231, cited by: 0.
-[57] C. Fletcher-Smith, M. Sallal, Security analysis of blockchain layer-
-one sharding based extended-utxo model, Communications in Com-
-puter and Information Science 1839 CCIS (2023) 95 â  ̆A  ̧S 123. URL:
+[47] C. Fletcher-Smith, M. Sallal, Security analysis of blockchain layerone
+sharding based extended-utxo model, Communications in Computer
+and Information Science 1839 CCIS (2023) 95 – 123. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85164964815&doi=10.1007%2f978-981-99-3581-9_7&
 partnerID=40&md5=49bff7ec54e27d5d00f0eab5d8f3f402.
 doi:10.1007/978-981-99-3581-9_7, cited by: 0.
-[58] Y. Gao, S. Kawai, H. Nobuhara, Scalable blockchain protocol based
+[48] Y. Gao, S. Kawai, H. Nobuhara, Scalable blockchain protocol based
 on proof of stake and sharding, Journal of Advanced Computational
-Intelligence and Intelligent Informatics 23 (2019) 856 â  ̆A  ̧S 863.
+Intelligence and Intelligent Informatics 23 (2019) 856 – 863.
 URL: https://www.scopus.com/inward/record.uri?eid=
 2-s2.0-85072385361&doi=10.20965%2fjaciii.2019.p0856&
 partnerID=40&md5=2ab66cfc132e51852f5d0d832b949852.
 doi:10.20965/jaciii.2019.p0856, cited by: 12; All Open Access,
 Gold Open Access.
-[59] Z. Guan, Y. Zhang, S. Li, R. Chen, D. Li, Scaling
-blockchain via a lightweight tree-based sharding system,
-2023, p. 397 â  ̆A  ̧S 403. URL: https://www.scopus.com/
-inward/record.uri?eid=2-s2.0-85176800743&doi=10.
-1109%2fNaNA60121.2023.00072&partnerID=40&md5=
-638ad2325aae560faae12ab6a8d398a7. doi:10.1109/
-NaNA60121.2023.00072, cited by: 0.
-[60] Z. Hong, S. Guo, P. Li, W. Chen, Pyramid: A layered sharding
+[49] Z. Guan, Y. Zhang, S. Li, R. Chen, D. Li, Scaling blockchain via a
+lightweight tree-based sharding system, 2023, pp. 397 – 403. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85176800743&doi=10.1109%2fNaNA60121.2023.00072&
+partnerID=40&md5=638ad2325aae560faae12ab6a8d398a7.
+doi:10.1109/NaNA60121.2023.00072, cited by: 0.
+[50] Z. Hong, S. Guo, P. Li, W. Chen, Pyramid: A layered sharding
 blockchain system, volume 2021-May, 2021. URL: https://www.
 scopus.com/inward/record.uri?eid=2-s2.0-85111918335&
 doi=10.1109%2fINFOCOM42981.2021.9488747&
 partnerID=40&md5=4db062113a1930f5b96a59ec0266c305.
 doi:10.1109/INFOCOM42981.2021.9488747, cited by: 70.
-[61] Z. Hong, S. Guo, E. Zhou, J. Zhang, W. Chen, J. Liang,
+[51] Z. Hong, S. Guo, E. Zhou, J. Zhang, W. Chen, J. Liang,
 J. Zhang, A. Zomaya, Prophet: Conflict-free sharding
 blockchain via byzantine-tolerant deterministic ordering,
 volume 2023-May, 2023. URL: https://www.scopus.
@@ -395,289 +312,258 @@ doi=10.1109%2fINFOCOM53939.2023.10228939&
 partnerID=40&md5=a14bc40607bfe064e7921ccfbe58a5f6.
 doi:10.1109/INFOCOM53939.2023.10228939, cited by: 0; All
 Open Access, Green Open Access.
-[62] H. Huang, Z. Huang, X. Peng, Z. Zheng, S. Guo, Mvcom:
+[52] H. Huang, Z. Huang, X. Peng, Z. Zheng, S. Guo, Mvcom:
 Scheduling most valuable committees for the large-scale sharded
-blockchain, volume 2021-July, 2021, p. 629 â  ̆A  ̧S 639. URL:
+blockchain, volume 2021-July, 2021, pp. 629 – 639. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85117088023&doi=10.1109%2fICDCS51616.2021.00066&
 partnerID=40&md5=d0f78365f539baf8d87905424b5d5a49.
 doi:10.1109/ICDCS51616.2021.00066, cited by: 8.
-[63] H. Huang, X. Peng, Y. Lin, M. Xu, G. Ye, Z. Zheng,
+[53] H. Huang, X. Peng, Y. Lin, M. Xu, G. Ye, Z. Zheng,
 S. Guo, Scheduling most valuable committees for
 the sharded blockchain, IEEE/ACM Transactions on
-Networking 31 (2023) 3284 â  ̆A  ̧S 3299. URL: https:
+Networking 31 (2023) 3284 – 3299. URL: https:
 //www.scopus.com/inward/record.uri?eid=2-s2.
 0-85171973703&doi=10.1109%2fTNET.2023.3278456&
 partnerID=40&md5=51d9ed3ed8f70ec73d1be988878fb66d.
 doi:10.1109/TNET.2023.3278456, cited by: 1.
-[64] H. Huang, Y. Zhao, Z. Zheng, tmpt: Reconfiguration
+[54] H. Huang, Y. Zhao, Z. Zheng, tmpt: Reconfiguration
 across blockchain shards via trimmed merkle patricia trie,
 volume 2023-June, 2023. URL: https://www.scopus.
 com/inward/record.uri?eid=2-s2.0-85167778400&doi=
 10.1109%2fIWQoS57198.2023.10188757&partnerID=
 40&md5=ab445238e501313aecabf10da50824bc.
 doi:10.1109/IWQoS57198.2023.10188757, cited by: 1.
-[65] N. A. Khooshemehr, M. A. Maddah-Ali, The discrepancy
+[55] N. A. Khooshemehr, M. A. Maddah-Ali, The discrepancy
 attack on polyshard-ed blockchains, volume 2021-July,
-2021, p. 2672 â  ̆A  ̧S 2677. URL: https://www.scopus.
+2021, pp. 2672 – 2677. URL: https://www.scopus.
 com/inward/record.uri?eid=2-s2.0-85115061785&
 doi=10.1109%2fISIT45174.2021.9517994&partnerID=
 40&md5=126e7a0ddc521e606587fe156d05ddcd.
 doi:10.1109/ISIT45174.2021.9517994, cited by: 4; All Open
 Access, Green Open Access.
-[66] S. Kim, Two-phase cooperative bargaining game
+[56] S. Kim, Two-phase cooperative bargaining game
 approach for shard-based blockchain consensus scheme,
-IEEE Access 7 (2019) 127772 â  ̆A  ̧S 127780. URL:
-https://www.scopus.com/inward/record.uri?eid=2-s2.
+IEEE Access 7 (2019) 127772 – 127780. URL: https:
+//www.scopus.com/inward/record.uri?eid=2-s2.
 0-85078002976&doi=10.1109%2fACCESS.2019.2939778&
 partnerID=40&md5=ebc1423eb92b2aa8d77379846baf2511.
 doi:10.1109/ACCESS.2019.2939778, cited by: 17; All Open
 Access, Gold Open Access.
-[67] S. Kim, J. Song, S. Woo, Y. Kim, S. Park, Gas
+[57] S. Kim, J. Song, S. Woo, Y. Kim, S. Park, Gas
 consumption-aware dynamic load balancing in ethereum
-sharding environments, 2019, p. 188 â  ̆A  ̧S 193. URL:
+sharding environments, 2019, pp. 188 – 193. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85071472847&doi=10.1109%2fFAS-W.2019.00052&
 partnerID=40&md5=4736d5d1a91e637e6ee5a528c6aa62f2.
 doi:10.1109/FAS-W.2019.00052, cited by: 10.
-[68] E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta,
-B. Ford, Omniledger: A secure, scale-out, decentralized ledger
-via sharding, volume 2018-May, 2018, p. 583 â  ̆A  ̧S 598.
+[58] E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta,
+B. Ford, Omniledger: A secure, scale-out, decentralized
+ledger via sharding, volume 2018-May, 2018, pp. 583 – 598.
 URL: https://www.scopus.com/inward/record.uri?eid=
 2-s2.0-85049798657&doi=10.1109%2fSP.2018.000-5&
 partnerID=40&md5=7e4fb03bdc42b2c39caac5d29b16911e.
 doi:10.1109/SP.2018.000-5, cited by: 713; All Open Access,
 Bronze Open Access, Green Open Access.
-A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 13 of 18
-A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
-[69] V. V. Kumar, U. Padmavathi, C. P. Ranjith, J. Balaji, C. V.
-Kumar, An elixir for blockchain scalability with channel based
-clustered sharding, Scalable Computing 25 (2024) 997 â  ̆A  ̧S 1004.
-URL: https://www.scopus.com/inward/record.uri?eid=
-2-s2.0-85188029370&doi=10.12694%2fscpe.v25i2.2441&
-partnerID=40&md5=b8658f4ee44216511302942827da4bb1.
-doi:10.12694/scpe.v25i2.2441, cited by: 0.
-[70] M. Li, Y. Lin, J. Zhang, W. Wang, Cochain: High
+[59] M. Li, Y. Lin, J. Zhang, W. Wang, Cochain: High
 concurrency blockchain sharding via consensus on consensus,
 volume 2023-May, 2023. URL: https://www.scopus.
 com/inward/record.uri?eid=2-s2.0-85171621878&
 doi=10.1109%2fINFOCOM53939.2023.10228892&
 partnerID=40&md5=9861e4dc2131774f34937f61d3ff06b7.
 doi:10.1109/INFOCOM53939.2023.10228892, cited by: 0.
-[71] M. Li, Y. Qin, Scaling the blockchain-based access
+[60] M. Li, Y. Qin, Scaling the blockchain-based access
 control framework for iot via sharding, 2021. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85115701081&doi=10.1109%2fICC42927.2021.9500403&
 partnerID=40&md5=ac19513718b6f5086c1f2d62336aa615.
 doi:10.1109/ICC42927.2021.9500403, cited by: 7.
-[72] A. Liu, Y. Liu, Q. Wu, B. Zhao, D. Li, Y. Lu, R. Lu,
-W. Susilo, Cherubim: A secure and highly parallel cross-
-shard consensus using quadruple pipelined two-phase commit
+[61] A. Liu, Y. Liu, Q. Wu, B. Zhao, D. Li, Y. Lu, R. Lu,
+W. Susilo, Cherubim: A secure and highly parallel crossshard
+consensus using quadruple pipelined two-phase commit
 for sharding blockchains, IEEE Transactions on Information
-Forensics and Security 19 (2024) 3178 â  ̆A  ̧S 3193. URL:
+Forensics and Security 19 (2024) 3178 – 3193. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85184020543&doi=10.1109%2fTIFS.2024.3358990&
 partnerID=40&md5=d61a2009c915df08170da52383a13f5e.
 doi:10.1109/TIFS.2024.3358990, cited by: 0.
-[73] C. Liu, J. Wan, L. Li, B. Yao, Throughput optimization for
-blockchain system with dynamic sharding â  ̆A ̆a, Electronics
+[62] C. Liu, J. Wan, L. Li, B. Yao, Throughput optimization
+for blockchain system with dynamic sharding, Electronics
 (Switzerland) 12 (2023). URL: https://www.scopus.
 com/inward/record.uri?eid=2-s2.0-85180639227&
 doi=10.3390%2felectronics12244915&partnerID=
 40&md5=9dc18927aa6ee72d20184d102820ad10.
 doi:10.3390/electronics12244915, cited by: 0; All Open
 Access, Gold Open Access.
-[74] Y. Liu, J. Liu, D. Li, H. Yu, Q. Wu, Fleetchain: A secure
+[63] Y. Liu, J. Liu, D. Li, H. Yu, Q. Wu, Fleetchain: A secure
 scalable and responsive blockchain achieving optimal sharding,
 Lecture Notes in Computer Science (including subseries
 Lecture Notes in Artificial Intelligence and Lecture Notes
-in Bioinformatics) 12454 LNCS (2020) 409 â  ̆A  ̧S 425. URL:
+in Bioinformatics) 12454 LNCS (2020) 409 – 425. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85092701183&doi=10.1007%2f978-3-030-60248-2_28&
 partnerID=40&md5=e81067b61645143989266b5860f6bdfa.
 doi:10.1007/978-3-030-60248-2_28, cited by: 13.
-[75] Y. Liu, J. Liu, J. Wang, T. Liu, X. He, Bss-its: Blockchain scaling
-scheme with sharding for intelligent transportation system: Scale
-blockchain for better data exchange and storage with full sharding
-for intelligent transportation system, 2021, p. 128 â  ̆A  ̧S 134.
-URL: https://www.scopus.com/inward/record.uri?eid=
-2-s2.0-85126003367&doi=10.1145%2f3510487.3510506&
-partnerID=40&md5=af922ded6c940fdd27f3115a3574f82b.
-doi:10.1145/3510487.3510506, cited by: 2.
-[76] Y. Liu, J. Liu, J. Yin, G. Li, H. Yu, Q. Wu, Cross-shard
-transaction processing inÂ ̆asharding blockchains, Lecture
+[64] Y. Liu, J. Liu, J. Yin, G. Li, H. Yu, Q. Wu, Cross-shard
+transaction processing in sharding blockchains, Lecture
 Notes in Computer Science (including subseries Lecture
 Notes in Artificial Intelligence and Lecture Notes in
-Bioinformatics) 12454 LNCS (2020) 324 â  ̆A  ̧S 339. URL:
+Bioinformatics) 12454 LNCS (2020) 324 – 339. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
+A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 15 of 23
+A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
 0-85092731742&doi=10.1007%2f978-3-030-60248-2_22&
 partnerID=40&md5=f1bdd5054f87486143fb09d384dc1f54.
 doi:10.1007/978-3-030-60248-2_22, cited by: 14.
-[77] Y. Liu, X. Xing, H. Cheng, D. Li, Z. Guan, J. Liu, Q. Wu,
+[65] Y. Liu, X. Xing, H. Cheng, D. Li, Z. Guan, J. Liu, Q. Wu,
 A flexible sharding blockchain protocol based on cross-shard
 byzantine fault tolerance, IEEE Transactions on Information
-Forensics and Security 18 (2023) 2276 â  ̆A  ̧S 2291. URL:
+Forensics and Security 18 (2023) 2276 – 2291. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85153359654&doi=10.1109%2fTIFS.2023.3266628&
 partnerID=40&md5=a59773daf8e3654e8d443c4c186dceb3.
 doi:10.1109/TIFS.2023.3266628, cited by: 9.
-[78] C. Luo, Y. Hu, S. Zhang, Y. Zhang, Y. Liu, X. Diao, G. Huang,
+[66] C. Luo, Y. Hu, S. Zhang, Y. Zhang, Y. Liu, X. Diao, G. Huang,
 Fission: Autonomous, scalable sharding for iot blockchain,
-2022, p. 956 â  ̆A  ̧S 965. URL: https://www.scopus.com/
+2022, pp. 956 – 965. URL: https://www.scopus.com/
 inward/record.uri?eid=2-s2.0-85137002465&doi=10.
 1109%2fCOMPSAC54236.2022.00148&partnerID=
 40&md5=9bfe19d5ac6b9a9e4d496cc64b89b270.
 doi:10.1109/COMPSAC54236.2022.00148, cited by: 6.
-[79] Y. Mali, V. U. Rathod, D. Ajalkar, D. S. Khemnar, S. Kolpe,
-S. Patil, Role of blockchain in health application using
-blockchain sharding, 2023. URL: https://www.scopus.
-com/inward/record.uri?eid=2-s2.0-85179843018&doi=
-10.1109%2fICCCNT56998.2023.10306760&partnerID=
-40&md5=b1e5aa8475dadd13bd69f9473a6e2ae0.
-doi:10.1109/ICCCNT56998.2023.10306760, cited by: 1.
-[80] M. H. Manshaei, M. Jadliwala, A. Maiti, M. Fooladgar,
+[67] M. H. Manshaei, M. Jadliwala, A. Maiti, M. Fooladgar,
 A game-theoretic analysis of shard-based permissionless
-blockchains, IEEE Access 6 (2018) 78100 â  ̆A  ̧S 78112. URL:
+blockchains, IEEE Access 6 (2018) 78100 – 78112. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85058127567&doi=10.1109%2fACCESS.2018.2884764&
 partnerID=40&md5=5745f0cd6da1735fb567f72e02f9e6c5.
 doi:10.1109/ACCESS.2018.2884764, cited by: 43; All Open
 Access, Gold Open Access, Green Open Access.
-[81] K. Meng, L. Sun, X. Chen, H. Wu, S. Li, A decentralized vehicle-
-to-vehicle energy trading system based on efficient sharding
-services, 2023, p. 42 â  ̆A  ̧S 49. URL: https://www.scopus.
-com/inward/record.uri?eid=2-s2.0-85180668886&doi=10.
-1109%2fISPA-BDCloud-SocialCom-SustainCom59178.
-2023.00038&partnerID=40&md5=
-8ea7e92ae1c0bcc945fa698bd4f696fd. doi:10.1109/
-ISPA-BDCloud-SocialCom-SustainCom59178.2023.00038,
-cited by: 1.
-[82] S. D. Okegbile, J. Cai, J. Chen, C. Yi, A reputation-
-enhanced shard-based byzantine fault-tolerant scheme for
+[68] S. D. Okegbile, J. Cai, J. Chen, C. Yi, A reputationenhanced
+shard-based byzantine fault-tolerant scheme for
 secure data sharing in zero trust human digital twin systems,
-IEEE Internet of Things Journal (2024) 1â  ̆A  ̧S1. URL:
+IEEE Internet of Things Journal (2024) 1â˘A ¸ S1. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85189646301&doi=10.1109%2fJIOT.2024.3382829&
 partnerID=40&md5=d6fb6fee4ed08ea84e4f631251eea2fa.
 doi:10.1109/JIOT.2024.3382829, cited by: 0.
-[83] S. Peng, Y. Liu, J. Chen, J. He, Y. Wang, Komorebi: A
+[69] S. Peng, Y. Liu, J. Chen, J. He, Y. Wang, Komorebi: A
 dag-based asynchronous bft consensus via sharding, volume
-2023-July, 2023, p. 1221 â  ̆A  ̧S 1227. URL: https://www.
+2023-July, 2023, pp. 1221 – 1227. URL: https://www.
 scopus.com/inward/record.uri?eid=2-s2.0-85172014687&
 doi=10.1109%2fISCC58397.2023.10217999&partnerID=
 40&md5=0a3351f8ec0485ad23ca57d3c4be0915.
 doi:10.1109/ISCC58397.2023.10217999, cited by: 1.
-[84] S. Peng, Y. Liu, J. Chen, J. He, Y. Wang, Petrichor: An
+[70] S. Peng, Y. Liu, J. Chen, J. He, Y. Wang, Petrichor: An
 efficient consensus protocol leveraging dag and sharding
 for asynchronous bft, Communications in Computer and
-Information Science 1897 CCIS (2024) 284 â  ̆A  ̧S 297. URL:
+Information Science 1897 CCIS (2024) 284 – 297. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85178551030&doi=10.1007%2f978-981-99-8104-5_21&
 partnerID=40&md5=702b093c646ec7b316a0f7fcb8504f9c.
 doi:10.1007/978-981-99-8104-5_21, cited by: 1.
-[85] G. PÃ ̋orlea, A. Kumar, I. Sergey, Practical smart contract
-sharding with ownership and commutativity analysis, 2021,
-p. 1327 â  ̆A  ̧S 1341. URL: https://www.scopus.com/
-inward/record.uri?eid=2-s2.0-85108912346&doi=
-10.1145%2f3453483.3454112&partnerID=40&md5=
-a262de1407892c472be10d0fc54b8db7. doi:10.1145/3453483.
-3454112, cited by: 22; All Open Access, Bronze Open Access.
-[86] H. Quan, T. Kang, L. Guo, Intra-shard and inter-shard
+[71] G. PÃ˝orlea, A. Kumar, I. Sergey, Practical smart contract sharding
+with ownership and commutativity analysis, 2021, pp. 1327 – 1341.
+URL: https://www.scopus.com/inward/record.uri?eid=
+2-s2.0-85108912346&doi=10.1145%2f3453483.3454112&
+partnerID=40&md5=a262de1407892c472be10d0fc54b8db7.
+doi:10.1145/3453483.3454112, cited by: 22; All Open Access,
+Bronze Open Access.
+[72] H. Quan, T. Kang, L. Guo, Intra-shard and inter-shard
 collaborative incentive scheme for shard-based permissionless
-blockchain, 2021, p. 137 â  ̆A  ̧S 145. URL: https://www.
+blockchain, 2021, pp. 137 – 145. URL: https://www.
 scopus.com/inward/record.uri?eid=2-s2.0-85127276034&
-A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 14 of 18
-A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
 doi=10.1145%2f3507971.3507995&partnerID=40&md5=
 ed4738605956db6713c83a832e19a4d7. doi:10.1145/3507971.
 3507995, cited by: 0.
-[87] F. Rahman, C. Titouna, F. Nait-Abdesselam, Prioritised
+[73] F. Rahman, C. Titouna, F. Nait-Abdesselam, Prioritised
 sharding: A novel approach to enhance blockchain
 scalability, 2023. URL: https://www.scopus.com/
 inward/record.uri?eid=2-s2.0-85179624836&doi=10.
 1109%2fBRAINS59668.2023.10317052&partnerID=
 40&md5=fc64a2de1aa63051d7d13b013777a21d.
 doi:10.1109/BRAINS59668.2023.10317052, cited by: 1.
-[88] T. Ramburn, D. Goswami, Flexishard: A flexible sharding
+[74] T. Ramburn, D. Goswami, Flexishard: A flexible sharding
 scheme for blockchain based on a hybrid fault model,
-2022, p. 9 â  ̆A  ̧S 16. URL: https://www.scopus.com/
+2022, pp. 9 – 16. URL: https://www.scopus.com/
 inward/record.uri?eid=2-s2.0-85142859754&doi=
 10.1109%2fISPDC55340.2022.00011&partnerID=
 40&md5=0318952bc3907b0033c63d790544b94e.
 doi:10.1109/ISPDC55340.2022.00011, cited by: 2.
-[89] T. Ramburn, D. Goswami, Securshard: A model for hierarchical
+[75] T. Ramburn, D. Goswami, Securshard: A model for hierarchical
 fault detection in blockchain sharding, 2023. URL: https://www.
 scopus.com/inward/record.uri?eid=2-s2.0-85166223655&
 doi=10.1109%2fICBC56567.2023.10174982&partnerID=
 40&md5=6de1186974f2e81ba9c4887b5e6da379.
 doi:10.1109/ICBC56567.2023.10174982, cited by: 0.
-[90] R. Rana, S. Kannan, D. Tse, P. Viswanath, Free2shard:
+[76] R. Rana, S. Kannan, D. Tse, P. Viswanath, Free2shard:
 Adversary-resistant distributed resource allocation for
-blockchains, 2022, p. 113 â  ̆A  ̧S 114. URL: https:
+blockchains, 2022, pp. 113 – 114. URL: https:
 //www.scopus.com/inward/record.uri?eid=2-s2.
 0-85132156109&doi=10.1145%2f3489048.3522651&
 partnerID=40&md5=44c0551fad27a83d4bb2b22746d34ffe.
 doi:10.1145/3489048.3522651, cited by: 1.
-[91] A. Rauch, Student research abstract: Splitchain: Blockchain
+[77] A. Rauch, Student research abstract: Splitchain: Blockchain
 with fully decentralized dynamic sharding resilient to
-fast adaptive adversaries, 2023, p. 280 â  ̆A  ̧S 283. URL:
+fast adaptive adversaries, 2023, pp. 280 – 283. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85162902866&doi=10.1145%2f3555776.3577207&
 partnerID=40&md5=f7c3aa749b3a15667be41fe8778667e8.
 doi:10.1145/3555776.3577207, cited by: 0.
-[92] X. Ren, M. Xu, D. Niyato, J. Kang, C. Qiu, X. Wang,
+[78] X. Ren, M. Xu, D. Niyato, J. Kang, C. Qiu, X. Wang,
 <italic>paramart</italic>: Parallel resource allocation based
 on blockchain sharding for edge-cloud services, IEEE
-Transactions on Services Computing (2024) 1â  ̆A  ̧S14. URL:
+Transactions on Services Computing (2024) 1â˘A ¸S14. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85184343892&doi=10.1109%2fTSC.2024.3359608&
 partnerID=40&md5=6c117c44b1febd3d2097dea14b494de7.
 doi:10.1109/TSC.2024.3359608, cited by: 0.
-[93] J. Rowland, H. Tewari, Optimized communication in
+[79] J. Rowland, H. Tewari, Optimized communication in
 sharded blockchain networks, Lecture Notes in Networks
-and Systems 651 LNNS (2023) 207 â  ̆A  ̧S 223. URL:
+and Systems 651 LNNS (2023) 207 – 223. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85149987508&doi=10.1007%2f978-3-031-28076-4_18&
 partnerID=40&md5=f89408f674195b4455f2dba1ae8bb959.
 doi:10.1007/978-3-031-28076-4_18, cited by: 0.
-[94] S. K. Set, G. S. Park, Service-aware dynamic sharding
-approach for scalable blockchain, IEEE Transactions on
-Services Computing 16 (2023) 2954 â  ̆A  ̧S 2969. URL:
+[80] S. K. Set, G. S. Park, Service-aware dynamic sharding
+approach for scalable blockchain, IEEE Transactions
+on Services Computing 16 (2023) 2954 – 2969. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85146217852&doi=10.1109%2fTSC.2022.3231619&
 partnerID=40&md5=c95ef582cbb275590fc18d4c292dba04.
 doi:10.1109/TSC.2022.3231619, cited by: 0.
-[95] T. Shen, T. Li, Z. Yu, F. Bai, C. Zhang, Gt-nrsm: efficient and
+[81] T. Shen, T. Li, Z. Yu, F. Bai, C. Zhang, Gt-nrsm: efficient and
 scalable sharding consensus mechanism for consortium blockchain,
-Journal of Supercomputing 79 (2023) 20041 â  ̆A  ̧S 20075. URL:
+Journal of Supercomputing 79 (2023) 20041 – 20075. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85161394324&doi=10.1007%2fs11227-023-05414-w&
 partnerID=40&md5=731ba72f1fcf5811f490351bd1434911.
 doi:10.1007/s11227-023-05414-w, cited by: 0; All Open Access,
 Green Open Access.
-[96] J. Shi, H. Wu, W. Liu, H. Gao, W. Zhang, Agileshard:
+[82] J. Shi, H. Wu, W. Liu, H. Gao, W. Zhang, Agileshard:
 Turning the sharded blockchain into a real-time transaction
-processing system, 2023, p. 105 â  ̆A  ̧S 117. URL:
+processing system, 2023, pp. 105 – 117. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85185346806&doi=10.1109%2fRTSS59052.2023.00019&
 partnerID=40&md5=37d975f8109f1d5f99931c919119d5a7.
 doi:10.1109/RTSS59052.2023.00019, cited by: 0.
-[97] S. Solat, F. NaÃ ́rt-Abdesselam, Parallel committees:
+[83] S. Solat, F. NaÃ´rt-Abdesselam, Parallel committees:
 High-performance, scalable, secure and fault-tolerant data
-replication using a novel sharding technique, 2023, p.
-546 â  ̆A  ̧S 553. URL: https://www.scopus.com/inward/
+A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 16 of 23
+A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
+replication using a novel sharding technique, 2023, pp.
+546 – 553. URL: https://www.scopus.com/inward/
 record.uri?eid=2-s2.0-85181776350&doi=10.1109%
 2fBCCA58897.2023.10338937&partnerID=40&md5=
 1877d5facbf7ad97aa575dfcbc210201. doi:10.1109/
 BCCA58897.2023.10338937, cited by: 0.
-[98] P. Soltani, F. Ashtiani, Analytical modeling and throughput
+[84] P. Soltani, F. Ashtiani, Analytical modeling and throughput
 computation of blockchain sharding, IEEE Transactions on
-Parallel and Distributed Systems 35 (2024) 828 â  ̆A  ̧S 842. URL:
+Parallel and Distributed Systems 35 (2024) 828 – 842. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85187980481&doi=10.1109%2fTPDS.2024.3376452&
 partnerID=40&md5=10769e02b06a466299e54a0b50ee9596.
 doi:10.1109/TPDS.2024.3376452, cited by: 0.
-[99] N. Sun, J. Li, Y. Liu, V. Arya, A scalable sharding protocol
+[85] N. Sun, J. Li, Y. Liu, V. Arya, A scalable sharding protocol
 based on cross-shard dynamic transaction confirmation for alliance
 chain in intelligent systems, International Journal on Semantic
 Web and Information Systems 19 (2023). URL: https://www.
@@ -685,75 +571,66 @@ scopus.com/inward/record.uri?eid=2-s2.0-85177208676&
 doi=10.4018%2fIJSWIS.333063&partnerID=40&md5=
 076ad8a385b149e97dd921b2d0d9e8d3. doi:10.4018/IJSWIS.
 333063, cited by: 2; All Open Access, Bronze Open Access.
-[100] H. Tang, J. Huang, K. Liu, L. Kong, G. Chen, S. Cao, C. Niu, Y. Wei,
+[86] H. Tang, J. Huang, K. Liu, L. Kong, G. Chen, S. Cao, C. Niu, Y.Wei,
 Relayer-enabled sharding blockchain for satellite internet with high
-concurrency, 2023, p. 7580 â  ̆A  ̧S 7585. URL: https://www.
+concurrency, 2023, pp. 7580 – 7585. URL: https://www.
 scopus.com/inward/record.uri?eid=2-s2.0-85187327675&
 doi=10.1109%2fGLOBECOM54140.2023.10437472&
 partnerID=40&md5=2a1a1b6d602a8493c806a3fe32c17c83.
 doi:10.1109/GLOBECOM54140.2023.10437472, cited by: 0.
-[101] Y. Tao, B. Li, J. Jiang, H. C. Ng, C. Wang, B. Li,
+[87] Y. Tao, B. Li, J. Jiang, H. C. Ng, C. Wang, B. Li,
 On sharding open blockchains with smart contracts,
-volume 2020-April, 2020, p. 1357 â  ̆A  ̧S 1368. URL:
+volume 2020-April, 2020, pp. 1357 – 1368. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85085867416&doi=10.1109%2fICDE48307.2020.00121&
 partnerID=40&md5=00a3fbba47811b1cef49f5f8fe9e715f.
 doi:10.1109/ICDE48307.2020.00121, cited by: 36.
-[102] Y. Tao, B. Li, B. Li, On sharding across heterogeneous
-blockchains, volume 2023-April, 2023, p. 477 â  ̆A  ̧S 489. URL:
+[88] Y. Tao, B. Li, B. Li, On sharding across heterogeneous
+blockchains, volume 2023-April, 2023, pp. 477 – 489. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85167674489&doi=10.1109%2fICDE55515.2023.00043&
 partnerID=40&md5=0232d1a54a82846af5a9f9be2fc6689f.
 doi:10.1109/ICDE55515.2023.00043, cited by: 0.
-[103] M. Toulouse, H. Dai, T. G. Le, Distributed load-balancing
+[89] M. Toulouse, H. Dai, T. G. Le, Distributed load-balancing
 for account-based sharded blockchains, International Journal
-of Web Information Systems 18 (2022) 100 â  ̆A  ̧S 116. URL:
+of Web Information Systems 18 (2022) 100 – 116. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85134946186&doi=10.1108%2fIJWIS-04-2022-0081&
 partnerID=40&md5=a36b9caa68504c8a3f00448d3f25e693.
 doi:10.1108/IJWIS-04-2022-0081, cited by: 3.
-[104] M. Toulouse, H. Dai, Q. Nguyen, A consensus-based
+[90] M. Toulouse, H. Dai, Q. Nguyen, A consensus-based
 load-balancing algorithm for sharded blockchains, Lecture
 Notes in Computer Science (including subseries Lecture
 Notes in Artificial Intelligence and Lecture Notes in
-Bioinformatics) 13076 LNCS (2021) 239 â  ̆A  ̧S 259. URL:
+Bioinformatics) 13076 LNCS (2021) 239 – 259. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85121142004&doi=10.1007%2f978-3-030-91387-8_16&
 partnerID=40&md5=384833e6889111018637eed5e1620b04.
 doi:10.1007/978-3-030-91387-8_16, cited by: 2; All Open
 Access, Green Open Access.
-A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 15 of 18
-A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
-[105] A. Vernekar, A. Kshirsagar, V. Pachghare, Sharding-based
-scalability enhancement of blockchain-based health application,
-2023, p. 901 â  ̆A  ̧S 906. URL: https://www.scopus.com/
-inward/record.uri?eid=2-s2.0-85173902115&doi=10.
-1109%2fICCPCT58313.2023.10245363&partnerID=
-40&md5=96805a0d0ab2a19d3f6532656b96e5a8.
-doi:10.1109/ICCPCT58313.2023.10245363, cited by: 1.
-[106] C. Wang, Z. Li, F. Yang, B. Li, Multi-round consensus scheme that
-utilizes statemerge to reduce the rollback probability under state
-sharding, 2023, p. 107 â  ̆A  ̧S 115. URL: https://www.scopus.
+[91] C. Wang, Z. Li, F. Yang, B. Li, Multi-round consensus scheme
+that utilizes statemerge to reduce the rollback probability under
+state sharding, 2023, pp. 107 – 115. URL: https://www.scopus.
 com/inward/record.uri?eid=2-s2.0-85184992589&doi=
 10.1109%2fCCSB60789.2023.10398822&partnerID=40&
 md5=cea2a22955a3709f90e101c135a00b14. doi:10.1109/
 CCSB60789.2023.10398822, cited by: 0.
-[107] G. Wang, Repshard: Reputation-based sharding scheme
+[92] G. Wang, Repshard: Reputation-based sharding scheme
 achieves linearly scaling efficiency and security simultaneously,
-2020, p. 237 â  ̆A  ̧S 246. URL: https://www.scopus.com/
+2020, pp. 237 – 246. URL: https://www.scopus.com/
 inward/record.uri?eid=2-s2.0-85099240839&doi=10.
 1109%2fBlockchain50366.2020.00037&partnerID=40&
 md5=e20ff733b95e9d31fb04e9b073fdf944. doi:10.1109/
 Blockchain50366.2020.00037, cited by: 11.
-[108] J. Wang, S. Wang, Q. Zhang, Y. Deng, A two-
-layer consortium blockchain with transaction privacy
+[93] J. Wang, S. Wang, Q. Zhang, Y. Deng, A twolayer
+consortium blockchain with transaction privacy
 protection based on sharding technology, Journal of
 Information Security and Applications 74 (2023). URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85149661609&doi=10.1016%2fj.jisa.2023.103452&
 partnerID=40&md5=adaa9a6b9912defdf0ca4a7d2cf617b0.
 doi:10.1016/j.jisa.2023.103452, cited by: 4.
-[109] J. Wang, X. Wang, Y. Shen, X. Xiong, W. Zheng, P. Li,
+[94] J. Wang, X. Wang, Y. Shen, X. Xiong, W. Zheng, P. Li,
 X. Fang, Building operation and maintenance scheme
 based on sharding blockchain, Heliyon 9 (2023). URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
@@ -761,7 +638,7 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.
 partnerID=40&md5=17b6ff6c25e1151976cdb2c8f435065f.
 doi:10.1016/j.heliyon.2023.e13186, cited by: 6; All Open
 Access, Gold Open Access, Green Open Access.
-[110] Y. Wang, J. Li, W. Liu, A. Tan, Efficient concurrent
+[95] Y. Wang, J. Li, W. Liu, A. Tan, Efficient concurrent
 execution of smart contracts in blockchain sharding,
 Security and Communication Networks 2021 (2021). URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
@@ -769,23 +646,22 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.
 partnerID=40&md5=44d2f34969a6217bc346265d847e5900.
 doi:10.1155/2021/6688168, cited by: 6; All Open Access, Gold
 Open Access.
-[111] S. Woo, J. Song, S. Kim, Y. Kim, S. Park, Garet:
-improving throughput using gas consumption-aware
-relocation in ethereum sharding environments, Cluster
-Computing 23 (2020) 2235 â  ̆A  ̧S 2247. URL: https:
-//www.scopus.com/inward/record.uri?eid=2-s2.
-0-85082855608&doi=10.1007%2fs10586-020-03087-1&
+[96] S. Woo, J. Song, S. Kim, Y. Kim, S. Park, Garet: improving
+throughput using gas consumption-aware relocation in ethereum
+sharding environments, Cluster Computing 23 (2020) 2235 – 2247.
+URL: https://www.scopus.com/inward/record.uri?eid=
+2-s2.0-85082855608&doi=10.1007%2fs10586-020-03087-1&
 partnerID=40&md5=87574cbbfabecf6f0f0a02429bde6ec5.
 doi:10.1007/s10586-020-03087-1, cited by: 13.
-[112] J. Wu, J. Zhang, Committee selection based onÂ ̆agame theory
-inÂ ̆asharding blockchain, Lecture Notes of the Institute for
+[97] J. Wu, J. Zhang, Committee selection based on game theory
+in sharding blockchain, Lecture Notes of the Institute for
 Computer Sciences, Social-Informatics and Telecommunications
-Engineering, LNICST 437 LNICST (2022) 13 â  ̆A  ̧S 28. URL:
+Engineering, LNICST 437 LNICST (2022) 13 – 28. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85130412692&doi=10.1007%2f978-3-031-04231-7_2&
 partnerID=40&md5=0aca6f4d392f09b7c06fbf72e6f6571d.
 doi:10.1007/978-3-031-04231-7_2, cited by: 0.
-[113] X. Wu, W. Jiang, M. Song, Z. Jia, J. Qin, An
+[98] X. Wu, W. Jiang, M. Song, Z. Jia, J. Qin, An
 efficient sharding consensus algorithm for consortium
 chains, Scientific Reports 13 (2023). URL: https:
 //www.scopus.com/inward/record.uri?eid=2-s2.
@@ -793,23 +669,25 @@ chains, Scientific Reports 13 (2023). URL: https:
 partnerID=40&md5=be1700ef266e20ce3f0dc2bd81db1305.
 doi:10.1038/s41598-022-27228-1, cited by: 3; All Open Access,
 Gold Open Access, Green Open Access.
-[114] J. Xie, K. Zhang, Y. Lu, Y. Zhang, Resource-efficient dag
+[99] J. Xie, K. Zhang, Y. Lu, Y. Zhang, Resource-efficient dag
 blockchain with sharding for 6g networks, IEEE Network
-36 (2022) 189 â  ̆A  ̧S 196. URL: https://www.scopus.com/
+36 (2022) 189 – 196. URL: https://www.scopus.com/
 inward/record.uri?eid=2-s2.0-85127874203&doi=10.
 1109%2fMNET.211.2100345&partnerID=40&md5=
 623f549a8b9fdace2154aee882c4fab3. doi:10.1109/MNET.
 211.2100345, cited by: 14.
-[115] J. Xu, Y. Ming, Z. Wu, C. Wang, X. Jia, X-shard:
-Optimistic cross-shard transaction processing for sharding-
-based blockchains, IEEE Transactions on Parallel and
-Distributed Systems 35 (2024) 548 â  ̆A  ̧S 559. URL:
+[100] J. Xu, Y. Ming, Z. Wu, C. Wang, X. Jia, X-shard:
+Optimistic cross-shard transaction processing for shardingbased
+blockchains, IEEE Transactions on Parallel
+and Distributed Systems 35 (2024) 548 – 559. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85184338740&doi=10.1109%2fTPDS.2024.3361180&
 partnerID=40&md5=ea0842f3447343e7777c1c0ce6365756.
 doi:10.1109/TPDS.2024.3361180, cited by: 0.
-[116] Y. Xu, Y. Huang, J. Shao, G. Theodorakopoulos, A flexible
+[101] Y. Xu, Y. Huang, J. Shao, G. Theodorakopoulos, A flexible
 n/2 adversary node resistant and halting recoverable blockchain
+A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 17 of 23
+A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
 sharding protocol, Concurrency and Computation: Practice
 and Experience 32 (2020). URL: https://www.scopus.
 com/inward/record.uri?eid=2-s2.0-85083323561&
@@ -817,7 +695,7 @@ doi=10.1002%2fcpe.5773&partnerID=40&md5=
 3abd3621ff176c7067504f4024a523d2. doi:10.1002/cpe.5773,
 cited by: 3; All Open Access, Green Open Access, Hybrid Gold
 Open Access.
-[117] Y. Xu, J. Shao, T. Slaats, B. DÃijdder, Mwpow+: A strong
+[102] Y. Xu, J. Shao, T. Slaats, B. DÃijdder, Mwpow+: A strong
 consensus protocol for intra-shard consensus in blockchain
 sharding, ACM Transactions on Internet Technology 23
 (2023). URL: https://www.scopus.com/inward/record.
@@ -825,130 +703,107 @@ uri?eid=2-s2.0-85161666500&doi=10.1145%2f3584020&
 partnerID=40&md5=b126b6986f4d49e5e4f2ec2fdbb58cab.
 doi:10.1145/3584020, cited by: 3; All Open Access, Green Open
 Access.
-[118] Z. Xu, R. Jiang, P. Zhang, T. Lu, N. Gu, Txchain: Scaling
+[103] Z. Xu, R. Jiang, P. Zhang, T. Lu, N. Gu, Txchain: Scaling
 sharded decentralized ledger via chained transaction sequences,
 Lecture Notes in Computer Science (including subseries
 Lecture Notes in Artificial Intelligence and Lecture Notes
-in Bioinformatics) 13245 LNCS (2022) 333 â  ̆A  ̧S 340. URL:
+in Bioinformatics) 13245 LNCS (2022) 333 – 340. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85129806145&doi=10.1007%2f978-3-031-00123-9_27&
 partnerID=40&md5=f64c730e493eaa34325be8b4f1c5aa5c.
 doi:10.1007/978-3-031-00123-9_27, cited by: 0.
-[119] C. Yang, X. Li, J. Li, H. Qian, Linear scalability from sharding
+[104] C. Yang, X. Li, J. Li, H. Qian, Linear scalability from sharding
 and pos, Lecture Notes in Computer Science (including subseries
 Lecture Notes in Artificial Intelligence and Lecture Notes
-in Bioinformatics) 12452 LNCS (2020) 548 â  ̆A  ̧S 562. URL:
+in Bioinformatics) 12452 LNCS (2020) 548 – 562. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85092653937&doi=10.1007%2f978-3-030-60245-1_37&
 partnerID=40&md5=3ac07cd96548b939a64aa789c94748d4.
 doi:10.1007/978-3-030-60245-1_37, cited by: 1.
-[120] F. Yang, Z. Li, C. Wang, B. Li, A state merge-based proposer-
-builder separation for mitigating maximum extractable value
-threats in state sharding, 2023, p. 5 â  ̆A  ̧S 12. URL: https://www.
+[105] F. Yang, Z. Li, C. Wang, B. Li, A state merge-based proposerbuilder
+separation for mitigating maximum extractable value
+threats in state sharding, 2023, pp. 5 – 12. URL: https://www.
 scopus.com/inward/record.uri?eid=2-s2.0-85185001932&
 doi=10.1109%2fCCSB60789.2023.10398759&partnerID=
 40&md5=981166555913f7c9dee84be751edef0f. doi:10.1109/
 CCSB60789.2023.10398759, cited by: 0.
-[121] B. Yao, J. Wan, S. Jaffry, L. Li, Z. Ma, C. Liu, Optimal sharding for
-dynamic throughput optimization in blockchain systems with deep
-reinforcement learning, 2023, p. 51 â  ̆A  ̧S 55. URL: https://www.
-scopus.com/inward/record.uri?eid=2-s2.0-85180678239&
-doi=10.1109%2fSMC53992.2023.10394337&partnerID=
-40&md5=ffafefccbb01de8b2085e252da1afa6d. doi:10.1109/
-SMC53992.2023.10394337, cited by: 1.
-[122] B. Yin, R. Rong, X. Xiao, Learned sharding toward sustainable
+[106] B. Yin, R. Rong, X. Xiao, Learned sharding toward sustainable
 communications and networking in blockchains, IEEE Transactions
-on Green Communications and Networking (2024) 1â  ̆A  ̧S1. URL:
+on Green Communications and Networking (2024) 1â˘A ¸ S1. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
-A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 16 of 18
-A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
 0-85190171071&doi=10.1109%2fTGCN.2024.3386172&
 partnerID=40&md5=d6434d6f96573e600298178428c46411.
 doi:10.1109/TGCN.2024.3386172, cited by: 0.
-[123] H. Yoo, J. Yim, S. Kim, The blockchain for domain based
-static sharding, 2018, p. 1689 â  ̆A  ̧S 1692. URL: https://www.
+[107] H. Yoo, J. Yim, S. Kim, The blockchain for domain based
+static sharding, 2018, pp. 1689 – 1692. URL: https://www.
 scopus.com/inward/record.uri?eid=2-s2.0-85054104064&
 doi=10.1109%2fTrustCom%2fBigDataSE.2018.00252&
 partnerID=40&md5=f81d21839b477bfc41c916a5823ac048.
 doi:10.1109/TrustCom/BigDataSE.2018.00252, cited by: 27.
-[124] S. Yuan, B. Cao, Y. Sun, Z. Wan, M. Peng, Secure
+[108] S. Yuan, B. Cao, Y. Sun, Z. Wan, M. Peng, Secure
 and efficient federated learning through layering and
 sharding blockchain, IEEE Transactions on Network
-Science and Engineering (2024) 1â  ̆A  ̧S15. URL: https:
+Science and Engineering (2024) 1â˘A ¸S15. URL: https:
 //www.scopus.com/inward/record.uri?eid=2-s2.
 0-85184311068&doi=10.1109%2fTNSE.2024.3361458&
 partnerID=40&md5=a601aa643216781fd70db035120ba0e5.
 doi:10.1109/TNSE.2024.3361458, cited by: 1; All Open Access,
 Green Open Access.
-[125] J. Yun, Y. Goh, J.-M. Chung, Trust-based shard distribution
-scheme for fault-tolerant shard blockchain networks,
-IEEE Access 7 (2019) 135164 â  ̆A  ̧S 135175. URL:
+[109] J. Yun, Y. Goh, J.-M. Chung, Trust-based shard
+distribution scheme for fault-tolerant shard blockchain
+networks, IEEE Access 7 (2019) 135164 – 135175. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85078022850&doi=10.1109%2fACCESS.2019.2942003&
 partnerID=40&md5=62f7fba4140466e4c70ed317a58d2d4c.
 doi:10.1109/ACCESS.2019.2942003, cited by: 30; All Open
 Access, Gold Open Access.
-[126] M. Zamani, M. Movahedi, M. Raykova, Rapidchain: Scaling
-blockchain via full sharding, 2018, p. 931 â  ̆A  ̧S 948. URL:
+[110] M. Zamani, M. Movahedi, M. Raykova, Rapidchain: Scaling
+blockchain via full sharding, 2018, pp. 931 – 948. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85056891496&doi=10.1145%2f3243734.3243853&
 partnerID=40&md5=f6fa2fb08f8df78fb26071983deb17cc.
 doi:10.1145/3243734.3243853, cited by: 678; All Open Access,
 Bronze Open Access.
-[127] J. Zhang, Z. Hong, X. Qiu, Y. Zhan, S. Guo, W. Chen,
+[111] J. Zhang, Z. Hong, X. Qiu, Y. Zhan, S. Guo, W. Chen,
 Skychain: A deep reinforcement learning-empowered
 dynamic blockchain sharding system, 2020. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85090546499&doi=10.1145%2f3404397.3404460&
 partnerID=40&md5=5e2566f387440367f4b9bee6d43e15e9.
 doi:10.1145/3404397.3404460, cited by: 30.
-[128] M. Zhang, J. Li, Z. Chen, H. Chen, X. Deng, Cycledger:
+[112] M. Zhang, J. Li, Z. Chen, H. Chen, X. Deng, Cycledger:
 A scalable and secure parallel protocol for distributed
-ledger via sharding, 2020, p. 358 â  ̆A  ̧S 367. URL:
+ledger via sharding, 2020, pp. 358 – 367. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85088892100&doi=10.1109%2fIPDPS47924.2020.00045&
 partnerID=40&md5=115f1b1e19b112edf10879c76cc86c00.
 doi:10.1109/IPDPS47924.2020.00045, cited by: 19; All Open
 Access, Green Open Access.
-[129] M. Zhang, F. Lin, L. Tian, R. Jia, Z. Zheng, M. Li, Evolutionary
-medical data modeling and sharing via federated learning over
-sharded blockchain, IEEE Internet of Things Journal (2024) 1â  ̆A  ̧S1.
-URL: https://www.scopus.com/inward/record.uri?eid=
-2-s2.0-85190730076&doi=10.1109%2fJIOT.2024.3389593&
-partnerID=40&md5=ba37f02b70e7fd8ba2c0f5b53e26eaf5.
-doi:10.1109/JIOT.2024.3389593, cited by: 0.
-[130] Q. Zhang, S. Wang, D. Zhang, J. Wang, J. Sun, Fortunchain:
+[113] Q. Zhang, S. Wang, D. Zhang, J. Wang, J. Sun, Fortunchain:
 Ec-vrf-based scalable blockchain system for realizing
 state sharding, IEEE Transactions on Network and
-Service Management 20 (2023) 4340 â  ̆A  ̧S 4353. URL:
+Service Management 20 (2023) 4340 – 4353. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85160278028&doi=10.1109%2fTNSM.2023.3277833&
 partnerID=40&md5=7aa7c9d1ce669deac7ca5b8521ef2de5.
 doi:10.1109/TNSM.2023.3277833, cited by: 2.
-[131] X. Zhang, W. Xia, Q. Cui, X. Tao, R. P. Liu, Efficient
-and trusted data sharing in a sharding-enabled vehicular
-blockchain, IEEE Network 37 (2023) 230 â  ̆A  ̧S 237. URL:
-https://www.scopus.com/inward/record.uri?eid=2-s2.
-0-85136111707&doi=10.1109%2fMNET.122.2100755&
-partnerID=40&md5=53816f273e6dec30c337bc19bfad24f2.
-doi:10.1109/MNET.122.2100755, cited by: 1.
-[132] Y. Zhang, K. Gai, Y. Wei, L. Zhu, Bs-kgs: Blockchain
+[114] Y. Zhang, K. Gai, Y. Wei, L. Zhu, Bs-kgs: Blockchain
 sharding empowered knowledge graph storage, Lecture
 Notes in Computer Science (including subseries Lecture
 Notes in Artificial Intelligence and Lecture Notes in
-Bioinformatics) 12817 LNAI (2021) 451 â  ̆A  ̧S 462. URL:
+Bioinformatics) 12817 LNAI (2021) 451 – 462. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85113808180&doi=10.1007%2f978-3-030-82153-1_37&
 partnerID=40&md5=521bd247e00f9bcf0ffd433020275355.
 doi:10.1007/978-3-030-82153-1_37, cited by: 1.
-[133] Y. Zhang, S. Pan, J. Yu, Txallo: Dynamic transaction
+[115] Y. Zhang, S. Pan, J. Yu, Txallo: Dynamic transaction
 allocation in sharded blockchain systems, volume 2023-
-April, 2023, p. 721 â  ̆A  ̧S 733. URL: https://www.scopus.
+April, 2023, pp. 721 – 733. URL: https://www.scopus.
 com/inward/record.uri?eid=2-s2.0-85167700032&doi=
 10.1109%2fICDE55515.2023.00390&partnerID=40&
 md5=573fcd8c4eeef21b632dbb92616a5f27. doi:10.1109/
 ICDE55515.2023.00390, cited by: 1.
-[134] Z. Zhang, G. Yu, C. Sun, X. Wang, Y. Wang, M. Zhang,
+[116] Z. Zhang, G. Yu, C. Sun, X. Wang, Y. Wang, M. Zhang,
 W. Ni, R. P. Liu, A. Reeves, N. Georgalas, Tbdd: A
 new trust-based, drl-driven framework for blockchain
 sharding in iot, Computer Networks 244 (2024). URL:
@@ -957,57 +812,121 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.
 partnerID=40&md5=3744a15074e3b36058991d04e19571c0.
 doi:10.1016/j.comnet.2024.110343, cited by: 0; All Open
 Access, Green Open Access, Hybrid Gold Open Access.
-[135] P. Zheng, Q. Xu, X. Luo, Z. Zheng, W. Zheng, X. Chen,
-Z. Zhou, Y. Yan, H. Zhang, Aeolus: Distributed execution
-of permissioned blockchain transactions via state sharding,
-IEEE Transactions on Industrial Informatics 18 (2022)
-9227 â  ̆A  ̧S 9238. URL: https://www.scopus.com/
-inward/record.uri?eid=2-s2.0-85127785304&doi=
-10.1109%2fTII.2022.3164433&partnerID=40&md5=
-b80332672cb28615cd81c7aa165a4146. doi:10.1109/TII.
-2022.3164433, cited by: 24.
-[136] C.-X. Zhou, Q.-S. Hua, H. Jin, Hotdag: Hybrid consensus
+[117] P. Zheng, Q. Xu, X. Luo, Z. Zheng, W. Zheng, X. Chen, Z. Zhou,
+Y. Yan, H. Zhang, Aeolus: Distributed execution of permissioned
+blockchain transactions via state sharding, IEEE Transactions on
+Industrial Informatics 18 (2022) 9227 – 9238. URL: https://www.
+scopus.com/inward/record.uri?eid=2-s2.0-85127785304&
+doi=10.1109%2fTII.2022.3164433&partnerID=40&md5=
+b80332672cb28615cd81c7aa165a4146. doi:10.1109/TII.2022.
+3164433, cited by: 24.
+[118] C.-X. Zhou, Q.-S. Hua, H. Jin, Hotdag: Hybrid consensus
 via sharding in the permissionless model, Lecture
 Notes in Computer Science (including subseries Lecture
 Notes in Artificial Intelligence and Lecture Notes in
-Bioinformatics) 12384 LNCS (2020) 807 â  ̆A  ̧S 821. URL:
+A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 18 of 23
+A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
+Bioinformatics) 12384 LNCS (2020) 807 – 821. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85091519914&doi=10.1007%2f978-3-030-59016-1_66&
 partnerID=40&md5=648e46b49e1d768fef55c17eeefddc74.
 doi:10.1007/978-3-030-59016-1_66, cited by: 2.
-[137] K. Zhou, X. Zhang, C. Wang, H. Cheng, Accelerating cross-shard
+[119] K. Zhou, X. Zhang, C. Wang, H. Cheng, Accelerating cross-shard
 blockchain consensus via decentralized coordinators service
 with verifiable global states, IEEE Transactions on Services
-Computing (2024) 1â  ̆A  ̧S14. URL: https://www.scopus.
+Computing (2024) 1â˘A ¸S14. URL: https://www.scopus.
 com/inward/record.uri?eid=2-s2.0-85182351467&doi=
 10.1109%2fTSC.2024.3349539&partnerID=40&md5=
 b1b6df9d83682686bc58dfb2d249b8a9. doi:10.1109/TSC.
 2024.3349539, cited by: 0.
-[138] Y. Muchhala, H. Singhania, S. Sheth, K. Devadkar, Enabling
+[120] Y. Muchhala, H. Singhania, S. Sheth, K. Devadkar, Enabling
 mapreduce based parallel computation in smart contracts,
-2021, p. 537 â  ̆A  ̧S 543. URL: https://www.scopus.
-com/inward/record.uri?eid=2-s2.0-85102555452&doi=
+2021, pp. 537 – 543. URL: https://www.scopus.com/
+inward/record.uri?eid=2-s2.0-85102555452&doi=
 10.1109%2fICICT50816.2021.9358622&partnerID=
 40&md5=9bda1446a4b02f0cb7a162a4a4866b79.
 doi:10.1109/ICICT50816.2021.9358622, cited by: 4.
-[139] X. Liu, H. Xie, Z. Yan, X. Liang, A survey on blockchain
-sharding, ISA Transactions 141 (2023) 30 â  ̆A  ̧S 43. URL:
+[121] X. Liu, H. Xie, Z. Yan, X. Liang, A survey on blockchain
+sharding, ISA Transactions 141 (2023) 30 – 43. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85164573433&doi=10.1016%2fj.isatra.2023.06.029&
 partnerID=40&md5=1f360f22b8f3ad34707b24e44bde5a6c.
 doi:10.1016/j.isatra.2023.06.029, cited by: 1.
-[140] A. Zhang, K. Zhang, Enabling concurrency on smart
+[122] R. Adhikari, C. Busch, Lockless blockchain sharding with
+multiversion control, Lecture Notes in Computer Science (including
+subseries Lecture Notes in Artificial Intelligence and Lecture Notes
+in Bioinformatics) 13892 LNCS (2023) 112 – 131. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85163311024&doi=10.1007%2f978-3-031-32733-9_6&
+partnerID=40&md5=127c4fc280134b666d230312052e28ec.
+doi:10.1007/978-3-031-32733-9_6, cited by: 1; All Open
+Access, Green Open Access.
+[123] M. J. Amiri, D. Agrawal, A. El Abbadi, Sharper:
+Sharding permissioned blockchains over network clusters,
+2021, pp. 76 – 88. URL: https://www.scopus.com/
+inward/record.uri?eid=2-s2.0-85108958191&doi=
+10.1145%2f3448016.3452807&partnerID=40&md5=
+685b489ed79ec8aa583b1b92609d5b5f. doi:10.1145/3448016.
+3452807, cited by: 78; All Open Access, Bronze Open Access,
+Green Open Access.
+[124] K. WÃijst, S. Matetic, S. Egli, K. Kostiainen, S. Capkun,
+Ace: Asynchronous and concurrent execution of complex
+smart contracts, 2020, p. 587 â˘A ¸S 600. URL: https:
+//www.scopus.com/inward/record.uri?eid=2-s2.
+0-85096161986&doi=10.1145%2f3372297.3417243&
+partnerID=40&md5=86515ecf98b7c301c895e45e27353ba4.
+doi:10.1145/3372297.3417243, cited by: 29; All Open Access,
+Bronze Open Access.
+[125] A. Zhang, K. Zhang, Enabling concurrency on smart
 contracts using multiversion ordering, Lecture Notes
-A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 17 of 18
-A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
 in Computer Science (including subseries Lecture
 Notes in Artificial Intelligence and Lecture Notes in
-Bioinformatics) 10988 LNCS (2018) 425 â  ̆A  ̧S 439. URL:
+Bioinformatics) 10988 LNCS (2018) 425 â˘A ¸S 439. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85051129282&doi=10.1007%2f978-3-319-96893-3_32&
 partnerID=40&md5=ad208a90b3e81dd28f09f5e7c643bd57.
-doi:10.1007/978-3-319-96893-3_32, cited by: 20.
-[141] S. Baheti, P. S. Anjana, S. Peri, Y. Simmhan, Dipetrans: A
+doi:10.1007/978-3-319-96893-3_32, cited by: 21.
+[126] P. S. Anjana, S. Kumari, S. Peri, S. Rathor, A. Somani,
+An efficient framework for optimistic concurrent execution
+of smart contracts, 2019, pp. 83 – 92. URL: https:
+//www.scopus.com/inward/record.uri?eid=2-s2.
+0-85063875625&doi=10.1109%2fEMPDP.2019.8671637&
+partnerID=40&md5=d739ee512c8d47e1f9ab15356e94d63d.
+doi:10.1109/EMPDP.2019.8671637, cited by: 45; All Open
+Access, Green Open Access.
+[127] M. J. Amiri, D. Agrawal, A. El Abbadi, Parblockchain:
+Leveraging transaction parallelism in permissioned blockchain
+systems, volume 2019-July, 2019, pp. 1337 – 1347. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85074865320&doi=10.1109%2fICDCS.2019.00134&
+partnerID=40&md5=da89308a8d5454664d2fe873b8e8009d.
+doi:10.1109/ICDCS.2019.00134, cited by: 60; All Open Access,
+Green Open Access.
+[128] P. S. Anjana, S. Kumari, S. Peri, S. Rathor, A. Somani,
+Entitling concurrency to smart contracts using optimistic
+transactional memory, 2019, p. 508. URL: https:
+//www.scopus.com/inward/record.uri?eid=2-s2.
+0-85060934158&doi=10.1145%2f3288599.3299723&
+partnerID=40&md5=7993743a21a60f85c7159688d1533d58.
+doi:10.1145/3288599.3299723, cited by: 2.
+[129] P. S. Anjana, H. Attiya, S. Kumari, S. Peri, A. Somani,
+Efficient concurrent execution of smart contracts in
+blockchains using object-based transactional memory,
+Lecture Notes in Computer Science (including subseries
+Lecture Notes in Artificial Intelligence and Lecture Notes
+in Bioinformatics) 12129 LNCS (2021) 77 – 93. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85101539609&doi=10.1007%2f978-3-030-67087-0_6&
+partnerID=40&md5=445f0bc290b7bfef3c7c0c869e9d3b0d.
+doi:10.1007/978-3-030-67087-0_6, cited by: 6; All Open
+Access, Green Open Access.
+[130] P. S. Anjana, Efficient parallel execution of block
+transactions in blockchain, 2021, pp. 8 – 11. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85121106502&doi=10.1145%2f3491087.3493676&
+partnerID=40&md5=58bbd83f3256405ca871f41dbda52aa8.
+doi:10.1145/3491087.3493676, cited by: 3.
+[131] S. Baheti, P. S. Anjana, S. Peri, Y. Simmhan, Dipetrans: A
 framework for distributed parallel execution of transactions
 of blocks in blockchains, Concurrency and Computation:
 Practice and Experience 34 (2022). URL: https://www.
@@ -1015,78 +934,452 @@ scopus.com/inward/record.uri?eid=2-s2.0-85122252293&
 doi=10.1002%2fcpe.6804&partnerID=40&md5=
 7c971a4acf78188851ee429342ff56e5. doi:10.1002/cpe.6804,
 cited by: 9; All Open Access, Green Open Access.
-[142] M. Piduguralla, S. Chakraborty, P. S. Anjana, S. Peri, Dag-based
+[132] M. Piduguralla, S. Chakraborty, P. S. Anjana, S. Peri, Dag-based
 efficient parallel scheduler for blockchains: Hyperledger sawtooth
 as a case study, Lecture Notes in Computer Science (including
 subseries Lecture Notes in Artificial Intelligence and Lecture
-Notes in Bioinformatics) 14100 LNCS (2023) 184 â  ̆A  ̧S 198. URL:
+Notes in Bioinformatics) 14100 LNCS (2023) 184 – 198. URL:
 https://www.scopus.com/inward/record.uri?eid=2-s2.
 0-85171582845&doi=10.1007%2f978-3-031-39698-4_13&
 partnerID=40&md5=ffc244a7fab78042dfe584fc0f9d18d4.
 doi:10.1007/978-3-031-39698-4_13, cited by: 0.
+[133] P. S. Anjana, S. Kumari, S. Peri, S. Rathor, A. Somani,
+Optsmart: a space efficient optimistic concurrent execution
+of smart contracts, Distributed and Parallel Databases
+42 (2024) 245 – 297. URL: https://www.scopus.com/
+inward/record.uri?eid=2-s2.0-85129749817&doi=10.
+1007%2fs10619-022-07412-y&partnerID=40&md5=
+fe84cbbb3450d096d6079ad0914c7296. doi:10.1007/
+s10619-022-07412-y, cited by: 0; All Open Access, Green
+Open Access.
+[134] G. Huang, K. Wu, C. Luo, S. Zhang, H. Cai, X. Jing,
+Y. Ma, Bdledger: A scalable distributed ledger for largescale
+data recording, Communications in Computer and
+Information Science 1490 CCIS (2021) 87 â˘A¸S 100. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85121764911&doi=10.1007%2f978-981-16-7993-3_7&
+partnerID=40&md5=5d89292da80717632830c135dcd1fe9c.
+doi:10.1007/978-981-16-7993-3_7, cited by: 0.
+[135] M. H. Karaata, E. Alrashed, M. Allaho, Self-stabilizing c-wave
+algorithms for arbitrary networks, Computing 105 (2023) 53 â˘A¸S
+A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 19 of 23
+A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
+88. URL: https://www.scopus.com/inward/record.uri?eid=
+2-s2.0-85136821893&doi=10.1007%2fs00607-022-01110-4&
+partnerID=40&md5=3de2edb349ae17011afa137053bb8561.
+doi:10.1007/s00607-022-01110-4, cited by: 0.
+[136] Y. I. Alzoubi, A. Mishra, Techniques to alleviate blockchain
+bloat: Potentials, challenges, and recommendations, Computers
+and Electrical Engineering 116 (2024). URL: https://www.
+scopus.com/inward/record.uri?eid=2-s2.0-85189028067&
+doi=10.1016%2fj.compeleceng.2024.109216&partnerID=
+40&md5=173c15c1385378df166233629a6c03b9.
+doi:10.1016/j.compeleceng.2024.109216, cited by: 0; All
+Open Access, Hybrid Gold Open Access.
+[137] A. Al-Mamun, D. Zhao, Echain: Securing electronic
+device provenance through privacy-preserving consortium
+blockchains, 2023, pp. 77 – 83. URL: https://www.scopus.
+com/inward/record.uri?eid=2-s2.0-85169292299&doi=
+10.1109%2fDSN-S58398.2023.00028&partnerID=40&
+md5=48c0164409ffee79910950b8c55b2400. doi:10.1109/
+DSN-S58398.2023.00028, cited by: 0.
+[138] A. Altarawneh, F. Sun, R. R. Brooks, O. Hambolu,
+L. Yu, A. Skjellum, Availability analysis of a
+permissioned blockchain with a lightweight consensus
+protocol, Computers and Security 102 (2021). URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85099013357&doi=10.1016%2fj.cose.2020.102098&
+partnerID=40&md5=f91489a47625855525629c510472015c.
+doi:10.1016/j.cose.2020.102098, cited by: 16; All Open Access,
+Bronze Open Access.
+[139] R. Agrawal, S. Dorle, C. Dhule, U. Agrawal, Effective
+network communication based on blockchain based trusted
+networks, 2021, pp. 646 – 651. URL: https://www.scopus.
+com/inward/record.uri?eid=2-s2.0-85113570172&doi=
+10.1109%2fICOEI51242.2021.9452989&partnerID=40&
+md5=65d5feeda9dc7b2e72bf11d0cc661699. doi:10.1109/
+ICOEI51242.2021.9452989, cited by: 13.
+[140] A. J. Al-Musharaf, S. M. Al-Alak, H. M. Al-Mashhadi,
+Improving blockchain consensus mechanism via network
+clusters, 2021, pp. 293 – 298. URL: https://www.scopus.
+com/inward/record.uri?eid=2-s2.0-85124877104&doi=
+10.1109%2fBICITS51482.2021.9509882&partnerID=
+40&md5=da3f5a4b303d47849abc37b028a46299.
+doi:10.1109/BICITS51482.2021.9509882, cited by: 4.
+[141] O. Alpos, C. Cachin, G. A. Marson, L. Zanolini, On
+the synchronization power of token smart contracts,
+volume 2021-July, 2021, pp. 640 – 651. URL: https:
+//www.scopus.com/inward/record.uri?eid=2-s2.
+0-85117139456&doi=10.1109%2fICDCS51616.2021.00067&
+partnerID=40&md5=3677299f041c9ab892b4ea43ed56726f.
+doi:10.1109/ICDCS51616.2021.00067, cited by: 4; All Open
+Access, Green Open Access.
+[142] S. Ahmad, A. K. Bharti, Blockchain scalability enhancement
+using parallel miners selection, International Journal of Innovative
+Technology and Exploring Engineering 8 (2019) 4356 – 4360. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85073929864&doi=10.35940%2fijitee.L3869.1081219&
+partnerID=40&md5=2055993d697b1cc122a16fe08829cce7.
+doi:10.35940/ijitee.L3869.1081219, cited by: 0; All Open
+Access, Bronze Open Access.
 [143] N. Han, X. Li, G. Wang, Z. Shi, Y. Guan, Formal verification of
 atomicity requirements for smart contracts, in: B. C. d. S. Oliveira
 (Ed.), Programming Languages and Systems, Springer International
 Publishing, Cham, 2020, pp. 44–64.
-[144] J. Zhang, W. Chen, S. Luo, T. Gong, Z. Hong, A. Kate, Front-
-running attack in sharded blockchains and fair cross-shard consen-
-sus, NDSS, 2024.
+[144] J. Zhang, W. Chen, S. Luo, T. Gong, Z. Hong, A. Kate, Frontrunning
+attack in sharded blockchains and fair cross-shard consensus,
+NDSS, 2024.
 [145] E. Ebrahimi, E. Khamespanah, M. Sirjani, S. Mohammadi, Model
 checking of hyperledger fabric smart contracts, in: 2023 IEEE 28th
 International Conference on Emerging Technologies and Factory
 Automation (ETFA), 2023, pp. 1–8. doi:10.1109/ETFA54631.
 2023.10275704.
-[146] Y. Li, Finding concurrency exploits on smart contracts, in: 2019
-IEEE/ACM 41st International Conference on Software Engineering:
-Companion Proceedings (ICSE-Companion), 2019, pp. 144–146.
-doi:10.1109/ICSE-Companion.2019.00061.
-[147] K. Bansal, E. Koskinen, O. Tripp, Automatic generation of precise
+[146] K. Bansal, E. Koskinen, O. Tripp, Automatic generation of precise
 and useful commutativity conditions, in: D. Beyer, M. Huisman
 (Eds.), Tools and Algorithms for the Construction and Analysis of
 Systems, Springer International Publishing, Cham, 2018, pp. 115–
 132.
-[148] X. Sun, X. Zhang, Z. Xia, E. Bertino, Artificial Intelligence and Se-
-curity: 8th International Conference, ICAIS 2022, Qinghai, China,
+[147] X. Sun, X. Zhang, Z. Xia, E. Bertino, Artificial Intelligence and Security:
+8th International Conference, ICAIS 2022, Qinghai, China,
 July 15–20, 2022, Proceedings, Part III, volume 13340, Springer
 Nature, 2022.
-[149] R. Longo, A. S. Podda, R. Saia, Analysis of a consensus protocol for
-extending consistent subchains on the bitcoin blockchain, Computa-
-tion 8 (2020). URL: https://www.mdpi.com/2079-3197/8/3/
+[148] R. Longo, A. S. Podda, R. Saia, Analysis of a consensus protocol for
+extending consistent subchains on the bitcoin blockchain, Computation
+8 (2020). URL: https://www.mdpi.com/2079-3197/8/3/
 67. doi:10.3390/computation8030067.
-[150] X. Wang, J. He, Z. Xie, G. Zhao, S.-C. Cheung, Contractguard:
-Defend ethereum smart contracts with embedded intrusion detec-
-tion, IEEE Transactions on Services Computing 13 (2020) 314–328.
+[149] X. Wang, J. He, Z. Xie, G. Zhao, S.-C. Cheung, Contractguard:
+Defend ethereum smart contracts with embedded intrusion detection,
+IEEE Transactions on Services Computing 13 (2020) 314–328.
 doi:10.1109/TSC.2019.2949561.
-[151] A. Miller, Z. Cai, S. Jha, Smart contracts and opportunities for
-formal methods, in: T. Margaria, B. Steffen (Eds.), Leveraging Ap-
-plications of Formal Methods, Verification and Validation. Industrial
+[150] A. Miller, Z. Cai, S. Jha, Smart contracts and opportunities for
+formal methods, in: T. Margaria, B. Steffen (Eds.), Leveraging Applications
+of Formal Methods, Verification and Validation. Industrial
 Practice, Springer International Publishing, Cham, 2018, pp. 280–
 299.
-Atefeh Zareh Chahoki is a Ph.D. student in
-the Department of Information Engineering and
-Computer Science of the University of Trento,
-Italy, working on the formal verification of smart
-contracts. Her principal research interests include
-security and blockchain. In addition, she has in-
-dustrial experience in enterprise software develop-
-ment and software project management.
-Maurice Herlihy has an A.B. in Mathematics
-from Harvard University, and a Ph.D. in Computer
-Science from M.I.T. He has served on the faculty
-of Carnegie Mellon University and the staff of
-DEC Cambridge Research Lab. He is the recipient
-of the 2003 Dijkstra Prize in Distributed Comput-
-ing, the 2004 GÃ ̋udel Prize in theoretical computer
-science, the 2008 ISCA influential paper award,
-the 2012 Edsger W. Dijkstra Prize, and the 2013
-Wallace McDowell award. He received a 2012
-Fulbright Distinguished Chair in the Natural Sci-
-ences and Engineering Lecturing Fellowship, and
-he is fellow of the ACM, the National Academy of
-Inventors, the National Academy of Engineering,
-and the National Academy of Arts and Sciences.
-In 2022, he won his third Dijkstra Prize.
-Marco Roveri is an Associate Professor in the
-Department of Information Engineering and Com-
-puter Science at the University of Trento, Italy. He
-
+[151] J. Kan, S. Chen, X. Huang, Improve blockchain performance
+using graph data structure and parallel mining, 2019,
+p. 173 â˘A¸S 178. URL: https://www.scopus.com/
+inward/record.uri?eid=2-s2.0-85062007815&doi=10.
+1109%2fHOTICN.2018.8606020&partnerID=40&md5=
+fb3b5974c5fa77e56d2d7fe0406e2698. doi:10.1109/HOTICN.
+2018.8606020, cited by: 25; All Open Access, Green Open Access.
+[152] M. Bartoletti, L. Galletta, M. Murgia, A true concurrent
+model of smart contracts executions, Lecture Notes
+in Computer Science (including subseries Lecture
+Notes in Artificial Intelligence and Lecture Notes in
+Bioinformatics) 12134 LNCS (2020) 243 â˘A ¸S 260. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85087041299&doi=10.1007%2f978-3-030-50029-0_16&
+partnerID=40&md5=4c70e1dc743d2cee0f7eb32a8d6d2d45.
+doi:10.1007/978-3-030-50029-0_16, cited by: 23; All Open
+Access, Bronze Open Access.
+[153] M. Fang, Z. Zhang, C. Jin, A. Zhou, High-performance smart
+contracts concurrent execution for permissioned blockchain
+using sgx, volume 2021-April, 2021, p. 1907 â˘A ¸S 1912. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85112866563&doi=10.1109%2fICDE51399.2021.00175&
+partnerID=40&md5=2e437b44353fee6fbe7a74db68a0b9dc.
+doi:10.1109/ICDE51399.2021.00175, cited by: 17.
+[154] C. Jin, S. Pang, X. Qi, Z. Zhang, A. Zhou, A high
+performance concurrency protocol for smart contracts of
+permissioned blockchain, IEEE Transactions on Knowledge
+and Data Engineering 34 (2022) 5070 â˘A ¸S 5083. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85100945900&doi=10.1109%2fTKDE.2021.3059959&
+partnerID=40&md5=1523f497f423c3401d8a2ea12681d4d3.
+doi:10.1109/TKDE.2021.3059959, cited by: 17.
+[155] W. Tong, X. Dong, Y. Shen, Y. Zhang, X. Jiang, W. Tian,
+Chchain: Secure and parallel crowdsourcing driven by
+hybrid blockchain, Future Generation Computer Systems
+131 (2022) 279 â˘A ¸S 291. URL: https://www.scopus.
+com/inward/record.uri?eid=2-s2.0-85124601097&
+doi=10.1016%2fj.future.2022.01.023&partnerID=
+40&md5=bc35bd269877d279be7b529fe1edd62b.
+doi:10.1016/j.future.2022.01.023, cited by: 14.
+[156] Z. Chen, H. Zhuo, Q. Xu, X. Qi, C. Zhu, Z. Zhang,
+C. Jin, A. Zhou, Y. Yan, H. Zhang, Schain: A scalable
+consortium blockchain exploiting intra-and inter-block
+concurrency, Proceedings of the VLDB Endowment 14
+A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 20 of 23
+A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
+(2021) 2799 â˘A ¸S 2802. URL: https://www.scopus.
+com/inward/record.uri?eid=2-s2.0-85119975252&doi=
+10.14778%2f3476311.3476348&partnerID=40&md5=
+a099d15404b9d3b9d34d370b9e40a2e6. doi:10.14778/
+3476311.3476348, cited by: 12.
+[157] L. Xu, W. Chen, Z. Li, J. Xu, A. Liu, L. Zhao, Solutions
+for concurrency conflict problem on hyperledger fabric,
+World Wide Web 24 (2021) 463 â˘A ¸S 482. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85096012254&doi=10.1007%2fs11280-020-00851-6&
+partnerID=40&md5=4de9d0c665cf94813ef78c580fe64513.
+doi:10.1007/s11280-020-00851-6, cited by: 13.
+[158] W. Yu, K. Luo, Y. Ding, G. You, K. Hu, A parallel
+smart contract model, 2018, p. 72 â˘A¸S 77. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85059912509&doi=10.1145%2f3278312.3278321&
+partnerID=40&md5=625f2a9a2533111d8b4c8c05b9fb2ccc.
+doi:10.1145/3278312.3278321, cited by: 13.
+[159] N.-Y. Lee, Hierarchical multi-blockchain system for
+parallel computation in cryptocurrency transfers and smart
+contracts, Applied Sciences (Switzerland) 11 (2021).
+URL: https://www.scopus.com/inward/record.uri?eid=
+2-s2.0-85118191442&doi=10.3390%2fapp112110173&
+partnerID=40&md5=1714bfa8d9f6b684b13fc99193365f3b.
+doi:10.3390/app112110173, cited by: 7; All Open Access, Gold
+Open Access.
+[160] H. Wu, H. Liu, J. Li, Fabricetp: A high-throughput
+blockchain optimization solution for resolving concurrent
+conflicting transactions, Peer-to-Peer Networking and
+Applications 16 (2023) 858 â˘A¸S 875. URL: https:
+//www.scopus.com/inward/record.uri?eid=2-s2.
+0-85146761793&doi=10.1007%2fs12083-022-01401-9&
+partnerID=40&md5=6f00e17faafddfb1a0848afc5508360a.
+doi:10.1007/s12083-022-01401-9, cited by: 3.
+[161] H. Meir, A. Barger, Y. Manevich, Increasing concurrency
+in hyperledger fabric, 2019, p. 179. URL: https:
+//www.scopus.com/inward/record.uri?eid=2-s2.
+0-85067115507&doi=10.1145%2f3319647.3325841&
+partnerID=40&md5=fa29320851c857c2ffecebc7e1c4f9f9.
+doi:10.1145/3319647.3325841, cited by: 3.
+[162] K. K. C. Martinez, Blockchain scalability solved via
+quintessential parallel multiprocessor, 2023, p. 1626
+â˘A ¸S 1631. URL: https://www.scopus.com/inward/
+record.uri?eid=2-s2.0-85167678934&doi=10.1109%
+2fIWCMC58020.2023.10183268&partnerID=40&md5=
+00b11a6a990f22000b63188a6ddb9b6e. doi:10.1109/
+IWCMC58020.2023.10183268, cited by: 2.
+[163] X. Qi, J. Jiao, Y. Li, Smart contract parallel execution with
+fine-grained state accesses, volume 2023-July, 2023, p.
+841 â˘A ¸S 852. URL: https://www.scopus.com/inward/
+record.uri?eid=2-s2.0-85175059790&doi=10.1109%
+2fICDCS57875.2023.00068&partnerID=40&md5=
+c74219691dd41cfbac13e5a60852d195. doi:10.1109/
+ICDCS57875.2023.00068, cited by: 2.
+[164] L. Xu, W. Chen, Z. Li, J. Xu, A. Liu, L. Zhao, Locking
+mechanism for concurrency conflicts on hyperledger fabric,
+Lecture Notes in Computer Science (including subseries
+Lecture Notes in Artificial Intelligence and Lecture Notes
+in Bioinformatics) 11881 LNCS (2019) 32 â˘A ¸S 47. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85076949108&doi=10.1007%2f978-3-030-34223-4_3&
+partnerID=40&md5=63e0ad278b8e6e86fede4b2b0f8d73d9.
+doi:10.1007/978-3-030-34223-4_3, cited by: 10.
+[165] Z. Chen, X. Qi, X. Du, Z. Zhang, C. Jin, Peep: A parallel
+execution engine for permissioned blockchain systems,
+Lecture Notes in Computer Science (including subseries
+Lecture Notes in Artificial Intelligence and Lecture Notes
+in Bioinformatics) 12683 LNCS (2021) 341 â˘A ¸S 357. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85104729721&doi=10.1007%2f978-3-030-73200-4_24&
+partnerID=40&md5=7332de3d51e379fb9ab4f000af20d60d.
+doi:10.1007/978-3-030-73200-4_24, cited by: 8.
+[166] M. Van Meerten, B. K. Ozkan, A. Panichella, Evolutionary
+approach for concurrency testing of ripple blockchain consensus
+algorithm, 2023, p. 36 â˘A ¸S 47. URL: https://www.scopus.
+com/inward/record.uri?eid=2-s2.0-85153716652&doi=
+10.1109%2fICSE-SEIP58684.2023.00009&partnerID=40&
+md5=9e954162c6e3928a7194a1bdfcf49d98. doi:10.1109/
+ICSE-SEIP58684.2023.00009, cited by: 2.
+[167] Q. Sun, Y. Yuan, Gbcl: Reduce concurrency conflicts
+in hyperledger fabric, volume 2022-October, 2022, p.
+15 â˘A ¸S 19. URL: https://www.scopus.com/inward/
+record.uri?eid=2-s2.0-85141934572&doi=10.1109%
+2fICSESS54813.2022.9930267&partnerID=40&md5=
+44a39e36944744d2f23af969800e64e8. doi:10.1109/
+ICSESS54813.2022.9930267, cited by: 2.
+[168] M. Thilagavathi, D. Lopez, Enhancing blockchain performance
+using parallel merkle root and parallel proof of work,
+Journal of Advanced Research in Dynamical and Control
+Systems 12 (2020) 609 â˘A ¸S 620. URL: https://www.
+scopus.com/inward/record.uri?eid=2-s2.0-85079445614&
+doi=10.5373%2fJARDCS%2fV12SP1%2f20201110&
+partnerID=40&md5=f86be37cfe87692aafee9a6bab9a55d4.
+doi:10.5373/JARDCS/V12SP1/20201110, cited by: 2.
+[169] Z. Xu, D. Liao, X. Dong, H. Han, Z. Yan, K. Ye, Lmqf:
+Hyperledger fabric concurrent transaction conflict solution
+based on distributed lock and message queue, 2023,
+p. 1855 â˘A ¸S 1860. URL: https://www.scopus.com/
+inward/record.uri?eid=2-s2.0-85164687843&doi=10.
+1109%2fCSCWD57460.2023.10152665&partnerID=40&
+md5=c82ff75a546c5f3877e75dec1641f530. doi:10.1109/
+CSCWD57460.2023.10152665, cited by: 1.
+[170] M. Chung, C. Park, Parallel execution of solidity smart
+contract using append-only shared log, volume 2022-
+October, 2022, p. 1722 â˘A ¸S 1725. URL: https://www.
+scopus.com/inward/record.uri?eid=2-s2.0-85143253498&
+doi=10.1109%2fICTC55196.2022.9952656&partnerID=
+40&md5=b855b73840f266d7e87bf94472d22017.
+doi:10.1109/ICTC55196.2022.9952656, cited by: 1.
+[171] J. Shi, C. Li, H. Wu, H. Gao, S. Jin, T. Huang, W. Zhang,
+Evaluating the parallel execution schemes of smart contract
+transactions in different blockchains: An empirical study, Lecture
+Notes in Computer Science (including subseries Lecture Notes
+in Artificial Intelligence and Lecture Notes in Bioinformatics)
+13157 LNCS (2022) 35 â˘A ¸S 51. URL: https://www.
+scopus.com/inward/record.uri?eid=2-s2.0-85126183314&
+doi=10.1007%2f978-3-030-95391-1_3&partnerID=
+40&md5=5175805974c6dad4b577a5b96909412a.
+doi:10.1007/978-3-030-95391-1_3, cited by: 1.
+[172] R. Bhatangar, V. B. Lobo, Multihop concurrent big data
+sharing via multithreading using blockchain on a decentralized
+network, 2020, p. 885 â˘A ¸S 890. URL: https://www.
+scopus.com/inward/record.uri?eid=2-s2.0-85102580186&
+doi=10.1109%2fICACCCN51052.2020.9362977&
+partnerID=40&md5=1c12867f6edd353cfc9acd59552ffd9b.
+doi:10.1109/ICACCCN51052.2020.9362977, cited by: 1.
+[173] J. Li, L. Chen, A concurrent weighted communication
+scheme for blockchain transaction, 2020, p. 177
+â˘A ¸S 182. URL: https://www.scopus.com/inward/
+record.uri?eid=2-s2.0-85091487178&doi=10.1109%
+2fINFOCOMWKSHPS50562.2020.9162673&partnerID=
+40&md5=6da1f8111c17b44654626cb31e5b0e58.
+doi:10.1109/INFOCOMWKSHPS50562.2020.9162673,
+cited by: 1.
+[174] L. Zhang, B. Lu, T. Zhao, H. Wang, A novel decentralized
+blockchain networks model with high concurrenc(blockchain
+A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 21 of 23
+A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
+networks model with high concurrency), 2019, p. 800
+â˘A ¸S 804. URL: https://www.scopus.com/inward/
+record.uri?eid=2-s2.0-85091525233&doi=10.1109%
+2fISKE47853.2019.9170359&partnerID=40&md5=
+b538538475e6ae93680d09c960c9018a. doi:10.1109/
+ISKE47853.2019.9170359, cited by: 1.
+[175] M. dePaul, H. Korth, R. Palmeiri, Poster: Octopus:
+Semantic-aware concurrency control for blockchain
+transactions, 2024, p. 463 â˘A ¸S 465. URL: https:
+//www.scopus.com/inward/record.uri?eid=2-s2.
+0-85187197487&doi=10.1145%2f3627535.3638494&
+partnerID=40&md5=13dff9db99583481b7143ff8798bb3d4.
+doi:10.1145/3627535.3638494, cited by: 0.
+[176] Y. Fang, Z. Zhou, S. Dai, J. Yang, H. Zhang, Y. Lu,
+Pavm: A parallel virtual machine for smart contract
+execution and validation, IEEE Transactions on Parallel
+and Distributed Systems 35 (2024) 186 â˘A¸S 202. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85177996632&doi=10.1109%2fTPDS.2023.3334208&
+partnerID=40&md5=ec0a94c6a3ef916d1c5ff34ee1e5e5ac.
+doi:10.1109/TPDS.2023.3334208, cited by: 0.
+[177] K. P. Dubey, C. Gnanaprakasam, I. R. Khan, M. S. Sadik, L. H.
+Al-Farhani, S. Ray, Parallel byzantine fault tolerance method for
+blockchain, volume 1, 2024, p. 605 â˘A ¸S 612. URL: https://www.
+scopus.com/inward/record.uri?eid=2-s2.0-85186680667&
+doi=10.1201%2f9781003393580-92&partnerID=
+40&md5=9b42da93db18d3ed88baa5e96701d11a.
+doi:10.1201/9781003393580-92, cited by: 0.
+[178] H. Ma, P. Shi, X. Fu, G. Yi, Key-based transaction reordering: An
+optimized approach forÂ˘aconcurrency control inÂ˘ahyperledger
+fabric, Lecture Notes in Computer Science (including subseries
+Lecture Notes in Artificial Intelligence and Lecture Notes
+in Bioinformatics) 14493 LNCS (2024) 272 â˘A ¸S 291. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85187774765&doi=10.1007%2f978-981-97-0862-8_17&
+partnerID=40&md5=cd1f8ccfab4e74c344af38b29b901103.
+doi:10.1007/978-981-97-0862-8_17, cited by: 0.
+[179] K. Wang, G. Feng, Z. Ji, Z. Tu, S. He, Sp-por: Improve
+blockchain performance by semi-parallel processing
+transactions, Computer Networks 245 (2024). URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85189752750&doi=10.1016%2fj.comnet.2024.110394&
+partnerID=40&md5=7b96d19c3e9e524a3b2d38e54fd79f7f.
+doi:10.1016/j.comnet.2024.110394, cited by: 0.
+[180] D. Xian, X. Wei, Sc-chef: Turboboosting smart contract concurrent
+execution for high contention workloads via chopping transactions,
+IEEE Transactions on Reliability 73 (2024) 216 â˘A ¸S 229.
+URL: https://www.scopus.com/inward/record.uri?eid=
+2-s2.0-85165933878&doi=10.1109%2fTR.2023.3296278&
+partnerID=40&md5=651aee1ac06ae394fcdc4ad59fa41fc1.
+doi:10.1109/TR.2023.3296278, cited by: 0.
+[181] V. Capocasale, F. Pedone, G. Perboli, Parallel transaction
+execution in blockchain and the ambiguous state
+representation problem, 2024, p. 131 â˘A ¸S 138. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85194858521&doi=10.1109%2fEDCC61798.2024.00035&
+partnerID=40&md5=8fcc33b8bcdbacc2ec38969415385d06.
+doi:10.1109/EDCC61798.2024.00035, cited by: 0.
+[182] W. Yang, M. Ao, J. Sun, G. Wang, Y. Li, C. Li, Z. Shao, Adaptive
+parallel scheduling scheme for smart contract, Mathematics 12
+(2024). URL: https://www.scopus.com/inward/record.uri?
+eid=2-s2.0-85192768009&doi=10.3390%2fmath12091347&
+partnerID=40&md5=ccf1c365f7ec279a90f26997b2bdf7a6.
+doi:10.3390/math12091347, cited by: 0.
+[183] Y. Deng, M. Li, H. Zhang, D. Huo, Y. Zhang, S. Yun, Y. Wang,
+Z. Xu, Building efficient parallel endorsement node on
+blockchain systems, 2023, p. 941 â˘A ¸S 946. URL: https://www.
+scopus.com/inward/record.uri?eid=2-s2.0-85164708669&
+doi=10.1109%2fCSCWD57460.2023.10152732&
+partnerID=40&md5=5345f64e0611064b615a265bba8ec321.
+doi:10.1109/CSCWD57460.2023.10152732, cited by: 0.
+[184] Z. Luo, C. Chen, W. Qiu, Highway: A super pipelined
+parallel bft consensus algorithm forÂ˘apermissioned blockchain,
+Lecture Notes in Computer Science (including subseries
+Lecture Notes in Artificial Intelligence and Lecture Notes
+in Bioinformatics) 13656 LNCS (2023) 31 â˘A ¸S 38. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85148684423&doi=10.1007%2f978-3-031-20099-1_3&
+partnerID=40&md5=86e803d50f141c5ed55296c5dbeebe25.
+doi:10.1007/978-3-031-20099-1_3, cited by: 0.
+[185] M. Piduguralla, S. Chakraborty, P. S. Anjana, S. Peri, Dag-based
+efficient parallel scheduler for blockchains: Hyperledger sawtooth
+as a case study, Lecture Notes in Computer Science (including
+subseries Lecture Notes in Artificial Intelligence and Lecture
+Notes in Bioinformatics) 14100 LNCS (2023) 184 â˘A ¸S 198. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85171582845&doi=10.1007%2f978-3-031-39698-4_13&
+partnerID=40&md5=ffc244a7fab78042dfe584fc0f9d18d4.
+doi:10.1007/978-3-031-39698-4_13, cited by: 0.
+[186] X. Qi, Z. Chen, H. Zhuo, Q. Xu, C. Zhu, Z. Zhang,
+C. Jin, A. Zhou, Y. Yan, H. Zhang, Schain: Scalable
+concurrency over flexible permissioned blockchain,
+volume 2023-April, 2023, p. 1901 â˘A ¸S 1913. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85167675345&doi=10.1109%2fICDE55515.2023.00148&
+partnerID=40&md5=b90f83e7b88885fd673a4bc384681423.
+doi:10.1109/ICDE55515.2023.00148, cited by: 0.
+[187] H. Xia, J. Chen, N. Ma, J. Huang, X. Du, Efficient execution of
+blockchain transactions through deterministic concurrency control,
+Lecture Notes in Computer Science (including subseries Lecture
+Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+13943 LNCS (2023) 509 â˘A ¸S 518. URL: https://www.
+scopus.com/inward/record.uri?eid=2-s2.0-85161654879&
+doi=10.1007%2f978-3-031-30637-2_33&partnerID=
+40&md5=7d0d01cd2a6bb0d750eaa00ae34bc744.
+doi:10.1007/978-3-031-30637-2_33, cited by: 1.
+[188] H. Zhang, J. Li, H. Zhao, T. Zhou, N. Sheng, H. Pan,
+Blockpilot: A proposer-validator parallel execution
+framework for blockchain, 2023, p. 193 â˘A ¸S 202. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85179893690&doi=10.1145%2f3605573.3605621&
+partnerID=40&md5=94755a3192e611cf908ec78200e80d01.
+doi:10.1145/3605573.3605621, cited by: 0.
+[189] J. Ding, Q. Hu, C. Lin, M. Shi, H. Cheng, Bppv-chain: A
+sharding blockchain system with output shard batch processing
+and parallel transaction verification, 2023, p. 8 â˘A ¸S 14.
+URL: https://www.scopus.com/inward/record.uri?eid=
+2-s2.0-85193523319&doi=10.1145%2f3638025.3638029&
+partnerID=40&md5=c439b81e11211ce31ac801b60709bfe2.
+doi:10.1145/3638025.3638029, cited by: 0.
+[190] M. Leshkowitz, O. Benattasse, O. Wertheim, O. Rottenstreich,
+Scalable blockchain execution via parallel block
+validation, Annales des Telecommunications/Annals
+of Telecommunications 77 (2022) 61 â˘A ¸S 76. URL:
+https://www.scopus.com/inward/record.uri?eid=2-s2.
+0-85107633907&doi=10.1007%2fs12243-021-00857-9&
+partnerID=40&md5=b17c1da5a245cf6b73899b7c08affb93.
+doi:10.1007/s12243-021-00857-9, cited by: 0.
+[191] T. Xu, Y. Zhang, A parallel execution model for
+permissioned blockchain systems, 2022, p. 83 â˘A ¸S 87.
+URL: https://www.scopus.com/inward/record.uri?eid=
+2-s2.0-85153355772&doi=10.1145%2f3581971.3581983&
+partnerID=40&md5=a913ad1fce86d02abfb472cae9ae5958.
+doi:10.1145/3581971.3581983, cited by: 0.
+[192] Z. Painter, P. K. Gayam, V. Cook, D. Dechev, Parallel hash-mark-set
+on the ethereum blockchain, 2020. URL: https://www.scopus.
+A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 22 of 23
+A Survey on Concurrency in Smart Contracts and Unveiling a Misconception
+com/inward/record.uri?eid=2-s2.0-85091486372&doi=10.
+1109%2fICBC48266.2020.9169415&partnerID=40&md5=
+efcecc8dce3438f6339afe658fa067ec. doi:10.1109/ICBC48266.
+2020.9169415, cited by: 0.
+A. Zareh, M. Herlihy, M. Roveri: Preprint submitted to Elsevier Page 23 of 23

@@ -1,0 +1,22 @@
+1425	A concurrent perspective on smart contracts
+85	An Efficient Framework for Optimistic Concurrent Execution of Smart Contracts
+365	Adding concurrency to smart contracts
+89	From Blockchain to Internet-Based Voting
+58	Availability analysis of a permissioned blockchain with a lightweight consensus protocol
+61	Effective Network Communication Based on Blockchain Based Trusted Networks
+122	DiPETrans: A framework for distributed parallel execution of transactions of blocks in blockchains
+63	Efficient Concurrent Execution of Smart Contracts in Blockchains Using Object-Based Transactional Memory
+106	Fair and trustworthy: Lock-free enhanced tendermint blockchain algorithm
+69	Improving Blockchain Consensus Mechanism via Network Clusters
+72	On the synchronization power of token smart contracts
+66	Efficient parallel execution of block transactions in blockchain
+124	On Parallel Mechanism of Consortium Blockchain: Take PoV as an example
+87	Entitling concurrency to smart contracts using optimistic transactional memory
+1521	Simulation of Front-Running Attacks and Privacy Mitigations in Ethereum Blockchain
+13	OptSmart: a space efficient Optimistic concurrent execution of Smart contracts
+19	Techniques to alleviate blockchain bloat: Potentials, challenges, and recommendations
+21	ECHAIN: Securing Electronic Device Provenance through Privacy-Preserving Consortium Blockchains
+86	Blockchain scalability enhancement using parallel miners selection
+1049	TransRacer: Function Dependence-Guided Transaction Race Detection for Smart Contracts
+661	BDLedger: A Scalable Distributed Ledger for Large-Scale Data Recording
+749	Self-stabilizing c-wave algorithms for arbitrary networks

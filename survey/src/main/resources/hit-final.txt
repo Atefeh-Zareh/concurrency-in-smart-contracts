@@ -1,0 +1,159 @@
+810		OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding
+1919		RapidChain: Scaling blockchain via full sharding
+76		SharPer: Sharding Permissioned Blockchains over Network Clusters
+641		Pyramid: A layered sharding blockchain system
+613		A parallel proof of work to improve transaction speed and scalability in blockchain systems
+253		SSChain: A full sharding protocol for public blockchain without data migration overhead
+1425		A concurrent perspective on smart contracts
+88		ParBlockchain: Leveraging transaction parallelism in permissioned blockchain systems
+1821		Slimchain: Scaling blockchain transactions through off-chain storage and parallel processing
+85		An Efficient Framework for Optimistic Concurrent Execution of Smart Contracts
+1085		A Game-Theoretic Analysis of Shard-Based Permissionless Blockchains
+1568		On sharding open blockchains with smart contracts
+614		Improving transaction speed and scalability of blockchain systems via parallel proof of work
+1913		Trust-Based Shard Distribution Scheme for Fault-Tolerant Shard Blockchain Networks
+1940		SkyChain: A Deep Reinforcement Learning-Empowered Dynamic Blockchain Sharding System
+365		Adding concurrency to smart contracts
+1787		ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts
+1895		The Blockchain for Domain Based Static Sharding
+744		Improve Blockchain Performance using Graph Data Structure and Parallel Mining
+2006		Aeolus: Distributed Execution of Permissioned Blockchain Transactions via State Sharding
+1262		Practical smart contract sharding with ownership and commutativity analysis
+146		A true concurrent model of smart contracts executions
+1926		Enabling concurrency on smart contracts using multiversion ordering
+1948		CycLedger: A Scalable and Secure Parallel Protocol for Distributed Ledger via Sharding
+447		High-performance smart contracts concurrent execution for permissioned blockchain using SGX
+793		Two-phase cooperative bargaining game approach for shard-based blockchain consensus scheme
+58		Availability analysis of a permissioned blockchain with a lightweight consensus protocol
+214		Benzene: Scaling Blockchain With Cooperation-Based Sharding
+726		A High Performance Concurrency Protocol for Smart Contracts of Permissioned Blockchain
+1007		Cross-shard Transaction Processing in Sharding Blockchains
+1810		Resource-Efficient DAG Blockchain with Sharding for 6G Networks
+61		Effective Network Communication Based on Blockchain Based Trusted Networks
+1596		CHChain: Secure and parallel crowdsourcing driven by hybrid blockchain
+1005		FleetChain: A Secure Scalable and Responsive Blockchain Achieving Optimal Sharding
+1768		GARET: improving throughput using gas consumption-aware relocation in Ethereum sharding environments
+975		Parallel and Asynchronous Smart Contract Execution
+284		Schain: A scalable consortium blockchain exploiting intra-and inter-block concurrency
+1830		Solutions for concurrency conflict problem on Hyperledger Fabric
+1907		A parallel smart contract model
+510		Scalable blockchain protocol based on proof of stake and sharding
+1299		Formal verification of smart contracts from the perspective of concurrency
+1664		RepShard: Reputation-based Sharding Scheme Achieves Linearly Scaling Efficiency and Security Simultaneously
+1829		Locking Mechanism for Concurrency Conflicts on Hyperledger Fabric
+795		Gas consumption-aware dynamic load balancing in ethereum sharding environments
+122		DiPETrans: A framework for distributed parallel execution of transactions of blocks in blockchains
+1011		A Flexible Sharding Blockchain Protocol Based on Cross-Shard Byzantine Fault Tolerance
+662		MVCom: Scheduling most valuable committees for the large-scale sharded blockchain
+282		PEEP: A Parallel Execution Engine for Permissioned Blockchain Systems
+911		Scaling the Blockchain-based Access Control Framework for IoT via Sharding
+106		Fair and trustworthy: Lock-free enhanced tendermint blockchain algorithm
+338		GearBox: Optimal-size Shard Committees by Leveraging the Safety-Liveness Dichotomy
+63		Efficient Concurrent Execution of Smart Contracts in Blockchains Using Object-Based Transactional Memory
+864		Hierarchical multi-blockchain system for parallel computation in cryptocurrency transfers and smart contracts
+1734		Efficient Concurrent Execution of Smart Contracts in Blockchain Sharding
+1622		RCANE: Semi-Centralized Network of Parallel Blockchain and APoS
+1034		Fission: Autonomous, Scalable Sharding for IoT Blockchain
+1686		Building operation and maintenance scheme based on sharding blockchain
+1406		An empirical study of speculative concurrency in ethereum smart contracts
+330		A Concurrent optimization consensus system based on blockchain
+69		Improving Blockchain Consensus Mechanism via Network Clusters
+72		On the synchronization power of token smart contracts
+775		The Discrepancy Attack on Polyshard-ed Blockchains
+1148		Enabling MapReduce based Parallel Computation in Smart Contracts
+927		Finding concurrency exploits on smart contracts
+1685		A two-layer consortium blockchain with transaction privacy protection based on sharding technology
+1774		FabricETP: A high-throughput blockchain optimization solution for resolving concurrent conflicting transactions
+66		Efficient parallel execution of block transactions in blockchain
+124		On Parallel Mechanism of Consortium Blockchain: Take PoV as an example
+1121		Increasing concurrency in hyperledger fabric
+1600		Distributed load-balancing for account-based sharded blockchains
+1781		An efficient sharding consensus algorithm for consortium chains
+1839		A flexible n/2 adversary node resistant and halting recoverable blockchain sharding protocol
+1840		MWPoW+: A Strong Consensus Protocol for Intra-Shard Consensus in Blockchain Sharding
+1098		Blockchain Scalability Solved via Quintessential Parallel Multiprocessor
+1287		Smart Contract Parallel Execution with Fine-Grained State Accesses
+1621		Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm
+1538		GBCL: Reduce Concurrency Conflicts in Hyperledger Fabric
+1585		Enhancing blockchain performance using parallel merkle root and parallel proof of work
+87		Entitling concurrency to smart contracts using optimistic transactional memory
+1331		FlexiShard: A Flexible Sharding Scheme for Blockchain based on a Hybrid Fault Model
+1334		Free2Shard: Adversary-resistant Distributed Resource Allocation for Blockchains
+1536		A Scalable Sharding Protocol Based on Cross-Shard Dynamic Transaction Confirmation for Alliance Chain in Intelligent Systems
+1601		A Consensus-Based Load-Balancing Algorithm for Sharded Blockchains
+1958		FortunChain: EC-VRF-Based Scalable Blockchain System for Realizing State Sharding
+2018		HotDAG: Hybrid Consensus via Sharding in the Permissionless Model
+31		Lockless Blockchain Sharding with Multiversion Control
+663		Scheduling Most Valuable Committees for the Sharded Blockchain
+664		tMPT: Reconfiguration across Blockchain Shards via Trimmed Merkle Patricia Trie
+1243		Komorebi: A DAG-based Asynchronous BFT Consensus via Sharding
+1244		Petrichor: An Efficient Consensus Protocol Leveraging DAG and Sharding for Asynchronous BFT
+1845		LMQF: Hyperledger Fabric Concurrent Transaction Conflict Solution Based on Distributed Lock and Message Queue
+1313		Prioritised Sharding: A Novel Approach to Enhance Blockchain Scalability
+315		Parallel Execution of Solidity Smart Contract using Append-only Shared Log
+1460		Evaluating the Parallel Execution Schemes of Smart Contract Transactions in Different Blockchains: An Empirical Study
+1521		Simulation of Front-Running Attacks and Privacy Mitigations in Ethereum Blockchain
+169		Multihop Concurrent Big Data Sharing via Multithreading using Blockchain on a Decentralized Network
+889		A concurrent weighted communication scheme for blockchain transaction
+1946		A Novel Decentralized Blockchain Networks Model with High Concurrenc(Blockchain Networks Model with High Concurrency)
+1863		Linear Scalability from Sharding and PoS
+1910		Secure and Efficient Federated Learning Through Layering and Sharding Blockchain
+1970		BS-KGS: Blockchain Sharding Empowered Knowledge Graph Storage
+1976		TxAllo: Dynamic Transaction Allocation in Sharded Blockchain Systems
+19		Techniques to alleviate blockchain bloat: Potentials, challenges, and recommendations
+21		ECHAIN: Securing Electronic Device Provenance through Privacy-Preserving Consortium Blockchains
+360		SHARD-FEMF: Adaptive Forensic Evidence Management Framework using Blockchain Sharding and IPFS
+361		Scalable Blockchain Architecture: Leveraging Hybrid Shard Generation and Data Partitioning
+474		Cob: A Consensus Layer Enabling Sustainable Sharding-Based Consensus Protocols
+477		Security Analysis of Blockchain Layer-One Sharding Based Extended-UTxO Model
+564		Scaling Blockchain via a Lightweight Tree-based Sharding System
+643		Prophet: Conflict-Free Sharding Blockchain via Byzantine-Tolerant Deterministic Ordering
+661		BDLedger: A Scalable Distributed Ledger for Large-Scale Data Recording
+749		Self-stabilizing c-wave algorithms for arbitrary networks
+960		CHERUBIM: A Secure and Highly Parallel Cross-Shard Consensus Using Quadruple Pipelined Two-Phase Commit for Sharding Blockchains
+962		Throughput Optimization for Blockchain System with Dynamic Sharding
+1202		A Reputation-Enhanced Shard-Based Byzantine Fault-Tolerant Scheme for Secure Data Sharing in Zero Trust Human Digital Twin Systems
+1300		Intra-Shard and Inter-Shard Collaborative Incentive Scheme for Shard-Based Permissionless Blockchain
+1332		SecurShard: A Model for Hierarchical Fault Detection in Blockchain Sharding
+1343		Student Research Abstract: SplitChain: Blockchain with fully decentralized dynamic sharding resilient to fast adaptive adversaries
+1375		Optimized Communication in Sharded Blockchain Networks
+1426		Service-Aware Dynamic Sharding Approach for Scalable Blockchain
+1454		GT-NRSM: efficient and scalable sharding consensus mechanism for consortium blockchain
+1462		AgileShard: Turning the Sharded Blockchain into a Real-Time Transaction Processing System
+1499		Parallel Committees: High-Performance, Scalable, Secure and Fault-Tolerant Data Replication Using a Novel Sharding Technique
+1502		Analytical Modeling and Throughput Computation of Blockchain Sharding
+13		OptSmart: a space efficient Optimistic concurrent execution of Smart contracts
+1569		On Sharding Across Heterogeneous Blockchains
+354		POSTER: OCToPus: Semantic-aware Concurrency Control for Blockchain Transactions
+411		Parallel Byzantine fault tolerance method for blockchain
+450		PaVM: A Parallel Virtual Machine for Smart Contract Execution and Validation
+1051		Key-Based Transaction Reordering: An Optimized Approach for Concurrency Control in Hyperledger Fabric
+1653		Multi-round Consensus Scheme that Utilizes Statemerge to Reduce the Rollback Probability under State Sharding
+1356		Paramart: Parallel Resource Allocation Based on Blockchain Sharding for Edge-Cloud Services
+1690		SP-PoR: Improve blockchain performance by semi-parallel processing transactions
+1795		SC-Chef: Turboboosting Smart Contract Concurrent Execution for High Contention Workloads via Chopping Transactions
+1975		FRAD: Front-Running Attacks Detection on Ethereum Using Ternary Classification Model
+1776		Committee Selection Based on Game Theory in Sharding Blockchain
+1		Parallel Transaction Execution in Blockchain and the Ambiguous State Representation Problem
+1		Adaptive Parallel Scheduling Scheme for Smart Contract
+251		Parallel Execution of Blockchain Transactions with Sharding
+1826		X-Shard: Optimistic Cross-Shard Transaction Processing for Sharding-Based Blockchains
+350		Building Efficient Parallel Endorsement Node on Blockchain Systems
+909		CoChain: High Concurrency Blockchain Sharding via Consensus on Consensus
+1043		Highway: A Super Pipelined Parallel BFT Consensus Algorithm for Permissioned Blockchain
+1843		TxChain: Scaling Sharded Decentralized Ledger via Chained Transaction Sequences
+1049		TransRacer: Function Dependence-Guided Transaction Race Detection for Smart Contracts
+1864		A State Merge-based Proposer-Builder Separation for Mitigating Maximum Extractable Value Threats in State Sharding
+1258		DAG-Based Efficient Parallel Scheduler for Blockchains: Hyperledger Sawtooth as a Case Study
+1286		SChain: Scalable Concurrency over Flexible Permissioned Blockchain
+1890		Learned Sharding toward Sustainable Communications and Networking in Blockchains
+1562		Relayer-Enabled Sharding Blockchain for Satellite Internet with High Concurrency
+1791		Efficient Execution of Blockchain Transactions Through Deterministic Concurrency Control
+1934		BlockPilot: A Proposer-Validator Parallel Execution Framework for Blockchain
+1		BPPV-Chain: A Sharding Blockchain System with Output Shard Batch Processing and Parallel Transaction Verification
+1986		TBDD: A new trust-based, DRL-driven framework for blockchain sharding in IoT
+2023		Accelerating Cross-Shard Blockchain Consensus via Decentralized Coordinators Service With Verifiable Global States
+872		Scalable blockchain execution via parallel block validation
+1834		A Parallel Execution Model for Permissioned Blockchain Systems
+1214		Parallel Hash-Mark-Set on the Ethereum Blockchain
+86		Blockchain scalability enhancement using parallel miners selection

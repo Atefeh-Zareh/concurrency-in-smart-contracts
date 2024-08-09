@@ -12,5 +12,5 @@ This Java project provides utilities for conducting this survey.
 ## Usage
 
 1. Ensure that the required input files (`papers.txt` and `references.txt`) are placed in the resource folder.
-2. Run the Main.java.
+2. Run the ReferencesComparison.java.
 3. Check the generated `results.rxr` file for the comparison outcome.
